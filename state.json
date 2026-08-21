@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787325844,
+  "board_last_ts": 1787353835,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787320761
+      "last_ts": 1787329489
     },
     "b032819": {
       "last_ts": 1787270346
@@ -21,6 +21,8 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787320509.A.448.html": 2
+    "/bbs/SportLottery/M.1787320509.A.448.html": 6,
+    "/bbs/SportLottery/M.1787320761.A.803.html": 1,
+    "/bbs/SportLottery/M.1787340011.A.0CF.html": 1
   }
 }
