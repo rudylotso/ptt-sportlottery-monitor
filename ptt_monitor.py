@@ -160,13 +160,13 @@ def check_board_comments(config, state, webhook_url, is_first_run):
         prev_href = get_prev_page_href(prev_html)
         pages_fetched += 1
 
+    push_notified = state.setdefault("push_notified", {})
+
     if is_first_run:
         print(f"[init] 板上新文章基準點建立，共 {len(articles)} 篇既有文章")
     else:
-        new_articles = sorted(
-            [a for a in articles if a["ts"] > last_ts], key=lambda a: a["ts"]
-        )
-        for a in new_articles:
+        # 重新掃描目前可見的每一篇文章（不只新文章），避免漏掉「舊文章底下新出現的推文」
+        for a in articles:
             try:
                 article_html = fetch(a["url"])
             except requests.RequestException as e:
@@ -174,6 +174,7 @@ def check_board_comments(config, state, webhook_url, is_first_run):
                 continue
 
             article_soup = BeautifulSoup(article_html, "html.parser")
+            target_pushes = []
             for push in article_soup.select("div.push"):
                 user_tag = push.select_one("span.push-userid")
                 content_tag = push.select_one("span.push-content")
@@ -182,13 +183,26 @@ def check_board_comments(config, state, webhook_url, is_first_run):
                 push_user = user_tag.text.strip()
                 if push_user in target_accounts:
                     content = content_tag.text.lstrip(": ").strip()
-                    msg = (
-                        f"💬 新留言｜{push_user} 在《{a['title']}》推文\n"
-                        f"「{content}」\n{a['url']}"
-                    )
-                    send_discord(webhook_url, msg)
-                    print(f"[notify] {msg}")
+                    target_pushes.append((push_user, content))
+
+            already_notified = push_notified.get(a["href"], 0)
+            for push_user, content in target_pushes[already_notified:]:
+                msg = (
+                    f"💬 新留言｜{push_user} 在《{a['title']}》推文\n"
+                    f"「{content}」\n{a['url']}"
+                )
+                send_discord(webhook_url, msg)
+                print(f"[notify] {msg}")
+
+            if target_pushes:
+                push_notified[a["href"]] = len(target_pushes)
             time.sleep(0.5)  # 避免對 PTT 發太快
+
+        # 文章滑出目前追蹤範圍（首頁+補抓的頁數）後不再需要追蹤推文數，避免 state.json 無限長大
+        current_hrefs = {a["href"] for a in articles}
+        for href in list(push_notified.keys()):
+            if href not in current_hrefs:
+                del push_notified[href]
 
     if articles:
         state["board_last_ts"] = max(a["ts"] for a in articles)
