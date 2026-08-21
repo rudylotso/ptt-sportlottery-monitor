@@ -1,0 +1,8 @@
+{
+  "board": "sportlottery",
+  "active_hours": {
+    "start": "07:30",
+    "end": "23:30"
+  },
+  "new_articles_scan_count": 20
+}
