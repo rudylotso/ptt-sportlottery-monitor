@@ -82,11 +82,13 @@ def parse_article_list(html):
         if not title_tag:
             continue  # 文章被刪除時沒有連結，跳過
         href = title_tag["href"]
+        author_tag = div.select_one("div.author")
         articles.append({
             "title": title_tag.text.strip(),
             "href": href,
             "url": PTT_URL + href,
             "ts": article_timestamp(href),
+            "author": author_tag.text.strip() if author_tag else "",
         })
     return articles
 
@@ -109,6 +111,12 @@ def send_discord(webhook_url, message):
 
 
 def check_account_posts(config, state, webhook_url, is_first_run):
+    # 一般執行時改由 check_board_comments 用即時的看板首頁資料判斷新發文，
+    # 避免 PTT 作者搜尋頁（search?q=author:）索引更新延遲導致通知變慢。
+    # 這裡只在第一次建立基準點時使用，抓每個帳號過去的發文記錄。
+    if not is_first_run:
+        return
+
     board = config["board"]
     for account in config["accounts"]:
         state["accounts"].setdefault(account, {"last_ts": 0})
@@ -120,18 +128,7 @@ def check_account_posts(config, state, webhook_url, is_first_run):
             continue
 
         articles = parse_article_list(html)
-        last_ts = state["accounts"][account]["last_ts"]
-
-        if is_first_run:
-            print(f"[init] {account} 發文基準點建立，共 {len(articles)} 篇既有文章")
-        else:
-            new_articles = sorted(
-                [a for a in articles if a["ts"] > last_ts], key=lambda a: a["ts"]
-            )
-            for a in new_articles:
-                msg = f"📮 新發文｜{account}\n{a['title']}\n{a['url']}"
-                send_discord(webhook_url, msg)
-                print(f"[notify] {msg}")
+        print(f"[init] {account} 發文基準點建立，共 {len(articles)} 篇既有文章")
 
         if articles:
             state["accounts"][account]["last_ts"] = max(a["ts"] for a in articles)
@@ -167,6 +164,13 @@ def check_board_comments(config, state, webhook_url, is_first_run):
     else:
         # 重新掃描目前可見的每一篇文章（不只新文章），避免漏掉「舊文章底下新出現的推文」
         for a in articles:
+            if a["author"] in target_accounts:
+                acc_state = state["accounts"].setdefault(a["author"], {"last_ts": 0})
+                if a["ts"] > acc_state["last_ts"]:
+                    msg = f"📮 新發文｜{a['author']}\n{a['title']}\n{a['url']}"
+                    send_discord(webhook_url, msg)
+                    print(f"[notify] {msg}")
+
             try:
                 article_html = fetch(a["url"])
             except requests.RequestException as e:
@@ -206,6 +210,14 @@ def check_board_comments(config, state, webhook_url, is_first_run):
 
     if articles:
         state["board_last_ts"] = max(a["ts"] for a in articles)
+
+        if not is_first_run:
+            # 用這一輪掃到的所有文章更新各帳號的發文基準點（取最大值，避免同一輪多篇時互相干擾）
+            for account in target_accounts:
+                account_ts = [a["ts"] for a in articles if a["author"] == account]
+                if account_ts:
+                    acc_state = state["accounts"].setdefault(account, {"last_ts": 0})
+                    acc_state["last_ts"] = max(acc_state["last_ts"], max(account_ts))
 
 
 def main():
