@@ -144,14 +144,13 @@ def check_board_comments(config, state, webhook_url, is_first_run):
     prev_href = get_prev_page_href(html)
 
     # 若這一頁全部文章都比上次記錄新，代表新文章可能超過一頁，往前多抓幾頁避免漏抓
+    # 時間戳解析失敗（ts=0，例如非標準格式的文章）的項目不列入判斷，避免拖累 min() 誤判成「沒有全新」而提前停止背抓
     max_extra_pages = 5
     pages_fetched = 0
-    while (
-        articles
-        and min(a["ts"] for a in articles) > last_ts
-        and prev_href
-        and pages_fetched < max_extra_pages
-    ):
+    while True:
+        valid_ts = [a["ts"] for a in articles if a["ts"] > 0]
+        if not (valid_ts and min(valid_ts) > last_ts and prev_href and pages_fetched < max_extra_pages):
+            break
         prev_html = fetch(PTT_URL + prev_href)
         articles = parse_article_list(prev_html) + articles
         prev_href = get_prev_page_href(prev_html)
