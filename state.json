@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787497559,
+  "board_last_ts": 1787526114,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787497559
+      "last_ts": 1787506986
     },
     "b032819": {
-      "last_ts": 1787495970
+      "last_ts": 1787513597
     },
     "bvbin10242": {
       "last_ts": 1787470078
@@ -21,9 +21,9 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787482856.A.F7E.html": 2,
-    "/bbs/SportLottery/M.1787484385.A.284.html": 2,
-    "/bbs/SportLottery/M.1787488402.A.428.html": 30,
-    "/bbs/SportLottery/M.1787488881.A.409.html": 2
+    "/bbs/SportLottery/M.1787506381.A.68A.html": 1,
+    "/bbs/SportLottery/M.1787506986.A.E6C.html": 6,
+    "/bbs/SportLottery/M.1787513597.A.B41.html": 1,
+    "/bbs/SportLottery/M.1787519133.A.698.html": 1
   }
 }
