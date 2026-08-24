@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787560185,
+  "board_last_ts": 1787563699,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787535708
@@ -36,6 +36,16 @@
       "title": "[LIVE] 網球 魏內爾特@斯特羅姆巴赫  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787560185.A.900.html",
       "ts": 1787560185
+    },
+    "/bbs/SportLottery/M.1787563633.A.FD1.html": {
+      "title": "[閒聊] 玩運彩有人長期穩定贏錢的嗎?",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787563633.A.FD1.html",
+      "ts": 1787563633
+    },
+    "/bbs/SportLottery/M.1787563699.A.166.html": {
+      "title": "[推薦] 網球 奧格茲堡 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787563699.A.166.html",
+      "ts": 1787563699
     }
   }
 }
