@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787565325,
+  "board_last_ts": 1787567172,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787535708
+      "last_ts": 1787567172
     },
     "b032819": {
       "last_ts": 1787528238
@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1787563633.A.FD1.html": 2
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787547702.A.A2A.html": {
       "title": "Re: [活動] 【八月過關王】第三週8/22 19：29截止",
@@ -51,6 +53,11 @@
       "title": "[LIVE] 網球 本傑明.哈桑@M.W.唐納德  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787565325.A.349.html",
       "ts": 1787565325
+    },
+    "/bbs/SportLottery/M.1787567172.A.8D2.html": {
+      "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787567172.A.8D2.html",
+      "ts": 1787567172
     }
   }
 }
