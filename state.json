@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787576709,
+  "board_last_ts": 1787578466,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787576709
@@ -70,6 +70,11 @@
       "title": "[LIVE] 網球 胡安 @ 安德烈(場中)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787576709.A.A60.html",
       "ts": 1787576709
+    },
+    "/bbs/SportLottery/M.1787578466.A.EDE.html": {
+      "title": "[閒聊] 足球場中統計數據",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787578466.A.EDE.html",
+      "ts": 1787578466
     }
   }
 }
