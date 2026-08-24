@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787528238,
+  "board_last_ts": 1787535708,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787506986
+      "last_ts": 1787535708
     },
     "b032819": {
       "last_ts": 1787528238
@@ -53,6 +53,11 @@
       "title": "[推薦] 足球 綠茶看墨超（1203）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787528238.A.351.html",
       "ts": 1787528238
+    },
+    "/bbs/SportLottery/M.1787535708.A.52D.html": {
+      "title": "[LIVE] 墨超 內卡薩 @ 普馬斯  (場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787535708.A.52D.html",
+      "ts": 1787535708
     }
   }
 }
