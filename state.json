@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787582341,
+  "board_last_ts": 1787582576,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787576709
+      "last_ts": 1787582576
     },
     "b032819": {
       "last_ts": 1787528238
@@ -70,6 +70,11 @@
       "title": "[推薦] 棒球[很明顯了]0825MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787582341.A.58D.html",
       "ts": 1787582341
+    },
+    "/bbs/SportLottery/M.1787582576.A.6CF.html": {
+      "title": "[LIVE] 女排 斯洛伐克 @ 克羅埃西亞 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787582576.A.6CF.html",
+      "ts": 1787582576
     }
   }
 }
