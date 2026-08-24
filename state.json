@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787557756,
+  "board_last_ts": 1787560185,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787535708
@@ -31,6 +31,11 @@
       "title": "[推薦] 網球 奧格茲堡 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787557756.A.716.html",
       "ts": 1787557756
+    },
+    "/bbs/SportLottery/M.1787560185.A.900.html": {
+      "title": "[LIVE] 網球 魏內爾特@斯特羅姆巴赫  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787560185.A.900.html",
+      "ts": 1787560185
     }
   }
 }
