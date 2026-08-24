@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787584289,
+  "board_last_ts": 1787612424,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787582576
+      "last_ts": 1787592120
     },
     "b032819": {
-      "last_ts": 1787584289
+      "last_ts": 1787590004
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -21,82 +21,23 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787563633.A.FD1.html": 2,
-    "/bbs/SportLottery/M.1787576176.A.FD3.html": 4,
-    "/bbs/SportLottery/M.1787576709.A.A60.html": 8,
-    "/bbs/SportLottery/M.1787582576.A.6CF.html": 7,
-    "/bbs/SportLottery/M.1787583546.A.B7B.html": 1
+    "/bbs/SportLottery/M.1787610472.A.575.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787563633.A.FD1.html": {
-      "title": "[閒聊] 玩運彩有人長期穩定贏錢的嗎?",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787563633.A.FD1.html",
-      "ts": 1787563633
+    "/bbs/SportLottery/M.1787592784.A.4E5.html": {
+      "title": "Re: [發錢] 阿甲 科爾多瓦學院 @ 拉努斯 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787592784.A.4E5.html",
+      "ts": 1787592784
     },
-    "/bbs/SportLottery/M.1787563699.A.166.html": {
-      "title": "[推薦] 網球 奧格茲堡 - Zeng（O）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787563699.A.166.html",
-      "ts": 1787563699
+    "/bbs/SportLottery/M.1787610472.A.575.html": {
+      "title": "[LIVE] 足球 科爾多瓦中央 1：2 提格雷 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787610472.A.575.html",
+      "ts": 1787610472
     },
-    "/bbs/SportLottery/M.1787565325.A.349.html": {
-      "title": "[LIVE] 網球 本傑明.哈桑@M.W.唐納德  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787565325.A.349.html",
-      "ts": 1787565325
-    },
-    "/bbs/SportLottery/M.1787567172.A.8D2.html": {
-      "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787567172.A.8D2.html",
-      "ts": 1787567172
-    },
-    "/bbs/SportLottery/M.1787576176.A.FD3.html": {
-      "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787576176.A.FD3.html",
-      "ts": 1787576176
-    },
-    "/bbs/SportLottery/M.1787576489.A.FF9.html": {
-      "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787576489.A.FF9.html",
-      "ts": 1787576489
-    },
-    "/bbs/SportLottery/M.1787576709.A.A60.html": {
-      "title": "[LIVE] 網球 胡安 @ 安德烈(場中)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787576709.A.A60.html",
-      "ts": 1787576709
-    },
-    "/bbs/SportLottery/M.1787578466.A.EDE.html": {
-      "title": "[閒聊] 足球場中統計數據",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787578466.A.EDE.html",
-      "ts": 1787578466
-    },
-    "/bbs/SportLottery/M.1787582341.A.58D.html": {
-      "title": "[推薦] 棒球[很明顯了]0825MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787582341.A.58D.html",
-      "ts": 1787582341
-    },
-    "/bbs/SportLottery/M.1787582576.A.6CF.html": {
-      "title": "[LIVE] 女排 斯洛伐克 @ 克羅埃西亞 (場中)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787582576.A.6CF.html",
-      "ts": 1787582576
-    },
-    "/bbs/SportLottery/M.1787583449.A.32B.html": {
-      "title": "[推薦] 網球2300粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787583449.A.32B.html",
-      "ts": 1787583449
-    },
-    "/bbs/SportLottery/M.1787583546.A.B7B.html": {
-      "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787583546.A.B7B.html",
-      "ts": 1787583546
-    },
-    "/bbs/SportLottery/M.1787584153.A.2D8.html": {
-      "title": "[發錢] 凹單成功！過關單連勝 發奶20杯",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787584153.A.2D8.html",
-      "ts": 1787584153
-    },
-    "/bbs/SportLottery/M.1787584289.A.14C.html": {
-      "title": "[推薦] 足球 綠茶看意甲（1204）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787584289.A.14C.html",
-      "ts": 1787584289
+    "/bbs/SportLottery/M.1787612424.A.839.html": {
+      "title": "[官方] 115-08-25 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787612424.A.839.html",
+      "ts": 1787612424
     }
   }
 }
