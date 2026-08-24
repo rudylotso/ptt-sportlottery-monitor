@@ -134,13 +134,17 @@ def check_account_posts(config, state, webhook_url, is_first_run):
             state["accounts"][account]["last_ts"] = max(a["ts"] for a in articles)
 
 
+PUSH_TRACKING_WINDOW_SECONDS = 6 * 60 * 60  # 文章發文後 6 小時內持續追蹤推文，即使已滑出首頁範圍
+MAX_TRACKED_ARTICLES_PER_RUN = 200  # 避免熱門洗版夜晚請求數暴衝，超過時保留最新的文章、其餘記警告
+
+
 def check_board_comments(config, state, webhook_url, is_first_run):
     board = config["board"]
     last_ts = state.get("board_last_ts", 0)
     target_accounts = set(config["accounts"])
 
     html = fetch(f"{PTT_URL}/bbs/{board}/index.html")
-    articles = parse_article_list(html)
+    fresh_articles = parse_article_list(html)
     prev_href = get_prev_page_href(html)
 
     # 若這一頁全部文章都比上次記錄新，代表新文章可能超過一頁，往前多抓幾頁避免漏抓
@@ -148,21 +152,22 @@ def check_board_comments(config, state, webhook_url, is_first_run):
     max_extra_pages = 5
     pages_fetched = 0
     while True:
-        valid_ts = [a["ts"] for a in articles if a["ts"] > 0]
+        valid_ts = [a["ts"] for a in fresh_articles if a["ts"] > 0]
         if not (valid_ts and min(valid_ts) > last_ts and prev_href and pages_fetched < max_extra_pages):
             break
         prev_html = fetch(PTT_URL + prev_href)
-        articles = parse_article_list(prev_html) + articles
+        fresh_articles = parse_article_list(prev_html) + fresh_articles
         prev_href = get_prev_page_href(prev_html)
         pages_fetched += 1
 
     push_notified = state.setdefault("push_notified", {})
+    tracked_articles = state.setdefault("tracked_articles", {})
 
     if is_first_run:
-        print(f"[init] 板上新文章基準點建立，共 {len(articles)} 篇既有文章")
+        print(f"[init] 板上新文章基準點建立，共 {len(fresh_articles)} 篇既有文章")
     else:
-        # 重新掃描目前可見的每一篇文章（不只新文章），避免漏掉「舊文章底下新出現的推文」
-        for a in articles:
+        # 新發文偵測：只看這一輪剛抓到的文章（首頁+補抓），跟各帳號目前的發文基準點比對
+        for a in fresh_articles:
             if a["author"] in target_accounts:
                 acc_state = state["accounts"].setdefault(a["author"], {"last_ts": 0})
                 if a["ts"] > acc_state["last_ts"]:
@@ -170,10 +175,29 @@ def check_board_comments(config, state, webhook_url, is_first_run):
                     send_discord(webhook_url, msg)
                     print(f"[notify] {msg}")
 
+        # 推文追蹤：不能只看目前首頁上看得到的文章——熱門場中戰報洗版速度可能比推文出現的速度快，
+        # 文章滑出首頁後這一輪剛抓到的清單就再也看不到它，導致底下的推文永久漏抓。
+        # 改成用「文章發文時間」維護一份獨立的追蹤清單，不管還在不在首頁上，發文後 6 小時內都直接用網址重抓確認有沒有新推文。
+        for a in fresh_articles:
+            if a["ts"] > 0:
+                tracked_articles[a["href"]] = {"title": a["title"], "url": a["url"], "ts": a["ts"]}
+
+        now_ts = time.time()
+        for href in list(tracked_articles.keys()):
+            if now_ts - tracked_articles[href]["ts"] > PUSH_TRACKING_WINDOW_SECONDS:
+                del tracked_articles[href]
+                push_notified.pop(href, None)
+
+        to_check = sorted(tracked_articles.items(), key=lambda item: item[1]["ts"], reverse=True)
+        if len(to_check) > MAX_TRACKED_ARTICLES_PER_RUN:
+            print(f"[warn] 追蹤中文章數 {len(to_check)} 超過上限 {MAX_TRACKED_ARTICLES_PER_RUN}，本輪只檢查最新的 {MAX_TRACKED_ARTICLES_PER_RUN} 篇，其餘 {len(to_check) - MAX_TRACKED_ARTICLES_PER_RUN} 篇延後到下一輪")
+            to_check = to_check[:MAX_TRACKED_ARTICLES_PER_RUN]
+
+        for href, info in to_check:
             try:
-                article_html = fetch(a["url"])
+                article_html = fetch(info["url"])
             except requests.RequestException as e:
-                print(f"[warn] 抓文章內容失敗 {a['url']}：{e}")
+                print(f"[warn] 抓文章內容失敗 {info['url']}：{e}")
                 continue
 
             article_soup = BeautifulSoup(article_html, "html.parser")
@@ -188,32 +212,26 @@ def check_board_comments(config, state, webhook_url, is_first_run):
                     content = content_tag.text.lstrip(": ").strip()
                     target_pushes.append((push_user, content))
 
-            already_notified = push_notified.get(a["href"], 0)
+            already_notified = push_notified.get(href, 0)
             for push_user, content in target_pushes[already_notified:]:
                 msg = (
-                    f"💬 新留言｜{push_user} 在《{a['title']}》推文\n"
-                    f"「{content}」\n{a['url']}"
+                    f"💬 新留言｜{push_user} 在《{info['title']}》推文\n"
+                    f"「{content}」\n{info['url']}"
                 )
                 send_discord(webhook_url, msg)
                 print(f"[notify] {msg}")
 
             if target_pushes:
-                push_notified[a["href"]] = len(target_pushes)
+                push_notified[href] = len(target_pushes)
             time.sleep(0.5)  # 避免對 PTT 發太快
 
-        # 文章滑出目前追蹤範圍（首頁+補抓的頁數）後不再需要追蹤推文數，避免 state.json 無限長大
-        current_hrefs = {a["href"] for a in articles}
-        for href in list(push_notified.keys()):
-            if href not in current_hrefs:
-                del push_notified[href]
-
-    if articles:
-        state["board_last_ts"] = max(a["ts"] for a in articles)
+    if fresh_articles:
+        state["board_last_ts"] = max(a["ts"] for a in fresh_articles)
 
         if not is_first_run:
             # 用這一輪掃到的所有文章更新各帳號的發文基準點（取最大值，避免同一輪多篇時互相干擾）
             for account in target_accounts:
-                account_ts = [a["ts"] for a in articles if a["author"] == account]
+                account_ts = [a["ts"] for a in fresh_articles if a["author"] == account]
                 if account_ts:
                     acc_state = state["accounts"].setdefault(account, {"last_ts": 0})
                     acc_state["last_ts"] = max(acc_state["last_ts"], max(account_ts))
