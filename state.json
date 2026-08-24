@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787612424,
+  "board_last_ts": 1787614708,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787592120
     },
     "b032819": {
-      "last_ts": 1787590004
+      "last_ts": 1787614708
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -21,7 +21,7 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787610472.A.575.html": 3
+    "/bbs/SportLottery/M.1787610472.A.575.html": 4
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787610472.A.575.html": {
@@ -33,6 +33,11 @@
       "title": "[官方] 115-08-25 單場場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787612424.A.839.html",
       "ts": 1787612424
+    },
+    "/bbs/SportLottery/M.1787614708.A.A42.html": {
+      "title": "[推薦] 足球 綠茶看WNBA（302）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787614708.A.A42.html",
+      "ts": 1787614708
     }
   }
 }
