@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787535708,
+  "board_last_ts": 1787547702,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787535708
@@ -25,11 +25,6 @@
     "/bbs/SportLottery/M.1787528238.A.351.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787526114.A.752.html": {
-      "title": "[官方] 115--08-24 單場場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787526114.A.752.html",
-      "ts": 1787526114
-    },
     "/bbs/SportLottery/M.1787527924.A.A01.html": {
       "title": "[LIVE] 棒球 大聯盟 勇士4 VS 2釀酒人 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787527924.A.A01.html",
@@ -44,6 +39,11 @@
       "title": "[LIVE] 墨超 內卡薩 @ 普馬斯  (場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787535708.A.52D.html",
       "ts": 1787535708
+    },
+    "/bbs/SportLottery/M.1787547702.A.A2A.html": {
+      "title": "Re: [活動] 【八月過關王】第三週8/22 19：29截止",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787547702.A.A2A.html",
+      "ts": 1787547702
     }
   }
 }
