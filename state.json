@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787583546,
+  "board_last_ts": 1787584153,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787582576
@@ -24,7 +24,8 @@
     "/bbs/SportLottery/M.1787563633.A.FD1.html": 2,
     "/bbs/SportLottery/M.1787576176.A.FD3.html": 4,
     "/bbs/SportLottery/M.1787576709.A.A60.html": 8,
-    "/bbs/SportLottery/M.1787582576.A.6CF.html": 4
+    "/bbs/SportLottery/M.1787582576.A.6CF.html": 4,
+    "/bbs/SportLottery/M.1787583546.A.B7B.html": 1
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787563633.A.FD1.html": {
@@ -86,6 +87,11 @@
       "title": "Re: [閒聊] 玩運彩有人長期穩定贏錢的嗎?",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787583546.A.B7B.html",
       "ts": 1787583546
+    },
+    "/bbs/SportLottery/M.1787584153.A.2D8.html": {
+      "title": "[發錢] 凹單成功！過關單連勝 發奶20杯",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787584153.A.2D8.html",
+      "ts": 1787584153
     }
   }
 }
