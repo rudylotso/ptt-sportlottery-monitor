@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787578466,
+  "board_last_ts": 1787582341,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787576709
@@ -65,6 +65,11 @@
       "title": "[閒聊] 足球場中統計數據",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787578466.A.EDE.html",
       "ts": 1787578466
+    },
+    "/bbs/SportLottery/M.1787582341.A.58D.html": {
+      "title": "[推薦] 棒球[很明顯了]0825MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787582341.A.58D.html",
+      "ts": 1787582341
     }
   }
 }
