@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787652286,
+  "board_last_ts": 1787653087,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
     },
     "b032819": {
-      "last_ts": 1787622188
+      "last_ts": 1787653087
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -53,6 +53,11 @@
       "title": "[LIVE] 韓k1 浦項製鐵@濟州SK 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787652286.A.4F7.html",
       "ts": 1787652286
+    },
+    "/bbs/SportLottery/M.1787653087.A.72E.html": {
+      "title": "[推薦] 足球 綠茶看韓足（1096）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787653087.A.72E.html",
+      "ts": 1787653087
     }
   }
 }
