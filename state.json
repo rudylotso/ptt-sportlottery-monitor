@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787669712,
+  "board_last_ts": 1787669799,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -21,17 +21,11 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787648258.A.AC8.html": 4,
     "/bbs/SportLottery/M.1787652286.A.4F7.html": 7,
     "/bbs/SportLottery/M.1787653087.A.72E.html": 3,
     "/bbs/SportLottery/M.1787660892.A.B1A.html": 2
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787648258.A.AC8.html": {
-      "title": "[推薦] 棒球[小律師]8/25日本小棒棒",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787648258.A.AC8.html",
-      "ts": 1787648258
-    },
     "/bbs/SportLottery/M.1787648903.A.527.html": {
       "title": "[LIVE] NPB 火腿 1:3 西武 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787648903.A.527.html",
@@ -71,6 +65,11 @@
       "title": "[推薦] 網球2300粗暴推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787669712.A.E93.html",
       "ts": 1787669712
+    },
+    "/bbs/SportLottery/M.1787669799.A.1D9.html": {
+      "title": "[推薦] 網球 碩二看ATP 美網資格賽 0825",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787669799.A.1D9.html",
+      "ts": 1787669799
     }
   }
 }
