@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787616751,
+  "board_last_ts": 1787621234,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787592120
@@ -53,9 +53,14 @@
       "ts": 1787616451
     },
     "/bbs/SportLottery/M.1787616751.A.CC7.html": {
-      "title": "[推薦] 足球 阿根廷甲級 - Zeng",
+      "title": "[推薦] 足球 阿根廷甲級 - Zeng（XX，下盤日）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787616751.A.CC7.html",
       "ts": 1787616751
+    },
+    "/bbs/SportLottery/M.1787621234.A.CDD.html": {
+      "title": "[LIVE] 棒球 大聯盟 紅人 VS 巨人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787621234.A.CDD.html",
+      "ts": 1787621234
     }
   }
 }
