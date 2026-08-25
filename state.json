@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1787648258.A.AC8.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787642551.A.7F9.html": {
       "title": "[推薦]  足球 XG推韓K1",
