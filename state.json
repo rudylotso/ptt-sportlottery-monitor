@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787670912,
+  "board_last_ts": 1787671358,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -70,6 +70,11 @@
       "title": "[LIVE] 網球 錦織圭  @ 奧夫納  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787670912.A.FAC.html",
       "ts": 1787670912
+    },
+    "/bbs/SportLottery/M.1787671358.A.310.html": {
+      "title": "Re: [發錢] 足球[小律師]英格蘭 @ 墨西哥 律師飲料開獎",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787671358.A.310.html",
+      "ts": 1787671358
     }
   }
 }
