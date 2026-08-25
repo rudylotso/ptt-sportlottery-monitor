@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787660892,
+  "board_last_ts": 1787663984,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -66,6 +66,11 @@
       "title": "Re: [推薦] 足球 綠茶看韓足（1096）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787660892.A.B1A.html",
       "ts": 1787660892
+    },
+    "/bbs/SportLottery/M.1787663984.A.BFB.html": {
+      "title": "[LIVE] 網球 格爾茲@弗蘭德 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787663984.A.BFB.html",
+      "ts": 1787663984
     }
   }
 }
