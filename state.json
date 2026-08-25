@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787616451,
+  "board_last_ts": 1787616751,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787592120
@@ -50,6 +50,11 @@
       "title": "[LIVE] 足球 羅薩里奧中央 @ 科爾多瓦塔勒 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787616451.A.E62.html",
       "ts": 1787616451
+    },
+    "/bbs/SportLottery/M.1787616751.A.CC7.html": {
+      "title": "[推薦] 足球 阿根廷甲級 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787616751.A.CC7.html",
+      "ts": 1787616751
     }
   }
 }
