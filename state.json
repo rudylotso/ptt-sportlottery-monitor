@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787667667,
+  "board_last_ts": 1787668606,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
     },
     "b032819": {
-      "last_ts": 1787660892
+      "last_ts": 1787668606
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -61,6 +61,11 @@
       "title": "[推薦] 網球 美網 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787667667.A.74C.html",
       "ts": 1787667667
+    },
+    "/bbs/SportLottery/M.1787668606.A.DFA.html": {
+      "title": "[推薦] 足球 綠茶看英聯盃（1012）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787668606.A.DFA.html",
+      "ts": 1787668606
     }
   }
 }
