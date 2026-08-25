@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787669799,
+  "board_last_ts": 1787670912,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -65,6 +65,11 @@
       "title": "[推薦] 網球 碩二看ATP 美網資格賽 0825",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787669799.A.1D9.html",
       "ts": 1787669799
+    },
+    "/bbs/SportLottery/M.1787670912.A.FAC.html": {
+      "title": "[LIVE] 網球 錦織圭  @ 奧夫納  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787670912.A.FAC.html",
+      "ts": 1787670912
     }
   }
 }
