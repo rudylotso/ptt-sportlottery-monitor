@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787648258,
+  "board_last_ts": 1787648903,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -41,6 +41,11 @@
       "title": "[推薦] 棒球[小律師]8/25日本小棒棒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787648258.A.AC8.html",
       "ts": 1787648258
+    },
+    "/bbs/SportLottery/M.1787648903.A.527.html": {
+      "title": "[LIVE] NPB 火腿VS西武 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787648903.A.527.html",
+      "ts": 1787648903
     }
   }
 }
