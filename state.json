@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787622009,
+  "board_last_ts": 1787622188,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787592120
     },
     "b032819": {
-      "last_ts": 1787614708
+      "last_ts": 1787622188
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -53,7 +53,7 @@
       "ts": 1787616451
     },
     "/bbs/SportLottery/M.1787616751.A.CC7.html": {
-      "title": "[推薦] 足球 阿根廷甲級 - Zeng（XX，下盤日）",
+      "title": "[推薦] 足球 阿根廷甲級 - Zeng（XX）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787616751.A.CC7.html",
       "ts": 1787616751
     },
@@ -66,6 +66,11 @@
       "title": "[推薦] 棒球 MLB - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787622009.A.328.html",
       "ts": 1787622009
+    },
+    "/bbs/SportLottery/M.1787622188.A.32B.html": {
+      "title": "[推薦] 棒球 綠茶看MLB（120）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787622188.A.32B.html",
+      "ts": 1787622188
     }
   }
 }
