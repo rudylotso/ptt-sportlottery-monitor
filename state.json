@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787663984,
+  "board_last_ts": 1787667667,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -61,6 +61,11 @@
       "title": "[LIVE] 網球 格爾茲@弗蘭德 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787663984.A.BFB.html",
       "ts": 1787663984
+    },
+    "/bbs/SportLottery/M.1787667667.A.74C.html": {
+      "title": "[推薦] 網球 美網 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787667667.A.74C.html",
+      "ts": 1787667667
     }
   }
 }
