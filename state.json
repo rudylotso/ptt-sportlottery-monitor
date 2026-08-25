@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787668606,
+  "board_last_ts": 1787669712,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -66,6 +66,11 @@
       "title": "[推薦] 足球 綠茶看英聯盃（1012）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787668606.A.DFA.html",
       "ts": 1787668606
+    },
+    "/bbs/SportLottery/M.1787669712.A.E93.html": {
+      "title": "[推薦] 網球2300粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787669712.A.E93.html",
+      "ts": 1787669712
     }
   }
 }
