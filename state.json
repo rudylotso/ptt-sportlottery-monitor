@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787737554,
+  "board_last_ts": 1787738540,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -56,6 +56,11 @@
       "title": "[推薦] 排球 葡萄牙VS西班牙",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787737554.A.4EB.html",
       "ts": 1787737554
+    },
+    "/bbs/SportLottery/M.1787738540.A.87B.html": {
+      "title": "[LIVE] 韓k1 仁川聯@安養FC 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787738540.A.87B.html",
+      "ts": 1787738540
     }
   }
 }
