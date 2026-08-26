@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787740013,
+  "board_last_ts": 1787745583,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787648258
+      "last_ts": 1787745583
     },
     "b032819": {
       "last_ts": 1787740013
@@ -21,7 +21,8 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787738540.A.87B.html": 1
+    "/bbs/SportLottery/M.1787738540.A.87B.html": 1,
+    "/bbs/SportLottery/M.1787740013.A.1E1.html": 2
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787724382.A.AA6.html": {
@@ -53,6 +54,11 @@
       "title": "[推薦] 足球 綠茶看韓足（1080）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787740013.A.1E1.html",
       "ts": 1787740013
+    },
+    "/bbs/SportLottery/M.1787745583.A.936.html": {
+      "title": "[LIVE] 女排 葡萄牙 @ 西班牙 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787745583.A.936.html",
+      "ts": 1787745583
     }
   }
 }
