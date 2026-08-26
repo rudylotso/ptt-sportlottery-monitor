@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787708311,
+  "board_last_ts": 1787708836,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -21,7 +21,8 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787704501.A.EBD.html": 4
+    "/bbs/SportLottery/M.1787704501.A.EBD.html": 4,
+    "/bbs/SportLottery/M.1787708311.A.DBA.html": 1
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787696988.A.07C.html": {
@@ -58,6 +59,11 @@
       "title": "[推薦] 籃球 紅茶看WNBA  (305)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787708311.A.DBA.html",
       "ts": 1787708311
+    },
+    "/bbs/SportLottery/M.1787708836.A.E90.html": {
+      "title": "[推薦] 籃球 珍珠奶茶看WNBA（305)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787708836.A.E90.html",
+      "ts": 1787708836
     }
   }
 }
