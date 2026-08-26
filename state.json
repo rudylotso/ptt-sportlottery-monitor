@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787699279,
+  "board_last_ts": 1787704501,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -46,6 +46,11 @@
       "title": "[LIVE] 棒球 道奇 勇士 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787699279.A.089.html",
       "ts": 1787699279
+    },
+    "/bbs/SportLottery/M.1787704501.A.EBD.html": {
+      "title": "[LIVE] 南美盃 托利馬體育  @ 迪華利獨立 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787704501.A.EBD.html",
+      "ts": 1787704501
     }
   }
 }
