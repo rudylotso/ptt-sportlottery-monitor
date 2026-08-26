@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787704501,
+  "board_last_ts": 1787705147,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -51,6 +51,11 @@
       "title": "[LIVE] 南美盃 托利馬體育  @ 迪華利獨立 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787704501.A.EBD.html",
       "ts": 1787704501
+    },
+    "/bbs/SportLottery/M.1787705147.A.93A.html": {
+      "title": "[推薦] 棒球 MLB龍大推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787705147.A.93A.html",
+      "ts": 1787705147
     }
   }
 }
