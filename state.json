@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787735085,
+  "board_last_ts": 1787737554,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
@@ -51,6 +51,11 @@
       "title": "[LIVE] NPB 火腿VS西武 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787735085.A.06C.html",
       "ts": 1787735085
+    },
+    "/bbs/SportLottery/M.1787737554.A.4EB.html": {
+      "title": "[推薦] 排球 葡萄牙VS西班牙",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787737554.A.4EB.html",
+      "ts": 1787737554
     }
   }
 }
