@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787745583,
+  "board_last_ts": 1787748088,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787745583
@@ -55,6 +55,11 @@
       "title": "[LIVE] 女排 葡萄牙 @ 西班牙 (場中)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787745583.A.936.html",
       "ts": 1787745583
+    },
+    "/bbs/SportLottery/M.1787748088.A.928.html": {
+      "title": "[推薦] 足球 珍珠奶茶看東南亞足 （1060）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748088.A.928.html",
+      "ts": 1787748088
     }
   }
 }
