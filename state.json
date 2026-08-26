@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787748873,
+  "board_last_ts": 1787752021,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787748276
@@ -73,6 +73,11 @@
       "title": "[LIVE] 足球 泰國 @ 越南 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748873.A.F59.html",
       "ts": 1787748873
+    },
+    "/bbs/SportLottery/M.1787752021.A.218.html": {
+      "title": "[推薦] 網球 羅漢普頓2 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787752021.A.218.html",
+      "ts": 1787752021
     }
   }
 }
