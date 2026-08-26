@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1787704501.A.EBD.html": 3
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787696988.A.07C.html": {
       "title": "[LIVE] 巴乙 博塔弗戈SP @ 戈亞尼恩斯 場中",
