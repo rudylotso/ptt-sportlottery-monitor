@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787738540,
+  "board_last_ts": 1787740013,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787648258
     },
     "b032819": {
-      "last_ts": 1787707957
+      "last_ts": 1787740013
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787718379.A.4EF.html": {
-      "title": "[推薦] 足球 珍珠奶茶看韓足 (1080)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787718379.A.4EF.html",
-      "ts": 1787718379
-    },
     "/bbs/SportLottery/M.1787722228.A.C78.html": {
       "title": "[推薦] ［棒球］8/26 日韓職棒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787722228.A.C78.html",
@@ -56,6 +51,11 @@
       "title": "[LIVE] 韓k1 仁川聯@安養FC 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787738540.A.87B.html",
       "ts": 1787738540
+    },
+    "/bbs/SportLottery/M.1787740013.A.1E1.html": {
+      "title": "[推薦] 足球 綠茶看韓足（1080）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787740013.A.1E1.html",
+      "ts": 1787740013
     }
   }
 }
