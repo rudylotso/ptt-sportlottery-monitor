@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787748276,
+  "board_last_ts": 1787748873,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787748276
@@ -65,6 +65,11 @@
       "title": "[推薦] 足球[小律茶]泰國 @ 越南",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748276.A.0A8.html",
       "ts": 1787748276
+    },
+    "/bbs/SportLottery/M.1787748873.A.F59.html": {
+      "title": "[LIVE] 足球 泰國 @ 越南 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748873.A.F59.html",
+      "ts": 1787748873
     }
   }
 }
