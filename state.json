@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787752021,
+  "board_last_ts": 1787784451,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787748276
@@ -20,59 +20,12 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1787738540.A.87B.html": 8,
-    "/bbs/SportLottery/M.1787740013.A.1E1.html": 2,
-    "/bbs/SportLottery/M.1787745583.A.936.html": 7,
-    "/bbs/SportLottery/M.1787748873.A.F59.html": 7,
-    "/bbs/SportLottery/M.1787748276.A.0A8.html": 1,
-    "/bbs/SportLottery/M.1787748088.A.928.html": 1
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787735085.A.06C.html": {
-      "title": "[LIVE] NPB 火腿 9:1 西武 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787735085.A.06C.html",
-      "ts": 1787735085
-    },
-    "/bbs/SportLottery/M.1787737554.A.4EB.html": {
-      "title": "[推薦] 排球 葡萄牙VS西班牙",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787737554.A.4EB.html",
-      "ts": 1787737554
-    },
-    "/bbs/SportLottery/M.1787738540.A.87B.html": {
-      "title": "[LIVE] 韓k1 仁川聯1:2安養FC 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787738540.A.87B.html",
-      "ts": 1787738540
-    },
-    "/bbs/SportLottery/M.1787740013.A.1E1.html": {
-      "title": "[推薦] 足球 綠茶看韓足（1080）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787740013.A.1E1.html",
-      "ts": 1787740013
-    },
-    "/bbs/SportLottery/M.1787745583.A.936.html": {
-      "title": "[LIVE] 女排 葡萄牙 3-1 西班牙 (場中)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787745583.A.936.html",
-      "ts": 1787745583
-    },
-    "/bbs/SportLottery/M.1787748088.A.928.html": {
-      "title": "[推薦] 足球 珍珠奶茶看東南亞足 （1060）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748088.A.928.html",
-      "ts": 1787748088
-    },
-    "/bbs/SportLottery/M.1787748276.A.0A8.html": {
-      "title": "[推薦] 足球[小律茶]泰國 @ 越南",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748276.A.0A8.html",
-      "ts": 1787748276
-    },
-    "/bbs/SportLottery/M.1787748873.A.F59.html": {
-      "title": "[LIVE] 足球 泰國 @ 越南 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787748873.A.F59.html",
-      "ts": 1787748873
-    },
-    "/bbs/SportLottery/M.1787752021.A.218.html": {
-      "title": "[推薦] 網球 羅漢普頓2 - Zeng",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787752021.A.218.html",
-      "ts": 1787752021
+    "/bbs/SportLottery/M.1787784451.A.5D6.html": {
+      "title": "[推薦] 足球 珍珠奶茶看南球盃（1091）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787784451.A.5D6.html",
+      "ts": 1787784451
     }
   }
 }
