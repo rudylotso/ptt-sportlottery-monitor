@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787829223,
+  "board_last_ts": 1787829496,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -89,6 +89,11 @@
       "title": "[推薦] 網球 碩二看ATP 奧格斯堡挑戰賽 0826",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787829223.A.82C.html",
       "ts": 1787829223
+    },
+    "/bbs/SportLottery/M.1787829496.A.039.html": {
+      "title": "[推薦] 棒球 MLB 8/28單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787829496.A.039.html",
+      "ts": 1787829496
     }
   }
 }
