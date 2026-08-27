@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787834230,
+  "board_last_ts": 1787836627,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -21,15 +21,9 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787815117.A.B52.html": 2,
     "/bbs/SportLottery/M.1787821214.A.473.html": 5
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787815117.A.B52.html": {
-      "title": "[推薦] 電競LCK場次推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787815117.A.B52.html",
-      "ts": 1787815117
-    },
     "/bbs/SportLottery/M.1787815722.A.81F.html": {
       "title": "[推薦] 棒球 8/27 台日韓棒球",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787815722.A.81F.html",
@@ -104,6 +98,11 @@
       "title": "[閒聊] 直覺誤導",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787834230.A.510.html",
       "ts": 1787834230
+    },
+    "/bbs/SportLottery/M.1787836627.A.14C.html": {
+      "title": "[推薦] 足球 珍珠奶茶看埃超（1065）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787836627.A.14C.html",
+      "ts": 1787836627
     }
   }
 }
