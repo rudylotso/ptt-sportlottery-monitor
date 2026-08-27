@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787840557,
+  "board_last_ts": 1787841177,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -22,14 +22,9 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1787821214.A.473.html": 5,
-    "/bbs/SportLottery/M.1787830778.A.ACF.html": 4
+    "/bbs/SportLottery/M.1787830778.A.ACF.html": 5
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787819632.A.19D.html": {
-      "title": "推薦［棒球］ 今日日棒推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787819632.A.19D.html",
-      "ts": 1787819632
-    },
     "/bbs/SportLottery/M.1787820696.A.276.html": {
       "title": "[推薦] 棒球 綠茶看日棒（111）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787820696.A.276.html",
@@ -99,6 +94,11 @@
       "title": "[推薦] 足球 綠茶看埃超（1073）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787840557.A.188.html",
       "ts": 1787840557
+    },
+    "/bbs/SportLottery/M.1787841177.A.DD6.html": {
+      "title": "[推薦] 網球 奧格斯堡 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787841177.A.DD6.html",
+      "ts": 1787841177
     }
   }
 }
