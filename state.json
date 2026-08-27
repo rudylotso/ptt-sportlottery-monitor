@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787800950,
+  "board_last_ts": 1787810627,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
     },
     "b032819": {
-      "last_ts": 1787790371
+      "last_ts": 1787810627
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -26,7 +26,7 @@
     "/bbs/SportLottery/M.1787790427.A.7DB.html": 1,
     "/bbs/SportLottery/M.1787790363.A.131.html": 1,
     "/bbs/SportLottery/M.1787796052.A.FEF.html": 21,
-    "/bbs/SportLottery/M.1787800950.A.DD7.html": 1
+    "/bbs/SportLottery/M.1787800950.A.DD7.html": 5
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787789123.A.514.html": {
@@ -78,6 +78,11 @@
       "title": "[推薦] 網球 WTA蒙特雷 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787800950.A.DD7.html",
       "ts": 1787800950
+    },
+    "/bbs/SportLottery/M.1787810627.A.4A3.html": {
+      "title": "[LIVE] 排球 南韓 @ 泰國 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787810627.A.4A3.html",
+      "ts": 1787810627
     }
   }
 }
