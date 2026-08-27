@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787792629,
+  "board_last_ts": 1787796052,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -72,6 +72,11 @@
       "title": "[LIVE] 棒球 明尼蘇達雙城 @ 運動家 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787792629.A.B33.html",
       "ts": 1787792629
+    },
+    "/bbs/SportLottery/M.1787796052.A.FEF.html": {
+      "title": "[LIVE] 籃球 多倫多節奏 @ 西雅圖風暴 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787796052.A.FEF.html",
+      "ts": 1787796052
     }
   }
 }
