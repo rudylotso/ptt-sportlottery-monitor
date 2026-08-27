@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787810627,
+  "board_last_ts": 1787814360,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -44,6 +44,11 @@
       "title": "[LIVE] 排球 南韓 @ 泰國 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787810627.A.4A3.html",
       "ts": 1787810627
+    },
+    "/bbs/SportLottery/M.1787814360.A.559.html": {
+      "title": "[推薦] 電競 LCK單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787814360.A.559.html",
+      "ts": 1787814360
     }
   }
 }
