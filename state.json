@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787837469,
+  "board_last_ts": 1787840557,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
     },
     "b032819": {
-      "last_ts": 1787837421
+      "last_ts": 1787840557
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -22,14 +22,9 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1787821214.A.473.html": 5,
-    "/bbs/SportLottery/M.1787830778.A.ACF.html": 3
+    "/bbs/SportLottery/M.1787830778.A.ACF.html": 4
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787818942.A.953.html": {
-      "title": "[推薦] 棒球 珍珠奶茶看日棒 （111）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787818942.A.953.html",
-      "ts": 1787818942
-    },
     "/bbs/SportLottery/M.1787819632.A.19D.html": {
       "title": "推薦［棒球］ 今日日棒推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787819632.A.19D.html",
@@ -99,6 +94,11 @@
       "title": "[LIVE] 埃超 加斯馬哈拉@現代體育 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787837469.A.51A.html",
       "ts": 1787837469
+    },
+    "/bbs/SportLottery/M.1787840557.A.188.html": {
+      "title": "[推薦] 足球 綠茶看埃超（1073）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787840557.A.188.html",
+      "ts": 1787840557
     }
   }
 }
