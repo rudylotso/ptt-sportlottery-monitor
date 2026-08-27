@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787830778,
+  "board_last_ts": 1787832507,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -99,6 +99,11 @@
       "title": "[LIVE] 歐錦女排 比利時 @ 荷蘭 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787830778.A.ACF.html",
       "ts": 1787830778
+    },
+    "/bbs/SportLottery/M.1787832507.A.496.html": {
+      "title": "[推薦] 網球 本日美網推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787832507.A.496.html",
+      "ts": 1787832507
     }
   }
 }
