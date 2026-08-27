@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787814360,
+  "board_last_ts": 1787815117,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -8,7 +8,7 @@
       "last_ts": 1787810627
     },
     "bvbin10242": {
-      "last_ts": 1787576176
+      "last_ts": 1787815117
     },
     "steveeagle": {
       "last_ts": 1778086613
@@ -49,6 +49,11 @@
       "title": "[推薦] 電競 LCK單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787814360.A.559.html",
       "ts": 1787814360
+    },
+    "/bbs/SportLottery/M.1787815117.A.B52.html": {
+      "title": "[推薦] 電競LCK場次推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787815117.A.B52.html",
+      "ts": 1787815117
     }
   }
 }
