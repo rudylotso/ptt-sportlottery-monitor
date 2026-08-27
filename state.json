@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787789123,
+  "board_last_ts": 1787790471,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787748276
+      "last_ts": 1787790427
     },
     "b032819": {
-      "last_ts": 1787740013
+      "last_ts": 1787790371
     },
     "bvbin10242": {
       "last_ts": 1787576176
@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1787784451.A.5D6.html": 3
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787784451.A.5D6.html": {
       "title": "[推薦] 足球 珍珠奶茶看南球盃（1091）",
@@ -36,6 +38,31 @@
       "title": "[推薦] 棒球[很明顯了]",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787789123.A.514.html",
       "ts": 1787789123
+    },
+    "/bbs/SportLottery/M.1787790309.A.6B1.html": {
+      "title": "[LIVE] 足球 聖塔菲獨立  @ 河床 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787790309.A.6B1.html",
+      "ts": 1787790309
+    },
+    "/bbs/SportLottery/M.1787790363.A.131.html": {
+      "title": "[推薦] 足球  誰說河床很穩？",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787790363.A.131.html",
+      "ts": 1787790363
+    },
+    "/bbs/SportLottery/M.1787790371.A.F37.html": {
+      "title": "[推薦] 足球 綠茶看南美盃（1091）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787790371.A.F37.html",
+      "ts": 1787790371
+    },
+    "/bbs/SportLottery/M.1787790427.A.7DB.html": {
+      "title": "[推薦] 足球[小律師] 聖塔菲獨立  @ 河床",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787790427.A.7DB.html",
+      "ts": 1787790427
+    },
+    "/bbs/SportLottery/M.1787790471.A.E7E.html": {
+      "title": "[推薦] 足球 紅茶看南美盃  (1091)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787790471.A.E7E.html",
+      "ts": 1787790471
     }
   }
 }
