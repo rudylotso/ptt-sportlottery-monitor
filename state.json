@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787841177,
+  "board_last_ts": 1787842360,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -22,14 +22,10 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1787821214.A.473.html": 5,
-    "/bbs/SportLottery/M.1787830778.A.ACF.html": 6
+    "/bbs/SportLottery/M.1787830778.A.ACF.html": 9,
+    "/bbs/SportLottery/M.1787837469.A.51A.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787820696.A.276.html": {
-      "title": "[推薦] 棒球 綠茶看日棒（111）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787820696.A.276.html",
-      "ts": 1787820696
-    },
     "/bbs/SportLottery/M.1787821214.A.473.html": {
       "title": "[LIVE] NPB 樂天VS歐力士 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787821214.A.473.html",
@@ -99,6 +95,11 @@
       "title": "[推薦] 網球 奧格斯堡 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787841177.A.DD6.html",
       "ts": 1787841177
+    },
+    "/bbs/SportLottery/M.1787842360.A.ACC.html": {
+      "title": "[推薦] 網球 碩二看ATP 奧格斯堡挑戰賽 0826",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787842360.A.ACC.html",
+      "ts": 1787842360
     }
   }
 }
