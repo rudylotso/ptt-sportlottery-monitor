@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787842360,
+  "board_last_ts": 1787872432,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
     },
     "b032819": {
-      "last_ts": 1787840557
+      "last_ts": 1787854622
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -21,79 +21,53 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787830778.A.ACF.html": 9,
-    "/bbs/SportLottery/M.1787837469.A.51A.html": 3
+    "/bbs/SportLottery/M.1787857368.A.378.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787826060.A.CFD.html": {
-      "title": "[推薦] 棒球 單場台棒",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787826060.A.CFD.html",
-      "ts": 1787826060
+    "/bbs/SportLottery/M.1787853039.A.3D9.html": {
+      "title": "[活動] 【八月過關王】第四週 8/29 09:59 截止",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787853039.A.3D9.html",
+      "ts": 1787853039
     },
-    "/bbs/SportLottery/M.1787826239.A.81F.html": {
-      "title": "[推薦] 網球 奧格斯堡 - Zeng（X）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787826239.A.81F.html",
-      "ts": 1787826239
+    "/bbs/SportLottery/M.1787854622.A.51D.html": {
+      "title": "[推薦] 足球 綠茶看西甲（1059）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787854622.A.51D.html",
+      "ts": 1787854622
     },
-    "/bbs/SportLottery/M.1787829223.A.82C.html": {
-      "title": "[推薦] 網球 碩二看ATP 奧格斯堡挑戰賽 0826 (o)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787829223.A.82C.html",
-      "ts": 1787829223
+    "/bbs/SportLottery/M.1787857368.A.378.html": {
+      "title": "[LIVE] 西甲 畢爾包 @ 巴塞隆納 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787857368.A.378.html",
+      "ts": 1787857368
     },
-    "/bbs/SportLottery/M.1787829496.A.039.html": {
-      "title": "[推薦] 棒球 MLB 8/28單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787829496.A.039.html",
-      "ts": 1787829496
+    "/bbs/SportLottery/M.1787862300.A.C84.html": {
+      "title": "[推薦] 網球 碩二看WTA 蒙特雷 0828 (o)(o)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787862300.A.C84.html",
+      "ts": 1787862300
     },
-    "/bbs/SportLottery/M.1787830350.A.CAA.html": {
-      "title": "[推薦] 排球 晚上兩場排球推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787830350.A.CAA.html",
-      "ts": 1787830350
+    "/bbs/SportLottery/M.1787868471.A.3C3.html": {
+      "title": "[推薦] 足球 珍珠奶茶看巴西盃(1072)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787868471.A.3C3.html",
+      "ts": 1787868471
     },
-    "/bbs/SportLottery/M.1787830778.A.ACF.html": {
-      "title": "[LIVE] 歐錦女排 比利時 @ 荷蘭 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787830778.A.ACF.html",
-      "ts": 1787830778
+    "/bbs/SportLottery/M.1787870253.A.5CC.html": {
+      "title": "[LIVE] 棒球 皇家 藍鳥 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787870253.A.5CC.html",
+      "ts": 1787870253
     },
-    "/bbs/SportLottery/M.1787832507.A.496.html": {
-      "title": "[推薦] 網球 本日美網推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787832507.A.496.html",
-      "ts": 1787832507
+    "/bbs/SportLottery/M.1787870391.A.261.html": {
+      "title": "[推薦] 網球 碩二看WTA 蒙特雷 0828",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787870391.A.261.html",
+      "ts": 1787870391
     },
-    "/bbs/SportLottery/M.1787834230.A.510.html": {
-      "title": "[閒聊] 直覺誤導",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787834230.A.510.html",
-      "ts": 1787834230
+    "/bbs/SportLottery/M.1787872364.A.E6B.html": {
+      "title": "[官方] 115-08-28 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787872364.A.E6B.html",
+      "ts": 1787872364
     },
-    "/bbs/SportLottery/M.1787836627.A.14C.html": {
-      "title": "[推薦] 足球 珍珠奶茶看埃超（1065）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787836627.A.14C.html",
-      "ts": 1787836627
-    },
-    "/bbs/SportLottery/M.1787837421.A.5EB.html": {
-      "title": "[推薦] 足球 綠茶看埃超（1065）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787837421.A.5EB.html",
-      "ts": 1787837421
-    },
-    "/bbs/SportLottery/M.1787837469.A.51A.html": {
-      "title": "[LIVE] 埃超 加斯馬哈拉@現代體育 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787837469.A.51A.html",
-      "ts": 1787837469
-    },
-    "/bbs/SportLottery/M.1787840557.A.188.html": {
-      "title": "[推薦] 足球 綠茶看埃超（1073）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787840557.A.188.html",
-      "ts": 1787840557
-    },
-    "/bbs/SportLottery/M.1787841177.A.DD6.html": {
-      "title": "[推薦] 網球 奧格斯堡 - Zeng",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787841177.A.DD6.html",
-      "ts": 1787841177
-    },
-    "/bbs/SportLottery/M.1787842360.A.ACC.html": {
-      "title": "[推薦] 網球 碩二看ATP 奧格斯堡挑戰賽 0826",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787842360.A.ACC.html",
-      "ts": 1787842360
+    "/bbs/SportLottery/M.1787872432.A.C8A.html": {
+      "title": "[推薦] 電競 LPL兩場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787872432.A.C8A.html",
+      "ts": 1787872432
     }
   }
 }
