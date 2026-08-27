@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787820696,
+  "board_last_ts": 1787821214,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -74,6 +74,11 @@
       "title": "[推薦] 棒球 綠茶看日棒（111）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787820696.A.276.html",
       "ts": 1787820696
+    },
+    "/bbs/SportLottery/M.1787821214.A.473.html": {
+      "title": "[LIVE] NPB 樂天VS歐力士 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787821214.A.473.html",
+      "ts": 1787821214
     }
   }
 }
