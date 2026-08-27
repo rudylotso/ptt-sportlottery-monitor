@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787872432,
+  "board_last_ts": 1787874614,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1787857368.A.378.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787853039.A.3D9.html": {
-      "title": "[活動] 【八月過關王】第四週 8/29 09:59 截止",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787853039.A.3D9.html",
-      "ts": 1787853039
-    },
     "/bbs/SportLottery/M.1787854622.A.51D.html": {
       "title": "[推薦] 足球 綠茶看西甲（1059）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787854622.A.51D.html",
@@ -68,6 +63,11 @@
       "title": "[推薦] 電競 LPL兩場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787872432.A.C8A.html",
       "ts": 1787872432
+    },
+    "/bbs/SportLottery/M.1787874614.A.8B0.html": {
+      "title": "[推薦] 籃球 WNBA兩場+世界盃多場推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787874614.A.8B0.html",
+      "ts": 1787874614
     }
   }
 }
