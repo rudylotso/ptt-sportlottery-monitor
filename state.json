@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787917260,
+  "board_last_ts": 1787919179,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
@@ -121,6 +121,16 @@
       "title": "[推薦] 足球 墨超 8/29",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787917260.A.9E8.html",
       "ts": 1787917260
+    },
+    "/bbs/SportLottery/M.1787919078.A.FC4.html": {
+      "title": "[推薦] 籃球 WCQ Europe",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787919078.A.FC4.html",
+      "ts": 1787919078
+    },
+    "/bbs/SportLottery/M.1787919179.A.E6B.html": {
+      "title": "[推薦] 籃球2030粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787919179.A.E6B.html",
+      "ts": 1787919179
     }
   }
 }
