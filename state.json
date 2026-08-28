@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787912109,
+  "board_last_ts": 1787912920,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
@@ -105,6 +105,11 @@
       "title": "[推薦] 足球 珍珠奶茶看韓足（1148）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787912109.A.1D8.html",
       "ts": 1787912109
+    },
+    "/bbs/SportLottery/M.1787912920.A.C5A.html": {
+      "title": "[推薦] 足球 K2",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787912920.A.C5A.html",
+      "ts": 1787912920
     }
   }
 }
