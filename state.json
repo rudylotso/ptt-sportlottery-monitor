@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787874614,
+  "board_last_ts": 1787875131,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -68,6 +68,11 @@
       "title": "[推薦] 籃球 WNBA兩場+世界盃多場推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787874614.A.8B0.html",
       "ts": 1787874614
+    },
+    "/bbs/SportLottery/M.1787875131.A.5CC.html": {
+      "title": "[LIVE] 籃球 金州瓦爾基里VS紐約自由 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787875131.A.5CC.html",
+      "ts": 1787875131
     }
   }
 }
