@@ -21,7 +21,6 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787908016.A.18C.html": 3,
     "/bbs/SportLottery/M.1787911282.A.C79.html": 7,
     "/bbs/SportLottery/M.1787916306.A.803.html": 2,
     "/bbs/SportLottery/M.1787920348.A.544.html": 7,
@@ -30,11 +29,6 @@
     "/bbs/SportLottery/M.1787908598.A.824.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787908016.A.18C.html": {
-      "title": "[LIVE] NPB 樂天 4:8 西武 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787908016.A.18C.html",
-      "ts": 1787908016
-    },
     "/bbs/SportLottery/M.1787908598.A.824.html": {
       "title": "[推薦] 籃球 世界杯 菲律賓 @ 約旦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787908598.A.824.html",
