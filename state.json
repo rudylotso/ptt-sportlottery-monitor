@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787908598,
+  "board_last_ts": 1787909006,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
@@ -79,6 +79,11 @@
       "title": "[推薦] 籃球 世界杯 菲律賓 @ 約旦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787908598.A.824.html",
       "ts": 1787908598
+    },
+    "/bbs/SportLottery/M.1787909006.A.1BD.html": {
+      "title": "[推薦] 籃球 世界盃菲律賓VS約旦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787909006.A.1BD.html",
+      "ts": 1787909006
     }
   }
 }
