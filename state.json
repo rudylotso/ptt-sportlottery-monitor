@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787891951,
+  "board_last_ts": 1787894737,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -55,6 +55,11 @@
       "title": "[閒聊] 玩運動彩卷的\"運氣\"因素整理",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787891951.A.9F8.html",
       "ts": 1787891951
+    },
+    "/bbs/SportLottery/M.1787894737.A.7C0.html": {
+      "title": "[推薦] 電競  糕餅LPL",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787894737.A.7C0.html",
+      "ts": 1787894737
     }
   }
 }
