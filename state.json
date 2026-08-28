@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787900543,
+  "board_last_ts": 1787902811,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -45,6 +45,11 @@
       "title": "[LIVE] 女排 伊朗 @ 印尼 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787900543.A.A0B.html",
       "ts": 1787900543
+    },
+    "/bbs/SportLottery/M.1787902811.A.173.html": {
+      "title": "Re: [閒聊] 直覺誤導",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787902811.A.173.html",
+      "ts": 1787902811
     }
   }
 }
