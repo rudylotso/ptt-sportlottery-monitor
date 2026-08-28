@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787923948,
+  "board_last_ts": 1787928014,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
@@ -25,8 +25,9 @@
     "/bbs/SportLottery/M.1787911282.A.C79.html": 7,
     "/bbs/SportLottery/M.1787916306.A.803.html": 2,
     "/bbs/SportLottery/M.1787920348.A.544.html": 7,
-    "/bbs/SportLottery/M.1787923948.A.FCF.html": 1,
-    "/bbs/SportLottery/M.1787907775.A.A43.html": 3
+    "/bbs/SportLottery/M.1787923948.A.FCF.html": 3,
+    "/bbs/SportLottery/M.1787907775.A.A43.html": 3,
+    "/bbs/SportLottery/M.1787919179.A.E6B.html": 1
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787907775.A.A43.html": {
@@ -113,6 +114,11 @@
       "title": "[LIVE] 埃超 瓦迪德格拉@沙爾基亞恩比 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787923948.A.FCF.html",
       "ts": 1787923948
+    },
+    "/bbs/SportLottery/M.1787928014.A.F75.html": {
+      "title": "[推薦] 網球 碩二看ATP 美網資格賽 0828",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787928014.A.F75.html",
+      "ts": 1787928014
     }
   }
 }
