@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787912920,
+  "board_last_ts": 1787915972,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
     },
     "b032819": {
-      "last_ts": 1787854622
+      "last_ts": 1787915972
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -104,6 +104,11 @@
       "title": "[推薦] 足球 K2",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787912920.A.C5A.html",
       "ts": 1787912920
+    },
+    "/bbs/SportLottery/M.1787915972.A.9BE.html": {
+      "title": "[推薦] 足球 綠茶看中超（1087）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787915972.A.9BE.html",
+      "ts": 1787915972
     }
   }
 }
