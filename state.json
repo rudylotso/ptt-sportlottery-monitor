@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787902811,
+  "board_last_ts": 1787903659,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -50,6 +50,16 @@
       "title": "Re: [閒聊] 直覺誤導",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787902811.A.173.html",
       "ts": 1787902811
+    },
+    "/bbs/SportLottery/M.1787903393.A.17E.html": {
+      "title": "[推薦] 棒球[很明顯了]0829MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787903393.A.17E.html",
+      "ts": 1787903393
+    },
+    "/bbs/SportLottery/M.1787903659.A.126.html": {
+      "title": "[推薦] 電競  糕餅LCK",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787903659.A.126.html",
+      "ts": 1787903659
     }
   }
 }
