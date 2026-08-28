@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787894737,
+  "board_last_ts": 1787900543,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787790427
@@ -44,6 +44,11 @@
       "title": "[推薦] 電競  糕餅LPL",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787894737.A.7C0.html",
       "ts": 1787894737
+    },
+    "/bbs/SportLottery/M.1787900543.A.A0B.html": {
+      "title": "[LIVE] 女排 伊朗 @ 印尼 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787900543.A.A0B.html",
+      "ts": 1787900543
     }
   }
 }
