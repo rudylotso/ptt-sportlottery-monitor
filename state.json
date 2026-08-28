@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1787905503,
+  "board_last_ts": 1787907775,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1787790427
+      "last_ts": 1787907775
     },
     "b032819": {
       "last_ts": 1787854622
@@ -64,6 +64,11 @@
       "title": "[推薦] 足球 慢慢來比較快 推薦串關三場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787905503.A.7E5.html",
       "ts": 1787905503
+    },
+    "/bbs/SportLottery/M.1787907775.A.A43.html": {
+      "title": "[推薦] 籃球[小律師]2030菲律賓 @ 約旦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787907775.A.A43.html",
+      "ts": 1787907775
     }
   }
 }
