@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787916306,
+  "board_last_ts": 1787916753,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787907775
@@ -110,6 +110,11 @@
       "title": "[LIVE] 中超 北京國安 @ 大連英博 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787916306.A.803.html",
       "ts": 1787916306
+    },
+    "/bbs/SportLottery/M.1787916753.A.69C.html": {
+      "title": "[推薦] 足球 珍珠奶茶看中超（1087）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787916753.A.69C.html",
+      "ts": 1787916753
     }
   }
 }
