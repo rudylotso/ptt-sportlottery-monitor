@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1787988583,
+  "board_last_ts": 1787988974,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1787988583
+      "last_ts": 1787988974
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -21,16 +21,10 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1787967440.A.37B.html": 4,
     "/bbs/SportLottery/M.1787971310.A.A0C.html": 8,
     "/bbs/SportLottery/M.1787979895.A.47A.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787967440.A.37B.html": {
-      "title": "[推薦] 籃球1000粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787967440.A.37B.html",
-      "ts": 1787967440
-    },
     "/bbs/SportLottery/M.1787971310.A.A0C.html": {
       "title": "[LIVE] 墨超 普馬斯 0:2蒂華納 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787971310.A.A0C.html",
@@ -70,6 +64,11 @@
       "title": "[推薦] 足球 綠茶看日甲（1093）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787988583.A.34E.html",
       "ts": 1787988583
+    },
+    "/bbs/SportLottery/M.1787988974.A.410.html": {
+      "title": "[推薦] 棒球 綠茶看日棒（105）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787988974.A.410.html",
+      "ts": 1787988974
     }
   }
 }
