@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787972576,
+  "board_last_ts": 1787979622,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -41,7 +41,7 @@
       "ts": 1787967440
     },
     "/bbs/SportLottery/M.1787971310.A.A0C.html": {
-      "title": "[LIVE] 墨超 普馬斯  @ 蒂華納 場中",
+      "title": "[LIVE] 墨超 普馬斯 0:2蒂華納 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787971310.A.A0C.html",
       "ts": 1787971310
     },
@@ -49,6 +49,11 @@
       "title": "[推薦] 足球 墨超 - Zeng（X，一直控球不踢）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787972576.A.E91.html",
       "ts": 1787972576
+    },
+    "/bbs/SportLottery/M.1787979622.A.2F5.html": {
+      "title": "[推薦] 棒球 日棒五場推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787979622.A.2F5.html",
+      "ts": 1787979622
     }
   }
 }
