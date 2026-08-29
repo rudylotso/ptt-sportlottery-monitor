@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787993581,
+  "board_last_ts": 1787994922,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -90,6 +90,11 @@
       "title": "[LIVE] 日甲 廣島三箭@大阪飛腳 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787993581.A.C57.html",
       "ts": 1787993581
+    },
+    "/bbs/SportLottery/M.1787994922.A.09C.html": {
+      "title": "[推薦] 足球 日甲 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787994922.A.09C.html",
+      "ts": 1787994922
     }
   }
 }
