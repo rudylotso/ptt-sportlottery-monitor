@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788009670,
+  "board_last_ts": 1788010745,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -14,7 +14,7 @@
       "last_ts": 1778086613
     },
     "qmanpig": {
-      "last_ts": 1787483710
+      "last_ts": 1788010745
     },
     "bunabbey": {
       "last_ts": 0
@@ -26,11 +26,6 @@
     "/bbs/SportLottery/M.1788001471.A.2C6.html": 4
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787988974.A.410.html": {
-      "title": "[推薦] 棒球 綠茶看日棒（105）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787988974.A.410.html",
-      "ts": 1787988974
-    },
     "/bbs/SportLottery/M.1787990259.A.DDF.html": {
       "title": "[推薦] 電競 糕餅 LCK",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787990259.A.DDF.html",
@@ -95,6 +90,11 @@
       "title": "[推薦] 足球 珍珠奶茶看德甲（1121）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788009670.A.D89.html",
       "ts": 1788009670
+    },
+    "/bbs/SportLottery/M.1788010745.A.A0F.html": {
+      "title": "[推薦] 足球 英超艾佛頓 @ 伯恩茅斯 分析文",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788010745.A.A0F.html",
+      "ts": 1788010745
     }
   }
 }
