@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788041927,
+  "board_last_ts": 1788046500,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788024945.A.370.html": {
-      "title": "[推薦] 棒球 MLB - Zeng（O）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788024945.A.370.html",
-      "ts": 1788024945
-    },
     "/bbs/SportLottery/M.1788026346.A.817.html": {
       "title": "[推薦] 棒球0215粗暴推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788026346.A.817.html",
@@ -61,6 +56,11 @@
       "title": "[LIVE] 棒球 遊騎兵 釀酒人 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788045212.A.63F.html",
       "ts": 1788045212
+    },
+    "/bbs/SportLottery/M.1788046500.A.0B8.html": {
+      "title": "[LIVE] 棒球 遊騎兵 釀酒人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788046500.A.0B8.html",
+      "ts": 1788046500
     }
   }
 }
