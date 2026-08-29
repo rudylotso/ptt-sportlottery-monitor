@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788016134,
+  "board_last_ts": 1788045212,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788012999
+      "last_ts": 1788027890
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -20,62 +20,47 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788001471.A.2C6.html": 4,
-    "/bbs/SportLottery/M.1788010745.A.A0F.html": 2,
-    "/bbs/SportLottery/M.1788011429.A.299.html": 1,
-    "/bbs/SportLottery/M.1788013838.A.3CF.html": 1
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787996412.A.A6B.html": {
-      "title": "[推薦] 足球 韓國 巴西糖糖亂猜DAY14",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787996412.A.A6B.html",
-      "ts": 1787996412
+    "/bbs/SportLottery/M.1788024945.A.370.html": {
+      "title": "[推薦] 棒球 MLB - Zeng（O）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788024945.A.370.html",
+      "ts": 1788024945
     },
-    "/bbs/SportLottery/M.1787996935.A.125.html": {
-      "title": "[LIVE] 日甲 橫濱水手 2:3 浦和紅鑽 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787996935.A.125.html",
-      "ts": 1787996935
+    "/bbs/SportLottery/M.1788026346.A.817.html": {
+      "title": "[推薦] 棒球0215粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788026346.A.817.html",
+      "ts": 1788026346
     },
-    "/bbs/SportLottery/M.1788001471.A.2C6.html": {
-      "title": "[LIVE] 英超 諾丁漢森林2:2利物浦 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788001471.A.2C6.html",
-      "ts": 1788001471
+    "/bbs/SportLottery/M.1788026889.A.CCC.html": {
+      "title": "[推薦] 足球 綠茶看法甲（1035）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788026889.A.CCC.html",
+      "ts": 1788026889
     },
-    "/bbs/SportLottery/M.1788006535.A.C1C.html": {
-      "title": "[推薦] 足球 墨超 8/30",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788006535.A.C1C.html",
-      "ts": 1788006535
+    "/bbs/SportLottery/M.1788027890.A.AF1.html": {
+      "title": "[推薦] 足球 綠茶看美足（1066）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788027890.A.AF1.html",
+      "ts": 1788027890
     },
-    "/bbs/SportLottery/M.1788009670.A.D89.html": {
-      "title": "[推薦] 足球 珍珠奶茶看德甲（1121）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788009670.A.D89.html",
-      "ts": 1788009670
+    "/bbs/SportLottery/M.1788029413.A.886.html": {
+      "title": "[LIVE] 法甲 昂傑 @歐塞爾 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788029413.A.886.html",
+      "ts": 1788029413
     },
-    "/bbs/SportLottery/M.1788010745.A.A0F.html": {
-      "title": "[推薦] 足球 英超艾佛頓 @ 伯恩茅斯 分析文",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788010745.A.A0F.html",
-      "ts": 1788010745
+    "/bbs/SportLottery/M.1788031853.A.C4B.html": {
+      "title": "[推薦] 網球 碩二看ATP Winston-Salem (x)(x) QQ",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788031853.A.C4B.html",
+      "ts": 1788031853
     },
-    "/bbs/SportLottery/M.1788011429.A.299.html": {
-      "title": "[LIVE] 英超 艾佛頓 @ 伯恩茅斯 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788011429.A.299.html",
-      "ts": 1788011429
+    "/bbs/SportLottery/M.1788041927.A.9BB.html": {
+      "title": "[LIVE] 阿甲 里奧夸爾托學生 @ 颶風隊 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788041927.A.9BB.html",
+      "ts": 1788041927
     },
-    "/bbs/SportLottery/M.1788012999.A.D39.html": {
-      "title": "[推薦] 足球 綠茶看西甲（1140）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788012999.A.D39.html",
-      "ts": 1788012999
-    },
-    "/bbs/SportLottery/M.1788013838.A.3CF.html": {
-      "title": "[LIVE] 西甲 皇家貝提斯 @ 萊萬特  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788013838.A.3CF.html",
-      "ts": 1788013838
-    },
-    "/bbs/SportLottery/M.1788016134.A.243.html": {
-      "title": "[推薦] 足球2315粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788016134.A.243.html",
-      "ts": 1788016134
+    "/bbs/SportLottery/M.1788045212.A.63F.html": {
+      "title": "[LIVE] 棒球 遊騎兵 釀酒人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788045212.A.63F.html",
+      "ts": 1788045212
     }
   }
 }
