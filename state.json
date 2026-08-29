@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1787967440.A.37B.html": 2
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1787957432.A.8A2.html": {
       "title": "[LIVE] 棒球 大聯盟 教士 VS 光芒 場中",
