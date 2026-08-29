@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787979622,
+  "board_last_ts": 1787979895,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -25,11 +25,6 @@
     "/bbs/SportLottery/M.1787971310.A.A0C.html": 8
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1787958320.A.76E.html": {
-      "title": "[官方] 115-08-29 單場場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787958320.A.76E.html",
-      "ts": 1787958320
-    },
     "/bbs/SportLottery/M.1787958687.A.B44.html": {
       "title": "[實況] 棒球 道奇 老虎",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787958687.A.B44.html",
@@ -54,6 +49,11 @@
       "title": "[推薦] 棒球 日棒五場推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787979622.A.2F5.html",
       "ts": 1787979622
+    },
+    "/bbs/SportLottery/M.1787979895.A.47A.html": {
+      "title": "[LIVE] 棒球 羅德海洋  @ 日本火腿鬥士  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787979895.A.47A.html",
+      "ts": 1787979895
     }
   }
 }
