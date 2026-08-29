@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787853039,
+  "board_last_ts": 1787967440,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -36,6 +36,11 @@
       "title": "[實況] 棒球 道奇 老虎",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787958687.A.B44.html",
       "ts": 1787958687
+    },
+    "/bbs/SportLottery/M.1787967440.A.37B.html": {
+      "title": "[推薦] 籃球1000粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787967440.A.37B.html",
+      "ts": 1787967440
     }
   }
 }
