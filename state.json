@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787994922,
+  "board_last_ts": 1787995608,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -95,6 +95,11 @@
       "title": "[推薦] 足球 日甲 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787994922.A.09C.html",
       "ts": 1787994922
+    },
+    "/bbs/SportLottery/M.1787995608.A.792.html": {
+      "title": "[推薦] 足球 日甲 粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787995608.A.792.html",
+      "ts": 1787995608
     }
   }
 }
