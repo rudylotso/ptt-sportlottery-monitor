@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788013838,
+  "board_last_ts": 1788016134,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -80,6 +80,11 @@
       "title": "[LIVE] 西甲 皇家貝提斯 @ 萊萬特  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788013838.A.3CF.html",
       "ts": 1788013838
+    },
+    "/bbs/SportLottery/M.1788016134.A.243.html": {
+      "title": "[推薦] 足球2315粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788016134.A.243.html",
+      "ts": 1788016134
     }
   }
 }
