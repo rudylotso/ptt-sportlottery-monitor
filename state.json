@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1787979895,
+  "board_last_ts": 1787983419,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -49,6 +49,11 @@
       "title": "[LIVE] 棒球 羅德海洋  @ 日本火腿鬥士  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1787979895.A.47A.html",
       "ts": 1787979895
+    },
+    "/bbs/SportLottery/M.1787983419.A.140.html": {
+      "title": "[推薦] 棒球 土曜日情海黑龍王的棒球時間",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1787983419.A.140.html",
+      "ts": 1787983419
     }
   }
 }
