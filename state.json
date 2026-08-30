@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788101900,
+  "board_last_ts": 1788103060,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788081659
+      "last_ts": 1788103060
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -100,6 +100,16 @@
       "title": "[LIVE] 英超 伊普斯維奇 @ 曼聯 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788101900.A.014.html",
       "ts": 1788101900
+    },
+    "/bbs/SportLottery/M.1788102907.A.381.html": {
+      "title": "[推薦] 足球2330粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788102907.A.381.html",
+      "ts": 1788102907
+    },
+    "/bbs/SportLottery/M.1788103060.A.925.html": {
+      "title": "[推薦] 足球 綠茶看英超（1170）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788103060.A.925.html",
+      "ts": 1788103060
     }
   }
 }
