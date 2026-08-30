@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788080352.A.95F.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788060456.A.CBF.html": {
       "title": "[官方] 115-08-30 單場場中",
