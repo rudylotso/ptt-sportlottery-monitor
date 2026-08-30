@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788059245,
+  "board_last_ts": 1788060456,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -74,6 +74,11 @@
       "title": "[推薦] 足球 墨超 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788059245.A.3A5.html",
       "ts": 1788059245
+    },
+    "/bbs/SportLottery/M.1788060456.A.CBF.html": {
+      "title": "[官方] 115-08-30 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788060456.A.CBF.html",
+      "ts": 1788060456
     }
   }
 }
