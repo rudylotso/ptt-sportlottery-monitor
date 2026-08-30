@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788080352,
+  "board_last_ts": 1788080876,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788059245.A.3A5.html": {
-      "title": "[推薦] 足球 墨超 - Zeng",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788059245.A.3A5.html",
-      "ts": 1788059245
-    },
     "/bbs/SportLottery/M.1788060456.A.CBF.html": {
       "title": "[官方] 115-08-30 單場場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788060456.A.CBF.html",
@@ -91,6 +86,11 @@
       "title": "[LIVE] 日丙 松本山雅 @ 北九州向日葵  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788080352.A.95F.html",
       "ts": 1788080352
+    },
+    "/bbs/SportLottery/M.1788080876.A.A82.html": {
+      "title": "[LIVE] 棒球 統一 樂天 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788080876.A.A82.html",
+      "ts": 1788080876
     }
   }
 }
