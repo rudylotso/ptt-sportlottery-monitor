@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788103060,
+  "board_last_ts": 1788103270,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -26,11 +26,6 @@
     "/bbs/SportLottery/M.1788094567.A.408.html": 6
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788081659.A.CD8.html": {
-      "title": "[推薦] 足球 綠茶看韓足（1468）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788081659.A.CD8.html",
-      "ts": 1788081659
-    },
     "/bbs/SportLottery/M.1788082860.A.9A1.html": {
       "title": "[推薦] 足球 珍珠奶茶看韓足（1468）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788082860.A.9A1.html",
@@ -110,6 +105,11 @@
       "title": "[推薦] 足球 綠茶看英超（1170）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788103060.A.925.html",
       "ts": 1788103060
+    },
+    "/bbs/SportLottery/M.1788103270.A.1C5.html": {
+      "title": "[推薦] 棒球[很明顯了]0831MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788103270.A.1C5.html",
+      "ts": 1788103270
     }
   }
 }
