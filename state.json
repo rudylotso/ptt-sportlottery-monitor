@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788048851,
+  "board_last_ts": 1788049389,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788027890
+      "last_ts": 1788049389
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -56,6 +56,11 @@
       "title": "[推薦] 籃球 多倫多節奏VS鳳凰城水星",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788048851.A.6BF.html",
       "ts": 1788048851
+    },
+    "/bbs/SportLottery/M.1788049389.A.4CC.html": {
+      "title": "[推薦] 足球 綠茶看美足（1108）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788049389.A.4CC.html",
+      "ts": 1788049389
     }
   }
 }
