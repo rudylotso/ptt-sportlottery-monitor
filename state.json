@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788050629.A.301.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788031853.A.C4B.html": {
       "title": "[推薦] 網球 碩二看ATP Winston-Salem (x)(x) QQ",
