@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788048620,
+  "board_last_ts": 1788048851,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -56,6 +56,11 @@
       "title": "[LIVE] 棒球 遊騎兵 釀酒人 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788048620.A.869.html",
       "ts": 1788048620
+    },
+    "/bbs/SportLottery/M.1788048851.A.6BF.html": {
+      "title": "[推薦] 籃球 多倫多節奏VS鳳凰城水星",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788048851.A.6BF.html",
+      "ts": 1788048851
     }
   }
 }
