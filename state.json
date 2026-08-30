@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788057105,
+  "board_last_ts": 1788059245,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -69,6 +69,11 @@
       "title": "[LIVE] 美足 洛杉磯銀河  @ 聖地牙哥 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788057105.A.1E9.html",
       "ts": 1788057105
+    },
+    "/bbs/SportLottery/M.1788059245.A.3A5.html": {
+      "title": "[推薦] 足球 墨超 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788059245.A.3A5.html",
+      "ts": 1788059245
     }
   }
 }
