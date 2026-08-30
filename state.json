@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788088362,
+  "board_last_ts": 1788089421,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -108,6 +108,11 @@
       "title": "[推薦] 足球 珍珠奶茶看比利時甲（1478）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788088362.A.9E1.html",
       "ts": 1788088362
+    },
+    "/bbs/SportLottery/M.1788089421.A.40F.html": {
+      "title": "[LIVE] 德乙 漢諾威96 @ 達姆施塔特98  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788089421.A.40F.html",
+      "ts": 1788089421
     }
   }
 }
