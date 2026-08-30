@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788101310,
+  "board_last_ts": 1788101561,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -101,6 +101,11 @@
       "title": "[推薦] 足球 巴西 糖糖亂猜DAY15",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788101310.A.E51.html",
       "ts": 1788101310
+    },
+    "/bbs/SportLottery/M.1788101561.A.DAF.html": {
+      "title": "[推薦] 網球 WTA美網 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788101561.A.DAF.html",
+      "ts": 1788101561
     }
   }
 }
