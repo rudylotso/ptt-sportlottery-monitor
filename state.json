@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788073516,
+  "board_last_ts": 1788075180,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788049389
+      "last_ts": 1788075180
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -63,6 +63,11 @@
       "title": "[推薦] 足球 珍珠奶茶看日丙（1459）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788073516.A.C87.html",
       "ts": 1788073516
+    },
+    "/bbs/SportLottery/M.1788075180.A.323.html": {
+      "title": "[推薦] 足球 綠茶看日丙（1459）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788075180.A.323.html",
+      "ts": 1788075180
     }
   }
 }
