@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788087562,
+  "board_last_ts": 1788088362,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1788080352.A.95F.html": 10
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788066748.A.E41.html": {
-      "title": "[推薦] 棒球 日曜日情海黑龍王的棒球時間",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788066748.A.E41.html",
-      "ts": 1788066748
-    },
     "/bbs/SportLottery/M.1788069237.A.FF2.html": {
       "title": "[推薦] 棒球 日棒四場推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788069237.A.FF2.html",
@@ -108,6 +103,11 @@
       "title": "[推薦] 足球 英超布萊頓 @ 切爾西 分析文",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788087562.A.C49.html",
       "ts": 1788087562
+    },
+    "/bbs/SportLottery/M.1788088362.A.9E1.html": {
+      "title": "[推薦] 足球 珍珠奶茶看比利時甲（1478）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788088362.A.9E1.html",
+      "ts": 1788088362
     }
   }
 }
