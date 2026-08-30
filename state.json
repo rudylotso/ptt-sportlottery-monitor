@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788094567,
+  "board_last_ts": 1788096528,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -111,6 +111,11 @@
       "title": "[LIVE] 英超 布萊頓 @ 切爾西 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788094567.A.408.html",
       "ts": 1788094567
+    },
+    "/bbs/SportLottery/M.1788096528.A.E54.html": {
+      "title": "[推薦] 足球 墨超 8/31",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788096528.A.E54.html",
+      "ts": 1788096528
     }
   }
 }
