@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788100418,
+  "board_last_ts": 1788101310,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -91,6 +91,16 @@
       "title": "[推薦] 籃球 四場世界盃推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788100418.A.8F7.html",
       "ts": 1788100418
+    },
+    "/bbs/SportLottery/M.1788101143.A.50D.html": {
+      "title": "[LIVE] 網球 埃爾賈維克@J.寶莉妮  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788101143.A.50D.html",
+      "ts": 1788101143
+    },
+    "/bbs/SportLottery/M.1788101310.A.E51.html": {
+      "title": "[推薦] 足球 巴西 糖糖亂猜DAY15",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788101310.A.E51.html",
+      "ts": 1788101310
     }
   }
 }
