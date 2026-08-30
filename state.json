@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788096528,
+  "board_last_ts": 1788099680,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -81,6 +81,11 @@
       "title": "[推薦] 足球 墨超 8/31",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788096528.A.E54.html",
       "ts": 1788096528
+    },
+    "/bbs/SportLottery/M.1788099680.A.A37.html": {
+      "title": "[推薦] 網球 碩二看ATP 美網 0830",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788099680.A.A37.html",
+      "ts": 1788099680
     }
   }
 }
