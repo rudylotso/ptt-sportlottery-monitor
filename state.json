@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788085128,
+  "board_last_ts": 1788087562,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -14,7 +14,7 @@
       "last_ts": 1778086613
     },
     "qmanpig": {
-      "last_ts": 1788010745
+      "last_ts": 1788087562
     },
     "bunabbey": {
       "last_ts": 0
@@ -108,6 +108,11 @@
       "title": "[推薦] 足球 韓國 糖糖亂猜DAY15",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788085128.A.8D5.html",
       "ts": 1788085128
+    },
+    "/bbs/SportLottery/M.1788087562.A.C49.html": {
+      "title": "[推薦] 足球 英超布萊頓 @ 切爾西 分析文",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788087562.A.C49.html",
+      "ts": 1788087562
     }
   }
 }
