@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788187469,
+  "board_last_ts": 1788188111,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -69,6 +69,11 @@
       "title": "[推薦] 棒球 丹狗牌 MLB 單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788187469.A.E0C.html",
       "ts": 1788187469
+    },
+    "/bbs/SportLottery/M.1788188111.A.88A.html": {
+      "title": "[推薦] 網球2300粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788188111.A.88A.html",
+      "ts": 1788188111
     }
   }
 }
