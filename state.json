@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788162291,
+  "board_last_ts": 1788167130,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -36,6 +36,11 @@
       "title": "[推薦] 棒球[很明顯了]0901MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788162291.A.B61.html",
       "ts": 1788162291
+    },
+    "/bbs/SportLottery/M.1788167130.A.A2F.html": {
+      "title": "[推薦] 籃球1930粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788167130.A.A2F.html",
+      "ts": 1788167130
     }
   }
 }
