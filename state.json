@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788141566,
+  "board_last_ts": 1788152337,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -51,6 +51,11 @@
       "title": "[LIVE] 足球 聖路易斯競技（3：1）蒙特雷 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788141566.A.69B.html",
       "ts": 1788141566
+    },
+    "/bbs/SportLottery/M.1788152337.A.8F6.html": {
+      "title": "[推薦] 足球 慢慢來比較快 推薦三關一串",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788152337.A.8F6.html",
+      "ts": 1788152337
     }
   }
 }
