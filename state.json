@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788140556,
+  "board_last_ts": 1788141566,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788140556
+      "last_ts": 1788141566
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -48,7 +48,7 @@
       "ts": 1788131799
     },
     "/bbs/SportLottery/M.1788135784.A.48A.html": {
-      "title": "[LIVE]  足球 華雷斯 @ 托路卡 場中",
+      "title": "[LIVE]  足球 華雷斯（0：4）托路卡 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788135784.A.48A.html",
       "ts": 1788135784
     },
@@ -56,6 +56,11 @@
       "title": "[推薦] 足球 綠茶看墨超（1226）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788140556.A.A30.html",
       "ts": 1788140556
+    },
+    "/bbs/SportLottery/M.1788141566.A.69B.html": {
+      "title": "[LIVE] 足球 聖路易斯競技 @ 蒙特雷 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788141566.A.69B.html",
+      "ts": 1788141566
     }
   }
 }
