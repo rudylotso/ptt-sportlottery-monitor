@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788181859,
+  "board_last_ts": 1788182949,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -54,6 +54,11 @@
       "title": "[推薦] 棒球 MLB 9/1單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788181859.A.B6D.html",
       "ts": 1788181859
+    },
+    "/bbs/SportLottery/M.1788182949.A.26B.html": {
+      "title": "[LIVE] 排球 斯洛維尼亞 @ 荷蘭 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788182949.A.26B.html",
+      "ts": 1788182949
     }
   }
 }
