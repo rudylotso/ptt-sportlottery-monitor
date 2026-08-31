@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788167130,
+  "board_last_ts": 1788170721,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788141566
+      "last_ts": 1788170721
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -41,6 +41,11 @@
       "title": "[推薦] 籃球1930粗暴推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788167130.A.A2F.html",
       "ts": 1788167130
+    },
+    "/bbs/SportLottery/M.1788170721.A.D8F.html": {
+      "title": "[推薦] 籃球 綠茶看世界盃（306）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788170721.A.D8F.html",
+      "ts": 1788170721
     }
   }
 }
