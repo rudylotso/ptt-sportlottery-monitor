@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788175797,
+  "board_last_ts": 1788181859,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -22,7 +22,7 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1788170721.A.D8F.html": 2,
-    "/bbs/SportLottery/M.1788175797.A.CA8.html": 8
+    "/bbs/SportLottery/M.1788175797.A.CA8.html": 10
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788162291.A.B61.html": {
@@ -49,6 +49,11 @@
       "title": "[LIVE] 黎巴嫩@中國 FIBA 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788175797.A.CA8.html",
       "ts": 1788175797
+    },
+    "/bbs/SportLottery/M.1788181859.A.B6D.html": {
+      "title": "[推薦] 棒球 MLB 9/1單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788181859.A.B6D.html",
+      "ts": 1788181859
     }
   }
 }
