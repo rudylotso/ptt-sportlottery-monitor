@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788219563,
+  "board_last_ts": 1788219593,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -31,6 +31,11 @@
       "title": "[LIVE] 紐維爾舊生 @ 拉普拉塔學生",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788219563.A.537.html",
       "ts": 1788219563
+    },
+    "/bbs/SportLottery/M.1788219593.A.C8B.html": {
+      "title": "[LIVE] 大都會@光芒",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788219593.A.C8B.html",
+      "ts": 1788219593
     }
   }
 }
