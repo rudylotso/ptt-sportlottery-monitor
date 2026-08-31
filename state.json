@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788188111,
+  "board_last_ts": 1788217939,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -20,55 +20,12 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788170721.A.D8F.html": 2,
-    "/bbs/SportLottery/M.1788175797.A.CA8.html": 21
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788170721.A.D8F.html": {
-      "title": "[推薦] 籃球 綠茶看世界盃（306）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788170721.A.D8F.html",
-      "ts": 1788170721
-    },
-    "/bbs/SportLottery/M.1788171104.A.FE9.html": {
-      "title": "[推薦] 籃球 珍珠奶茶看世界盃（304）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788171104.A.FE9.html",
-      "ts": 1788171104
-    },
-    "/bbs/SportLottery/M.1788175797.A.CA8.html": {
-      "title": "[LIVE] 黎巴嫩@中國 FIBA 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788175797.A.CA8.html",
-      "ts": 1788175797
-    },
-    "/bbs/SportLottery/M.1788181859.A.B6D.html": {
-      "title": "[推薦] 棒球 MLB 9/1單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788181859.A.B6D.html",
-      "ts": 1788181859
-    },
-    "/bbs/SportLottery/M.1788182949.A.26B.html": {
-      "title": "[LIVE] 排球 斯洛維尼亞 @ 荷蘭 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788182949.A.26B.html",
-      "ts": 1788182949
-    },
-    "/bbs/SportLottery/M.1788186340.A.154.html": {
-      "title": "[推薦] 足球 珍珠奶茶看義甲（1148）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788186340.A.154.html",
-      "ts": 1788186340
-    },
-    "/bbs/SportLottery/M.1788186885.A.770.html": {
-      "title": "[LIVE] 網球 亞瑟.費爾斯@西西帕斯  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788186885.A.770.html",
-      "ts": 1788186885
-    },
-    "/bbs/SportLottery/M.1788187469.A.E0C.html": {
-      "title": "[推薦] 棒球 丹狗牌 MLB 單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788187469.A.E0C.html",
-      "ts": 1788187469
-    },
-    "/bbs/SportLottery/M.1788188111.A.88A.html": {
-      "title": "[推薦] 網球2300粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788188111.A.88A.html",
-      "ts": 1788188111
+    "/bbs/SportLottery/M.1788217939.A.5E3.html": {
+      "title": "[官方] 115-09-01 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788217939.A.5E3.html",
+      "ts": 1788217939
     }
   }
 }
