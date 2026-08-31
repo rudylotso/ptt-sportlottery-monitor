@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788186885,
+  "board_last_ts": 1788187469,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -64,6 +64,11 @@
       "title": "[LIVE] 網球 亞瑟.費爾斯@西西帕斯  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788186885.A.770.html",
       "ts": 1788186885
+    },
+    "/bbs/SportLottery/M.1788187469.A.E0C.html": {
+      "title": "[推薦] 棒球 丹狗牌 MLB 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788187469.A.E0C.html",
+      "ts": 1788187469
     }
   }
 }
