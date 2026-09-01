@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788254217,
+  "board_last_ts": 1788256237,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -41,6 +41,11 @@
       "title": "[推薦] 綜合 0901 棒球 排球 (+/-)^2",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788254217.A.3F4.html",
       "ts": 1788254217
+    },
+    "/bbs/SportLottery/M.1788256237.A.CC1.html": {
+      "title": "[實況] 棒球 09/01 日職開搞",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788256237.A.CC1.html",
+      "ts": 1788256237
     }
   }
 }
