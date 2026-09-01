@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788226446,
+  "board_last_ts": 1788227372,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -59,6 +59,16 @@
       "title": "[推薦] 棒球0940粗暴推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788226446.A.413.html",
       "ts": 1788226446
+    },
+    "/bbs/SportLottery/M.1788227368.A.544.html": {
+      "title": "[LIVE] MLB 費城費城人@亞歷桑那響尾蛇 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788227368.A.544.html",
+      "ts": 1788227368
+    },
+    "/bbs/SportLottery/M.1788227372.A.BD6.html": {
+      "title": "[推薦] 羽球 中國大師賽32強 教練推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788227372.A.BD6.html",
+      "ts": 1788227372
     }
   }
 }
