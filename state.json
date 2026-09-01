@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788250093,
+  "board_last_ts": 1788254217,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -36,6 +36,11 @@
       "title": "[LIVE] 網球 史奎爾ret. 0:1 賈努  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788250093.A.2A7.html",
       "ts": 1788250093
+    },
+    "/bbs/SportLottery/M.1788254217.A.3F4.html": {
+      "title": "[推薦] 綜合 0901 棒球 排球 (+/-)^2",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788254217.A.3F4.html",
+      "ts": 1788254217
     }
   }
 }
