@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788272938,
+  "board_last_ts": 1788275870,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1788266457.A.D73.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788254217.A.3F4.html": {
-      "title": "[推薦] 綜合 0901 棒球 排球 (+/-)^2",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788254217.A.3F4.html",
-      "ts": 1788254217
-    },
     "/bbs/SportLottery/M.1788256237.A.CC1.html": {
       "title": "[實況] 棒球 09/01 日職開搞",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788256237.A.CC1.html",
@@ -78,6 +73,11 @@
       "title": "[推薦] 網球 碩三看ATP 美網 0901",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788272938.A.BE7.html",
       "ts": 1788272938
+    },
+    "/bbs/SportLottery/M.1788275870.A.E46.html": {
+      "title": "[推薦] 網球 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788275870.A.E46.html",
+      "ts": 1788275870
     }
   }
 }
