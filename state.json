@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788268939,
+  "board_last_ts": 1788270253,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1788266457.A.D73.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788248659.A.669.html": {
-      "title": "[推薦] 足球 慢慢來比較快 推薦三場串關",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788248659.A.669.html",
-      "ts": 1788248659
-    },
     "/bbs/SportLottery/M.1788249300.A.480.html": {
       "title": "[推薦] 電競 LOL 山城恋推LCK 0901",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788249300.A.480.html",
@@ -83,6 +78,11 @@
       "title": "[推薦] 足球 珍珠奶茶看埃超（1078）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788268939.A.D72.html",
       "ts": 1788268939
+    },
+    "/bbs/SportLottery/M.1788270253.A.8D0.html": {
+      "title": "[LIVE] 埃超 ZED足球會@陸軍先鋒 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788270253.A.8D0.html",
+      "ts": 1788270253
     }
   }
 }
