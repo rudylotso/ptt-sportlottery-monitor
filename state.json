@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788256237,
+  "board_last_ts": 1788256727,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -46,6 +46,11 @@
       "title": "[實況] 棒球 09/01 日職開搞",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788256237.A.CC1.html",
       "ts": 1788256237
+    },
+    "/bbs/SportLottery/M.1788256727.A.7BE.html": {
+      "title": "[LIVE] 網球 尼克爾斯 @ 奧勒.瓦林 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788256727.A.7BE.html",
+      "ts": 1788256727
     }
   }
 }
