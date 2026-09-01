@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788219593,
+  "board_last_ts": 1788222310,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
     },
     "b032819": {
-      "last_ts": 1788170721
+      "last_ts": 1788222310
     },
     "bvbin10242": {
       "last_ts": 1787815117
@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788219563.A.537.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788217939.A.5E3.html": {
       "title": "[官方] 115-09-01 單場場中",
@@ -36,6 +38,11 @@
       "title": "[LIVE] 大都會@光芒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788219593.A.C8B.html",
       "ts": 1788219593
+    },
+    "/bbs/SportLottery/M.1788222310.A.4F6.html": {
+      "title": "[LIVE] 足球 聖羅倫佐 @ 科爾多瓦學院 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788222310.A.4F6.html",
+      "ts": 1788222310
     }
   }
 }
