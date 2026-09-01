@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788270253,
+  "board_last_ts": 1788272938,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -73,6 +73,11 @@
       "title": "[LIVE] 埃超 ZED足球會@陸軍先鋒 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788270253.A.8D0.html",
       "ts": 1788270253
+    },
+    "/bbs/SportLottery/M.1788272938.A.BE7.html": {
+      "title": "[推薦] 網球 碩三看ATP 美網 0901",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788272938.A.BE7.html",
+      "ts": 1788272938
     }
   }
 }
