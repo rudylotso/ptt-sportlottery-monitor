@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788306115,
+  "board_last_ts": 1788306446,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -46,6 +46,11 @@
       "title": "[推薦] 足球 綠茶看巴西盃（1092）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788306115.A.290.html",
       "ts": 1788306115
+    },
+    "/bbs/SportLottery/M.1788306446.A.249.html": {
+      "title": "[推薦] 足球 巴西盃貓膩",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788306446.A.249.html",
+      "ts": 1788306446
     }
   }
 }
