@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788312980,
+  "board_last_ts": 1788320107,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -69,6 +69,11 @@
       "title": "[LIVE] 棒球 費城人 @ 響尾蛇 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788312980.A.217.html",
       "ts": 1788312980
+    },
+    "/bbs/SportLottery/M.1788320107.A.6C1.html": {
+      "title": "[推薦] 網球 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788320107.A.6C1.html",
+      "ts": 1788320107
     }
   }
 }
