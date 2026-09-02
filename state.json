@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788308654,
+  "board_last_ts": 1788312378,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -64,6 +64,11 @@
       "title": "[LIVE] 克魯塞羅  @ 米內羅競技 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788308654.A.D78.html",
       "ts": 1788308654
+    },
+    "/bbs/SportLottery/M.1788312378.A.E60.html": {
+      "title": "[推薦] 網球 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788312378.A.E60.html",
+      "ts": 1788312378
     }
   }
 }
