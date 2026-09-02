@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788353216,
+  "board_last_ts": 1788353833,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -88,6 +88,11 @@
       "title": "[推薦] 足球[小律師]弗羅西諾內 @ 薩索羅",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788353216.A.4A7.html",
       "ts": 1788353216
+    },
+    "/bbs/SportLottery/M.1788353833.A.179.html": {
+      "title": "[LIVE] 義大利杯 弗羅西諾內@薩索羅  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788353833.A.179.html",
+      "ts": 1788353833
     }
   }
 }
