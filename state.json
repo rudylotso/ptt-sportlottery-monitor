@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788357379,
+  "board_last_ts": 1788359020,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -84,6 +84,11 @@
       "title": "[推薦] 足球 珍珠奶茶看埃超（1128）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788357379.A.4CB.html",
       "ts": 1788357379
+    },
+    "/bbs/SportLottery/M.1788359020.A.257.html": {
+      "title": "[LIVE] 埃超 阿拉伯承包商 @ 艾爾古納",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788359020.A.257.html",
+      "ts": 1788359020
     }
   }
 }
