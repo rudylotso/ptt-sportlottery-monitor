@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788362003,
+  "board_last_ts": 1788389926,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -20,67 +20,32 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788341581.A.5E3.html": 6,
-    "/bbs/SportLottery/M.1788353833.A.179.html": 12,
-    "/bbs/SportLottery/M.1788357379.A.4CB.html": 1,
-    "/bbs/SportLottery/M.1788359020.A.257.html": 2
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788341581.A.5E3.html": {
-      "title": "[LIVE] 日甲 FC東京1:1清水心跳 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788341581.A.5E3.html",
-      "ts": 1788341581
+    "/bbs/SportLottery/M.1788375582.A.AC0.html": {
+      "title": "[推薦] 足球 巴西 糖糖亂猜DAY16",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788375582.A.AC0.html",
+      "ts": 1788375582
     },
-    "/bbs/SportLottery/M.1788342760.A.D82.html": {
-      "title": "[推薦] 足球 日聯第五輪",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788342760.A.D82.html",
-      "ts": 1788342760
+    "/bbs/SportLottery/M.1788384006.A.2B6.html": {
+      "title": "[推薦] 網球 碩三看ATP 美網 0903",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788384006.A.2B6.html",
+      "ts": 1788384006
     },
-    "/bbs/SportLottery/M.1788345677.A.C0E.html": {
-      "title": "[LIVE] 中職 統一獅 6:1 富邦悍將 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788345677.A.C0E.html",
-      "ts": 1788345677
+    "/bbs/SportLottery/M.1788387679.A.8BF.html": {
+      "title": "[LIVE] 瓜亞基爾城  @ 昆卡競技 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788387679.A.8BF.html",
+      "ts": 1788387679
     },
-    "/bbs/SportLottery/M.1788352476.A.84C.html": {
-      "title": "[推薦] 足球 珍珠奶茶看義大利盃（1143）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788352476.A.84C.html",
-      "ts": 1788352476
+    "/bbs/SportLottery/M.1788387775.A.3C5.html": {
+      "title": "[LIVE] 米拉索爾@佛朗明哥 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788387775.A.3C5.html",
+      "ts": 1788387775
     },
-    "/bbs/SportLottery/M.1788353216.A.4A7.html": {
-      "title": "[推薦] 足球[小律師]弗羅西諾內 @ 薩索羅",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788353216.A.4A7.html",
-      "ts": 1788353216
-    },
-    "/bbs/SportLottery/M.1788353833.A.179.html": {
-      "title": "[LIVE] 義大利杯 弗羅西諾內@薩索羅  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788353833.A.179.html",
-      "ts": 1788353833
-    },
-    "/bbs/SportLottery/M.1788357379.A.4CB.html": {
-      "title": "[推薦] 足球 珍珠奶茶看埃超（1128）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788357379.A.4CB.html",
-      "ts": 1788357379
-    },
-    "/bbs/SportLottery/M.1788359020.A.257.html": {
-      "title": "[LIVE] 埃超 阿拉伯承包商 @ 艾爾古納",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788359020.A.257.html",
-      "ts": 1788359020
-    },
-    "/bbs/SportLottery/M.1788359604.A.50A.html": {
-      "title": "[推薦] 網球 碩二看ATP 美網 0902",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788359604.A.50A.html",
-      "ts": 1788359604
-    },
-    "/bbs/SportLottery/M.1788360984.A.F73.html": {
-      "title": "[推薦] 網球 單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788360984.A.F73.html",
-      "ts": 1788360984
-    },
-    "/bbs/SportLottery/M.1788362003.A.D87.html": {
-      "title": "[推薦] 棒球 [涼涼]MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788362003.A.D87.html",
-      "ts": 1788362003
+    "/bbs/SportLottery/M.1788389926.A.835.html": {
+      "title": "[官方] 115-09-03 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788389926.A.835.html",
+      "ts": 1788389926
     }
   }
 }
