@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788359604,
+  "board_last_ts": 1788360984,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -22,7 +22,7 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1788341581.A.5E3.html": 6,
-    "/bbs/SportLottery/M.1788353833.A.179.html": 7,
+    "/bbs/SportLottery/M.1788353833.A.179.html": 10,
     "/bbs/SportLottery/M.1788357379.A.4CB.html": 1,
     "/bbs/SportLottery/M.1788359020.A.257.html": 2
   },
@@ -81,6 +81,11 @@
       "title": "[推薦] 網球 碩二看ATP 美網 0902",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788359604.A.50A.html",
       "ts": 1788359604
+    },
+    "/bbs/SportLottery/M.1788360984.A.F73.html": {
+      "title": "[推薦] 網球 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788360984.A.F73.html",
+      "ts": 1788360984
     }
   }
 }
