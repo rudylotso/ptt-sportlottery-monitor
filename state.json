@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788342760,
+  "board_last_ts": 1788345677,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -76,6 +76,11 @@
       "title": "[推薦] 足球 日聯第五輪",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788342760.A.D82.html",
       "ts": 1788342760
+    },
+    "/bbs/SportLottery/M.1788345677.A.C0E.html": {
+      "title": "[LIVE] 中職 統一獅@富邦悍將 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788345677.A.C0E.html",
+      "ts": 1788345677
     }
   }
 }
