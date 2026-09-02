@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788340746,
+  "board_last_ts": 1788341581,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788320107.A.6C1.html": {
-      "title": "[推薦] 網球 單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788320107.A.6C1.html",
-      "ts": 1788320107
-    },
     "/bbs/SportLottery/M.1788321840.A.48B.html": {
       "title": "[推薦] 網球 碩三看ATP 張家港挑戰賽 0902",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788321840.A.48B.html",
@@ -81,6 +76,11 @@
       "title": "[推薦] 足球 日本",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788340746.A.9D1.html",
       "ts": 1788340746
+    },
+    "/bbs/SportLottery/M.1788341581.A.5E3.html": {
+      "title": "[LIVE] 日甲 FC東京@清水心跳 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788341581.A.5E3.html",
+      "ts": 1788341581
     }
   }
 }
