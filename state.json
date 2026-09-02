@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788341581,
+  "board_last_ts": 1788342760,
   "accounts": {
     "lotterywin": {
       "last_ts": 1787933358
@@ -81,6 +81,11 @@
       "title": "[LIVE] 日甲 FC東京@清水心跳 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788341581.A.5E3.html",
       "ts": 1788341581
+    },
+    "/bbs/SportLottery/M.1788342760.A.D82.html": {
+      "title": "[推薦] 足球 日聯第五輪",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788342760.A.D82.html",
+      "ts": 1788342760
     }
   }
 }
