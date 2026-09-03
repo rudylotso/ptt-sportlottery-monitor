@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788432671,
+  "board_last_ts": 1788436523,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -56,6 +56,11 @@
       "title": "[LIVE] 網球 賈努 @ 尼克爾斯 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788432671.A.4CF.html",
       "ts": 1788432671
+    },
+    "/bbs/SportLottery/M.1788436523.A.BB8.html": {
+      "title": "[LIVE] 俄冰 克拉斯諾亞斯克@諾爾裡斯克 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788436523.A.BB8.html",
+      "ts": 1788436523
     }
   }
 }
