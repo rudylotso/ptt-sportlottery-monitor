@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788395750,
+  "board_last_ts": 1788397161,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788375582.A.AC0.html": {
-      "title": "[推薦] 足球 巴西 糖糖亂猜DAY16",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788375582.A.AC0.html",
-      "ts": 1788375582
-    },
     "/bbs/SportLottery/M.1788384006.A.2B6.html": {
       "title": "[推薦] 網球 碩三看ATP 美網 0903",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788384006.A.2B6.html",
@@ -51,6 +46,11 @@
       "title": "[LIVE] 巴西盃 瓦斯科達伽馬 @ 維多利亞",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788395750.A.62F.html",
       "ts": 1788395750
+    },
+    "/bbs/SportLottery/M.1788397161.A.FE5.html": {
+      "title": "[推薦] 羽球 早上超級大串燒",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788397161.A.FE5.html",
+      "ts": 1788397161
     }
   }
 }
