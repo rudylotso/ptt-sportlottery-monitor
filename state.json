@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788439260,
+  "board_last_ts": 1788443776,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -55,6 +55,11 @@
       "title": "[LIVE] 排球 荷蘭VS波蘭 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788439260.A.68B.html",
       "ts": 1788439260
+    },
+    "/bbs/SportLottery/M.1788443776.A.166.html": {
+      "title": "[推薦] 棒球 巨人 海盜 保全",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788443776.A.166.html",
+      "ts": 1788443776
     }
   }
 }
