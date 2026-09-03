@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788443776,
+  "board_last_ts": 1788445916,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -60,6 +60,16 @@
       "title": "[推薦] 棒球 巨人 海盜 保全",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788443776.A.166.html",
       "ts": 1788443776
+    },
+    "/bbs/SportLottery/M.1788445912.A.9AB.html": {
+      "title": "[推薦] 棒球[很明顯了]0905MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788445912.A.9AB.html",
+      "ts": 1788445912
+    },
+    "/bbs/SportLottery/M.1788445916.A.357.html": {
+      "title": "[推薦] 棒球 MLB 9/4單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788445916.A.357.html",
+      "ts": 1788445916
     }
   }
 }
