@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788389926,
+  "board_last_ts": 1788395750,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -46,6 +46,11 @@
       "title": "[官方] 115-09-03 單場場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788389926.A.835.html",
       "ts": 1788389926
+    },
+    "/bbs/SportLottery/M.1788395750.A.62F.html": {
+      "title": "[LIVE] 巴西盃 瓦斯科達伽馬 @ 維多利亞",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788395750.A.62F.html",
+      "ts": 1788395750
     }
   }
 }
