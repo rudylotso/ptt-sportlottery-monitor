@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788395750.A.62F.html": 2
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788384006.A.2B6.html": {
       "title": "[推薦] 網球 碩三看ATP 美網 0903",
