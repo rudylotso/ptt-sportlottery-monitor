@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788445916,
+  "board_last_ts": 1788446882,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -26,11 +26,6 @@
     "/bbs/SportLottery/M.1788439260.A.68B.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788425236.A.937.html": {
-      "title": "[推薦] 棒球 單場日棒",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788425236.A.937.html",
-      "ts": 1788425236
-    },
     "/bbs/SportLottery/M.1788427207.A.52F.html": {
       "title": "[推薦] 棒球 場中KBO",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788427207.A.52F.html",
@@ -70,6 +65,11 @@
       "title": "[推薦] 棒球 MLB 9/4單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788445916.A.357.html",
       "ts": 1788445916
+    },
+    "/bbs/SportLottery/M.1788446882.A.A5E.html": {
+      "title": "[LIVE] 網球 克查諾夫@F.奧格-阿里辛  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788446882.A.A5E.html",
+      "ts": 1788446882
     }
   }
 }
