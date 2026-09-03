@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788428531.A.AFA.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788416594.A.46D.html": {
       "title": "[LIVE] 羽球 西本拳太 @ A.安東森 場中",
@@ -53,7 +55,7 @@
       "ts": 1788428531
     },
     "/bbs/SportLottery/M.1788432671.A.4CF.html": {
-      "title": "[LIVE] 網球 賈努 @ 尼克爾斯 場中",
+      "title": "[LIVE] 網球 賈努 0：2 尼克爾斯 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788432671.A.4CF.html",
       "ts": 1788432671
     },
