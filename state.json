@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788446882,
+  "board_last_ts": 1788477385,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -20,51 +20,22 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788428531.A.AFA.html": 1,
-    "/bbs/SportLottery/M.1788436523.A.BB8.html": 1,
-    "/bbs/SportLottery/M.1788439260.A.68B.html": 1
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788428531.A.AFA.html": {
-      "title": "[LIVE] KBO SSG登陸者 2:3 培證英雄 場中(9下)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788428531.A.AFA.html",
-      "ts": 1788428531
+    "/bbs/SportLottery/M.1788477014.A.6DF.html": {
+      "title": "[LIVE] 棒球 馬林魚 皇家 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788477014.A.6DF.html",
+      "ts": 1788477014
     },
-    "/bbs/SportLottery/M.1788432671.A.4CF.html": {
-      "title": "[LIVE] 網球 賈努 0：2 尼克爾斯 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788432671.A.4CF.html",
-      "ts": 1788432671
+    "/bbs/SportLottery/M.1788477385.A.204.html": {
+      "title": "[官方] 115-09-04 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788477385.A.204.html",
+      "ts": 1788477385
     },
-    "/bbs/SportLottery/M.1788436523.A.BB8.html": {
-      "title": "[LIVE] 俄冰 克拉斯諾亞斯克0:3諾爾裡斯克",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788436523.A.BB8.html",
-      "ts": 1788436523
-    },
-    "/bbs/SportLottery/M.1788439260.A.68B.html": {
-      "title": "[LIVE] 排球 荷蘭VS波蘭 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788439260.A.68B.html",
-      "ts": 1788439260
-    },
-    "/bbs/SportLottery/M.1788443776.A.166.html": {
-      "title": "[推薦] 棒球 巨人 海盜 保全",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788443776.A.166.html",
-      "ts": 1788443776
-    },
-    "/bbs/SportLottery/M.1788445912.A.9AB.html": {
-      "title": "[推薦] 棒球[很明顯了]0905MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788445912.A.9AB.html",
-      "ts": 1788445912
-    },
-    "/bbs/SportLottery/M.1788445916.A.357.html": {
-      "title": "[推薦] 棒球 MLB 9/4單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788445916.A.357.html",
-      "ts": 1788445916
-    },
-    "/bbs/SportLottery/M.1788446882.A.A5E.html": {
-      "title": "[LIVE] 網球 克查諾夫@F.奧格-阿里辛  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788446882.A.A5E.html",
-      "ts": 1788446882
+    "/bbs/SportLottery/M.1788465923.A.853.html": {
+      "title": "[活動] 【九月過關王】第一週9/5 21：59截止預測",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788465923.A.853.html",
+      "ts": 1788465923
     }
   }
 }
