@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788428531,
+  "board_last_ts": 1788432671,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -53,9 +53,14 @@
       "ts": 1788427207
     },
     "/bbs/SportLottery/M.1788428531.A.AFA.html": {
-      "title": "[LIVE] KBO SSG登陸者 0:2 培證英雄 場中(2上)",
+      "title": "[LIVE] KBO SSG登陸者 1:2 培證英雄 場中(4上)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788428531.A.AFA.html",
       "ts": 1788428531
+    },
+    "/bbs/SportLottery/M.1788432671.A.4CF.html": {
+      "title": "[LIVE] 網球 賈努 @ 尼克爾斯 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788432671.A.4CF.html",
+      "ts": 1788432671
     }
   }
 }
