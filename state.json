@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788417626,
+  "board_last_ts": 1788425236,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -41,6 +41,11 @@
       "title": "[推薦] 羽球 第二輪火鍋底料",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788417626.A.2B3.html",
       "ts": 1788417626
+    },
+    "/bbs/SportLottery/M.1788425236.A.937.html": {
+      "title": "[推薦] 棒球 單場日棒",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788425236.A.937.html",
+      "ts": 1788425236
     }
   }
 }
