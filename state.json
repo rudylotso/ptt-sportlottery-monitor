@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788488109,
+  "board_last_ts": 1788492493,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -51,6 +51,11 @@
       "title": "[LIVE] WTA 萊巴基娜2:0布薩斯-馬內羅 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788488109.A.010.html",
       "ts": 1788488109
+    },
+    "/bbs/SportLottery/M.1788492493.A.96E.html": {
+      "title": "[推薦] 足球 慢慢來比較快 推薦三關一串",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788492493.A.96E.html",
+      "ts": 1788492493
     }
   }
 }
