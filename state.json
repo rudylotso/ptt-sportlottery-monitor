@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788496727,
+  "board_last_ts": 1788498084,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -61,6 +61,11 @@
       "title": "[推薦] 羽球 下午羽球多場大鍋炒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788496727.A.8FC.html",
       "ts": 1788496727
+    },
+    "/bbs/SportLottery/M.1788498084.A.2D1.html": {
+      "title": "[LIVE] 網球 孫發京@曾俊欣  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788498084.A.2D1.html",
+      "ts": 1788498084
     }
   }
 }
