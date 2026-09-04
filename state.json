@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788516125,
+  "board_last_ts": 1788517352,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -71,6 +71,11 @@
       "title": "[LIVE] 韓K2 首爾衣戀@忠北清州 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788516125.A.A87.html",
       "ts": 1788516125
+    },
+    "/bbs/SportLottery/M.1788517352.A.A1A.html": {
+      "title": "[推薦] 足球 韓K2 （1137）YK預測",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788517352.A.A1A.html",
+      "ts": 1788517352
     }
   }
 }
