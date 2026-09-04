@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788534897,
+  "board_last_ts": 1788564203,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -20,68 +20,27 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788516125.A.A87.html": 8,
-    "/bbs/SportLottery/M.1788516023.A.CB6.html": 1,
-    "/bbs/SportLottery/M.1788525205.A.3B2.html": 9,
-    "/bbs/SportLottery/M.1788525408.A.9E4.html": 1,
-    "/bbs/SportLottery/M.1788529210.A.582.html": 9
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788516023.A.CB6.html": {
-      "title": "[推薦] 足球 珍珠奶茶看韓K2(1137)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788516023.A.CB6.html",
-      "ts": 1788516023
+    "/bbs/SportLottery/M.1788552794.A.501.html": {
+      "title": "[LIVE] 秘甲 卡哈瑪卡大學 @ 阿利安薩競技 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788552794.A.501.html",
+      "ts": 1788552794
     },
-    "/bbs/SportLottery/M.1788516125.A.A87.html": {
-      "title": "[LIVE] 韓K2 首爾衣戀2:0忠北清州 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788516125.A.A87.html",
-      "ts": 1788516125
+    "/bbs/SportLottery/M.1788558213.A.E94.html": {
+      "title": "[推薦] 網球 碩三看ATP 美網 0905",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788558213.A.E94.html",
+      "ts": 1788558213
     },
-    "/bbs/SportLottery/M.1788517352.A.A1A.html": {
-      "title": "[推薦] 足球 韓K2 （1137）YK預測",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788517352.A.A1A.html",
-      "ts": 1788517352
+    "/bbs/SportLottery/M.1788562834.A.92B.html": {
+      "title": "[官方] 115-09-05 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788562834.A.92B.html",
+      "ts": 1788562834
     },
-    "/bbs/SportLottery/M.1788521755.A.B2A.html": {
-      "title": "[推薦] 籃球 世界盃籃球六場推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788521755.A.B2A.html",
-      "ts": 1788521755
-    },
-    "/bbs/SportLottery/M.1788525205.A.3B2.html": {
-      "title": "[LIVE] 網球 J.平寧頓-瓊斯@德拉托雷  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788525205.A.3B2.html",
-      "ts": 1788525205
-    },
-    "/bbs/SportLottery/M.1788525408.A.9E4.html": {
-      "title": "[LIVE] 女籃世界盃 奈及利亞 81:99 南韓 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788525408.A.9E4.html",
-      "ts": 1788525408
-    },
-    "/bbs/SportLottery/M.1788527487.A.9CD.html": {
-      "title": "[推薦] 足球 珍珠奶茶看阿拉伯超（1164）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527487.A.9CD.html",
-      "ts": 1788527487
-    },
-    "/bbs/SportLottery/M.1788527932.A.232.html": {
-      "title": "[推薦] 足球[小律師]阿爾艾因 @ 卡爾巴",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527932.A.232.html",
-      "ts": 1788527932
-    },
-    "/bbs/SportLottery/M.1788529210.A.582.html": {
-      "title": "[LIVE] 足球 阿爾艾因 @ 卡爾巴 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788529210.A.582.html",
-      "ts": 1788529210
-    },
-    "/bbs/SportLottery/M.1788531681.A.60D.html": {
-      "title": "[推薦] 足球 珍珠奶茶看烏克蘭超（1166）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788531681.A.60D.html",
-      "ts": 1788531681
-    },
-    "/bbs/SportLottery/M.1788534897.A.A1B.html": {
-      "title": "[閒聊] 美網女網場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788534897.A.A1B.html",
-      "ts": 1788534897
+    "/bbs/SportLottery/M.1788564203.A.330.html": {
+      "title": "[LIVE] 美足 納許維爾 @ 紐約城 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788564203.A.330.html",
+      "ts": 1788564203
     }
   }
 }
