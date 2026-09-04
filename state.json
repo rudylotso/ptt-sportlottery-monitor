@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788516125.A.A87.html": 3
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788505164.A.179.html": {
       "title": "[推薦] 電子競技 LOL LPL&LCK季後賽",
