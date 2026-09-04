@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788477385,
+  "board_last_ts": 1788479896,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -36,6 +36,11 @@
       "title": "[活動] 【九月過關王】第一週9/5 21：59截止預測",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788465923.A.853.html",
       "ts": 1788465923
+    },
+    "/bbs/SportLottery/M.1788479896.A.57A.html": {
+      "title": "[LIVE] 厄甲  埃梅萊克  @ 洛哈自由  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788479896.A.57A.html",
+      "ts": 1788479896
     }
   }
 }
