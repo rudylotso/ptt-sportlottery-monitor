@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788521755,
+  "board_last_ts": 1788525408,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -21,7 +21,7 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1788516125.A.A87.html": 6,
+    "/bbs/SportLottery/M.1788516125.A.A87.html": 8,
     "/bbs/SportLottery/M.1788516023.A.CB6.html": 1
   },
   "tracked_articles": {
@@ -74,6 +74,16 @@
       "title": "[推薦] 籃球 世界盃籃球六場推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788521755.A.B2A.html",
       "ts": 1788521755
+    },
+    "/bbs/SportLottery/M.1788525205.A.3B2.html": {
+      "title": "[LIVE] 網球 J.平寧頓-瓊斯@德拉托雷  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788525205.A.3B2.html",
+      "ts": 1788525205
+    },
+    "/bbs/SportLottery/M.1788525408.A.9E4.html": {
+      "title": "[LIVE] 女籃世界盃 奈及利亞@南韓 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788525408.A.9E4.html",
+      "ts": 1788525408
     }
   }
 }
