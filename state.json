@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788505164,
+  "board_last_ts": 1788506026,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -56,6 +56,11 @@
       "title": "[推薦] 電子競技 LOL LPL&LCK季後賽",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788505164.A.179.html",
       "ts": 1788505164
+    },
+    "/bbs/SportLottery/M.1788506026.A.C0C.html": {
+      "title": "[推薦] [很明顯了]0905MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788506026.A.C0C.html",
+      "ts": 1788506026
     }
   }
 }
