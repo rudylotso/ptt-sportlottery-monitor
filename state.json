@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788527932,
+  "board_last_ts": 1788529210,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -86,6 +86,11 @@
       "title": "[推薦] 足球[小律師]阿爾艾因 @ 卡爾巴",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527932.A.232.html",
       "ts": 1788527932
+    },
+    "/bbs/SportLottery/M.1788529210.A.582.html": {
+      "title": "[LIVE] 足球 阿爾艾因 @ 卡爾巴 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788529210.A.582.html",
+      "ts": 1788529210
     }
   }
 }
