@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788486566,
+  "board_last_ts": 1788488109,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -46,6 +46,11 @@
       "title": "[LIVE] MLB 運動家@西雅圖水手 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788486566.A.331.html",
       "ts": 1788486566
+    },
+    "/bbs/SportLottery/M.1788488109.A.010.html": {
+      "title": "[LIVE] WTA 萊巴基娜@布薩斯-馬內羅 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788488109.A.010.html",
+      "ts": 1788488109
     }
   }
 }
