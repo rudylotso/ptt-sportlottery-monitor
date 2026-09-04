@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788527487,
+  "board_last_ts": 1788527932,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788353216
+      "last_ts": 1788527932
     },
     "b032819": {
       "last_ts": 1788336598
@@ -81,6 +81,11 @@
       "title": "[推薦] 足球 珍珠奶茶看阿拉伯超（1164）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527487.A.9CD.html",
       "ts": 1788527487
+    },
+    "/bbs/SportLottery/M.1788527932.A.232.html": {
+      "title": "[推薦] 足球[小律師]阿爾艾因 @ 卡爾巴",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527932.A.232.html",
+      "ts": 1788527932
     }
   }
 }
