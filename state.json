@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788525408,
+  "board_last_ts": 1788527487,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -23,14 +23,9 @@
   "push_notified": {
     "/bbs/SportLottery/M.1788516125.A.A87.html": 8,
     "/bbs/SportLottery/M.1788516023.A.CB6.html": 1,
-    "/bbs/SportLottery/M.1788525205.A.3B2.html": 2
+    "/bbs/SportLottery/M.1788525205.A.3B2.html": 4
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788506026.A.C0C.html": {
-      "title": "[推薦] [很明顯了]0905MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788506026.A.C0C.html",
-      "ts": 1788506026
-    },
     "/bbs/SportLottery/M.1788508595.A.929.html": {
       "title": "[推薦] 棒球[很明顯了]0905MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788508595.A.929.html",
@@ -80,6 +75,11 @@
       "title": "[LIVE] 女籃世界盃 奈及利亞@南韓 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788525408.A.9E4.html",
       "ts": 1788525408
+    },
+    "/bbs/SportLottery/M.1788527487.A.9CD.html": {
+      "title": "[推薦] 足球 珍珠奶茶看阿拉伯超（1164）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788527487.A.9CD.html",
+      "ts": 1788527487
     }
   }
 }
