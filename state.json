@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788517352,
+  "board_last_ts": 1788521755,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -69,6 +69,11 @@
       "title": "[推薦] 足球 韓K2 （1137）YK預測",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788517352.A.A1A.html",
       "ts": 1788517352
+    },
+    "/bbs/SportLottery/M.1788521755.A.B2A.html": {
+      "title": "[推薦] 籃球 世界盃籃球六場推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788521755.A.B2A.html",
+      "ts": 1788521755
     }
   }
 }
