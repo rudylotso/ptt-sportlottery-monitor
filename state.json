@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788479896,
+  "board_last_ts": 1788485191,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -41,6 +41,11 @@
       "title": "[LIVE] 厄甲  埃梅萊克  @ 洛哈自由  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788479896.A.57A.html",
       "ts": 1788479896
+    },
+    "/bbs/SportLottery/M.1788485191.A.9E1.html": {
+      "title": "[推薦] 棒球 珍珠奶茶看MLB(串關）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788485191.A.9E1.html",
+      "ts": 1788485191
     }
   }
 }
