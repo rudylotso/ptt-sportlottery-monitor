@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788509170,
+  "board_last_ts": 1788512680,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788353216
@@ -56,6 +56,16 @@
       "title": "[推薦] 足球 韓國 糖糖亂猜DAY17",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788509170.A.9A8.html",
       "ts": 1788509170
+    },
+    "/bbs/SportLottery/M.1788512608.A.D1C.html": {
+      "title": "[LIVE] 西武獅@軟銀 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788512608.A.D1C.html",
+      "ts": 1788512608
+    },
+    "/bbs/SportLottery/M.1788512680.A.046.html": {
+      "title": "[推薦] 足球 單場K2",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788512680.A.046.html",
+      "ts": 1788512680
     }
   }
 }
