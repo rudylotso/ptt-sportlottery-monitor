@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788606974,
+  "board_last_ts": 1788611371,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -8,7 +8,7 @@
       "last_ts": 1788336598
     },
     "bvbin10242": {
-      "last_ts": 1788599147
+      "last_ts": 1788611371
     },
     "steveeagle": {
       "last_ts": 1778086613
@@ -89,6 +89,11 @@
       "title": "[推薦] 足球 珍珠奶茶看英超（1183）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788606974.A.0B2.html",
       "ts": 1788606974
+    },
+    "/bbs/SportLottery/M.1788611371.A.68E.html": {
+      "title": "[推薦] 21：00意甲場次推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788611371.A.68E.html",
+      "ts": 1788611371
     }
   }
 }
