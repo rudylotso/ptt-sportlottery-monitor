@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788599147.A.10F.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788584518.A.39F.html": {
       "title": "[LIVE] 日棒 西武獅 0:2 福岡軟銀鷹 場中",
