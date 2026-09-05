@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788606018,
+  "board_last_ts": 1788606974,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -94,6 +94,11 @@
       "title": "[LIVE] 英超 伯恩茅斯 @ 紐卡索聯 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788606018.A.899.html",
       "ts": 1788606018
+    },
+    "/bbs/SportLottery/M.1788606974.A.0B2.html": {
+      "title": "[推薦] 足球 珍珠奶茶看英超（1183）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788606974.A.0B2.html",
+      "ts": 1788606974
     }
   }
 }
