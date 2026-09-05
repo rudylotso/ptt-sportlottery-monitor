@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1788620748,
+  "board_last_ts": 1788650393,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
     },
     "b032819": {
-      "last_ts": 1788336598
+      "last_ts": 1788630302
     },
     "bvbin10242": {
       "last_ts": 1788611371
@@ -21,75 +21,38 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1788611371.A.68E.html": 3,
-    "/bbs/SportLottery/M.1788612984.A.D96.html": 12,
-    "/bbs/SportLottery/M.1788615063.A.1F7.html": 4
+    "/bbs/SportLottery/M.1788632348.A.827.html": 10
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788600733.A.AB3.html": {
-      "title": "[LIVE] 日棒 日本火腿鬥士 5:2 樂天金鷲 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788600733.A.AB3.html",
-      "ts": 1788600733
+    "/bbs/SportLottery/M.1788630302.A.B87.html": {
+      "title": "Re: [LIVE] 意甲 拿坡里@國際米蘭 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788630302.A.B87.html",
+      "ts": 1788630302
     },
-    "/bbs/SportLottery/M.1788601173.A.8E9.html": {
-      "title": "[推薦] 足球1800粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788601173.A.8E9.html",
-      "ts": 1788601173
+    "/bbs/SportLottery/M.1788632348.A.827.html": {
+      "title": "[LIVE] 場中 亞特蘭大 1@ 2羅馬",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788632348.A.827.html",
+      "ts": 1788632348
     },
-    "/bbs/SportLottery/M.1788601421.A.4E1.html": {
-      "title": "[推薦] 足球 日聯第六輪",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788601421.A.4E1.html",
-      "ts": 1788601421
+    "/bbs/SportLottery/M.1788634811.A.5F2.html": {
+      "title": "[公告] 水桶名單-s10010818",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788634811.A.5F2.html",
+      "ts": 1788634811
     },
-    "/bbs/SportLottery/M.1788605953.A.4FA.html": {
-      "title": "[推薦] 足球 英超伯恩茅斯 @ 紐卡索聯 分析文",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788605953.A.4FA.html",
-      "ts": 1788605953
+    "/bbs/SportLottery/M.1788644956.A.2E6.html": {
+      "title": "[推薦] 網球 碩三看WTA 美網 0906",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788644956.A.2E6.html",
+      "ts": 1788644956
     },
-    "/bbs/SportLottery/M.1788606018.A.899.html": {
-      "title": "[LIVE] 英超 伯恩茅斯2:2紐卡索聯 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788606018.A.899.html",
-      "ts": 1788606018
+    "/bbs/SportLottery/M.1788646483.A.958.html": {
+      "title": "[LIVE] 巴甲 米內羅競技 @ 聖保羅SP",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788646483.A.958.html",
+      "ts": 1788646483
     },
-    "/bbs/SportLottery/M.1788606974.A.0B2.html": {
-      "title": "[推薦] 足球 珍珠奶茶看英超（1183）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788606974.A.0B2.html",
-      "ts": 1788606974
-    },
-    "/bbs/SportLottery/M.1788611371.A.68E.html": {
-      "title": "[推薦] 21：00意甲場次推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788611371.A.68E.html",
-      "ts": 1788611371
-    },
-    "/bbs/SportLottery/M.1788612765.A.736.html": {
-      "title": "[推薦] 足球 珍珠奶茶看義甲（1189）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788612765.A.736.html",
-      "ts": 1788612765
-    },
-    "/bbs/SportLottery/M.1788612984.A.D96.html": {
-      "title": "[LIVE] 義甲 杜里諾 2:1 佛倫提那 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788612984.A.D96.html",
-      "ts": 1788612984
-    },
-    "/bbs/SportLottery/M.1788615063.A.1F7.html": {
-      "title": "[LIVE] 英超 托特納姆熱刺 @諾丁漢森林  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788615063.A.1F7.html",
-      "ts": 1788615063
-    },
-    "/bbs/SportLottery/M.1788617381.A.E95.html": {
-      "title": "[推薦] 網球 美網女單R3",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788617381.A.E95.html",
-      "ts": 1788617381
-    },
-    "/bbs/SportLottery/M.1788619092.A.984.html": {
-      "title": "[推薦] 網球 碩三看WTA 美網 0905",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788619092.A.984.html",
-      "ts": 1788619092
-    },
-    "/bbs/SportLottery/M.1788620748.A.416.html": {
-      "title": "[LIVE] 美網 鄭欽文 @ 基斯 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788620748.A.416.html",
-      "ts": 1788620748
+    "/bbs/SportLottery/M.1788650393.A.4B6.html": {
+      "title": "[LIVE] 棒球 光芒 遊騎兵 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788650393.A.4B6.html",
+      "ts": 1788650393
     }
   }
 }
