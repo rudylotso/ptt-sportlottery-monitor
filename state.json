@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788601421,
+  "board_last_ts": 1788605953,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -14,7 +14,7 @@
       "last_ts": 1778086613
     },
     "qmanpig": {
-      "last_ts": 1788087562
+      "last_ts": 1788605953
     },
     "bunabbey": {
       "last_ts": 0
@@ -88,6 +88,11 @@
       "title": "[推薦] 足球 日聯第六輪",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788601421.A.4E1.html",
       "ts": 1788601421
+    },
+    "/bbs/SportLottery/M.1788605953.A.4FA.html": {
+      "title": "[推薦] 足球 英超伯恩茅斯 @ 紐卡索聯 分析文",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788605953.A.4FA.html",
+      "ts": 1788605953
     }
   }
 }
