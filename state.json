@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788576671,
+  "board_last_ts": 1788584518,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1788564203.A.330.html": 4
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788562834.A.92B.html": {
-      "title": "[官方] 115-09-05 單場場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788562834.A.92B.html",
-      "ts": 1788562834
-    },
     "/bbs/SportLottery/M.1788564203.A.330.html": {
       "title": "[LIVE] 美足 納許維爾0:0紐約城 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788564203.A.330.html",
@@ -55,7 +50,7 @@
       "ts": 1788572969
     },
     "/bbs/SportLottery/M.1788573273.A.195.html": {
-      "title": "[LIVE] 棒球 運動家 水手 場中",
+      "title": "[LIVE] 棒球 運動家7：6 水手 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788573273.A.195.html",
       "ts": 1788573273
     },
@@ -63,6 +58,11 @@
       "title": "[LIVE] 網球 沙波瓦羅夫 @班.謝爾頓  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788576671.A.6CB.html",
       "ts": 1788576671
+    },
+    "/bbs/SportLottery/M.1788584518.A.39F.html": {
+      "title": "[LIVE] 日棒 西武獅@福岡軟銀鷹 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788584518.A.39F.html",
+      "ts": 1788584518
     }
   }
 }
