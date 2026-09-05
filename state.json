@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788565671,
+  "board_last_ts": 1788567820,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -46,6 +46,11 @@
       "title": "[實況] 棒球 勇士 費城人",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788565671.A.544.html",
       "ts": 1788565671
+    },
+    "/bbs/SportLottery/M.1788567820.A.337.html": {
+      "title": "[推薦] 足球0830粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788567820.A.337.html",
+      "ts": 1788567820
     }
   }
 }
