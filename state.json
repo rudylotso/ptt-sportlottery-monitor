@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788612984,
+  "board_last_ts": 1788615063,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -95,6 +95,11 @@
       "title": "[LIVE] 義甲 杜里諾 @ 佛倫提那 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788612984.A.D96.html",
       "ts": 1788612984
+    },
+    "/bbs/SportLottery/M.1788615063.A.1F7.html": {
+      "title": "[LIVE] 英超 托特納姆熱刺 @諾丁漢森林  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788615063.A.1F7.html",
+      "ts": 1788615063
     }
   }
 }
