@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788598908,
+  "board_last_ts": 1788599147,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -8,7 +8,7 @@
       "last_ts": 1788336598
     },
     "bvbin10242": {
-      "last_ts": 1787815117
+      "last_ts": 1788599147
     },
     "steveeagle": {
       "last_ts": 1778086613
@@ -66,6 +66,11 @@
       "title": "[LIVE] 日乙 八戶南鄉@藤枝MYFC 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788598908.A.B70.html",
       "ts": 1788598908
+    },
+    "/bbs/SportLottery/M.1788599147.A.10F.html": {
+      "title": "[推薦] 足球18：00日甲聯賽場次推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788599147.A.10F.html",
+      "ts": 1788599147
     }
   }
 }
