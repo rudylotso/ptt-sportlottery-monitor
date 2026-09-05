@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788573273,
+  "board_last_ts": 1788576671,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -63,6 +63,11 @@
       "title": "[LIVE] 棒球 運動家 水手 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788573273.A.195.html",
       "ts": 1788573273
+    },
+    "/bbs/SportLottery/M.1788576671.A.6CB.html": {
+      "title": "[LIVE] 網球 沙波瓦羅夫 @班.謝爾頓  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788576671.A.6CB.html",
+      "ts": 1788576671
     }
   }
 }
