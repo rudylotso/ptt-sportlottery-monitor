@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788617381,
+  "board_last_ts": 1788619092,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -91,6 +91,11 @@
       "title": "[推薦] 網球 美網女單R3",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788617381.A.E95.html",
       "ts": 1788617381
+    },
+    "/bbs/SportLottery/M.1788619092.A.984.html": {
+      "title": "[推薦] 網球 碩三看WTA 美網 0905",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788619092.A.984.html",
+      "ts": 1788619092
     }
   }
 }
