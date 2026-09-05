@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788595192,
+  "board_last_ts": 1788595450,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -61,6 +61,11 @@
       "title": "[LIVE] 港超 標準流浪 @ 大埔 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788595192.A.BE4.html",
       "ts": 1788595192
+    },
+    "/bbs/SportLottery/M.1788595450.A.C20.html": {
+      "title": "[LIVE] 電競-LOL GenG戰隊 HLE戰隊 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788595450.A.C20.html",
+      "ts": 1788595450
     }
   }
 }
