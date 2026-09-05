@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788564203.A.330.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788552794.A.501.html": {
       "title": "[LIVE] 秘甲 卡哈瑪卡大學2:3阿利安薩競技 場中",
