@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788600733,
+  "board_last_ts": 1788601173,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -76,6 +76,11 @@
       "title": "[LIVE] 日棒 日本火腿鬥士@樂天金鷲 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788600733.A.AB3.html",
       "ts": 1788600733
+    },
+    "/bbs/SportLottery/M.1788601173.A.8E9.html": {
+      "title": "[推薦] 足球1800粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788601173.A.8E9.html",
+      "ts": 1788601173
     }
   }
 }
