@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788611371,
+  "board_last_ts": 1788612765,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -25,11 +25,6 @@
     "/bbs/SportLottery/M.1788598908.A.B70.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788591318.A.D72.html": {
-      "title": "[推薦] 棒球 土曜日晴海黑龍王的棒球時間",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788591318.A.D72.html",
-      "ts": 1788591318
-    },
     "/bbs/SportLottery/M.1788591616.A.7FC.html": {
       "title": "[推薦] 足球 珍珠奶茶看日乙（1255）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788591616.A.7FC.html",
@@ -94,6 +89,11 @@
       "title": "[推薦] 21：00意甲場次推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788611371.A.68E.html",
       "ts": 1788611371
+    },
+    "/bbs/SportLottery/M.1788612765.A.736.html": {
+      "title": "[推薦] 足球 珍珠奶茶看義甲（1189）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788612765.A.736.html",
+      "ts": 1788612765
     }
   }
 }
