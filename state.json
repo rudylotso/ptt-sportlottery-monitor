@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788615063,
+  "board_last_ts": 1788617381,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -86,6 +86,11 @@
       "title": "[LIVE] 英超 托特納姆熱刺 @諾丁漢森林  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788615063.A.1F7.html",
       "ts": 1788615063
+    },
+    "/bbs/SportLottery/M.1788617381.A.E95.html": {
+      "title": "[推薦] 網球 美網女單R3",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788617381.A.E95.html",
+      "ts": 1788617381
     }
   }
 }
