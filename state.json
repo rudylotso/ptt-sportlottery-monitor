@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788586888,
+  "board_last_ts": 1788589336,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788567820.A.337.html": {
-      "title": "[推薦] 足球0830粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788567820.A.337.html",
-      "ts": 1788567820
-    },
     "/bbs/SportLottery/M.1788568924.A.6FF.html": {
       "title": "[推薦] 羽球 排球火鍋底+羽球",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788568924.A.6FF.html",
@@ -56,6 +51,11 @@
       "title": "[LIVE] 網球 曾俊欣 @ 卡西迪.薩姆里吉 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788586888.A.A26.html",
       "ts": 1788586888
+    },
+    "/bbs/SportLottery/M.1788589336.A.A38.html": {
+      "title": "[推薦] 電競 LOL 山城恋推LCK 0905",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788589336.A.A38.html",
+      "ts": 1788589336
     }
   }
 }
