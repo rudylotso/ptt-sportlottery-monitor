@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788589336,
+  "board_last_ts": 1788591318,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788527932
@@ -51,6 +51,11 @@
       "title": "[推薦] 電競 LOL 山城恋推LCK 0905",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788589336.A.A38.html",
       "ts": 1788589336
+    },
+    "/bbs/SportLottery/M.1788591318.A.D72.html": {
+      "title": "[推薦] 棒球 土曜日晴海黑龍王的棒球時間",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788591318.A.D72.html",
+      "ts": 1788591318
     }
   }
 }
