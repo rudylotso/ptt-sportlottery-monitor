@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788670422,
+  "board_last_ts": 1788671830,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -26,11 +26,6 @@
     "/bbs/SportLottery/M.1788666245.A.233.html": 2
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788650393.A.4B6.html": {
-      "title": "[LIVE] 棒球 光芒6：3 遊騎兵 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788650393.A.4B6.html",
-      "ts": 1788650393
-    },
     "/bbs/SportLottery/M.1788654653.A.C42.html": {
       "title": "[LIVE] 美足 紐約紅牛 0-0 西雅圖海灣者 (場中)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788654653.A.C42.html",
@@ -90,6 +85,11 @@
       "title": "[LIVE] 排球 中華台北VS卡達 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788670422.A.C57.html",
       "ts": 1788670422
+    },
+    "/bbs/SportLottery/M.1788671830.A.0E0.html": {
+      "title": "[推薦] 羽球「天九牌」中國吳英倫",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788671830.A.0E0.html",
+      "ts": 1788671830
     }
   }
 }
