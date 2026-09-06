@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788698807,
+  "board_last_ts": 1788699065,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788698807
@@ -105,6 +105,11 @@
       "title": "[推薦] 足球[小律師]曼聯 @ 艾佛頓",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788698807.A.3CB.html",
       "ts": 1788698807
+    },
+    "/bbs/SportLottery/M.1788699065.A.78F.html": {
+      "title": "[推薦] 足球 珍珠奶茶看義甲（1147）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788699065.A.78F.html",
+      "ts": 1788699065
     }
   }
 }
