@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788683092,
+  "board_last_ts": 1788683425,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -83,6 +83,11 @@
       "title": "[LIVE] 羽球 李卓耀 @ 吳英倫 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788683092.A.F33.html",
       "ts": 1788683092
+    },
+    "/bbs/SportLottery/M.1788683425.A.673.html": {
+      "title": "[LIVE] 日甲 大阪飛腳 @ 千葉市原 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788683425.A.673.html",
+      "ts": 1788683425
     }
   }
 }
