@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788650393,
+  "board_last_ts": 1788654653,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788527932
+      "last_ts": 1788654653
     },
     "b032819": {
       "last_ts": 1788630302
@@ -41,6 +41,11 @@
       "title": "[LIVE] 棒球 光芒 遊騎兵 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788650393.A.4B6.html",
       "ts": 1788650393
+    },
+    "/bbs/SportLottery/M.1788654653.A.C42.html": {
+      "title": "[LIVE] 美足 紐約紅牛 @ 西雅圖海灣者 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788654653.A.C42.html",
+      "ts": 1788654653
     }
   }
 }
