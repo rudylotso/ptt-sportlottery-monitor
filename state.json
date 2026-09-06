@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788666245,
+  "board_last_ts": 1788666967,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -75,6 +75,11 @@
       "title": "[LIVE] 日乙 栃木市FC@北海道札幌岡薩多 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788666245.A.233.html",
       "ts": 1788666245
+    },
+    "/bbs/SportLottery/M.1788666967.A.765.html": {
+      "title": "[推薦] 足球 珍珠奶茶看日乙（1444）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788666967.A.765.html",
+      "ts": 1788666967
     }
   }
 }
