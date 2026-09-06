@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788678100,
+  "board_last_ts": 1788680427,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -79,6 +79,11 @@
       "title": "[推薦] 電競 DK @ T1",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788678100.A.AE3.html",
       "ts": 1788678100
+    },
+    "/bbs/SportLottery/M.1788680427.A.A55.html": {
+      "title": "[LIVE] 中職 樂天 富邦 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788680427.A.A55.html",
+      "ts": 1788680427
     }
   }
 }
