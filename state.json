@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788658627,
+  "board_last_ts": 1788658806,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -53,6 +53,11 @@
       "title": "[LIVE] 棒球 運動家：西雅圖水手 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788658627.A.A1E.html",
       "ts": 1788658627
+    },
+    "/bbs/SportLottery/M.1788658806.A.E4D.html": {
+      "title": "[官方] 115-09-06 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788658806.A.E4D.html",
+      "ts": 1788658806
     }
   }
 }
