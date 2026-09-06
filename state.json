@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788698207,
+  "board_last_ts": 1788698807,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788654653
+      "last_ts": 1788698807
     },
     "b032819": {
       "last_ts": 1788630302
@@ -100,6 +100,11 @@
       "title": "[推薦] 足球 英超 曼聯 @ 艾佛頓",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788698207.A.C74.html",
       "ts": 1788698207
+    },
+    "/bbs/SportLottery/M.1788698807.A.3CB.html": {
+      "title": "[推薦] 足球[小律師]曼聯 @ 艾佛頓",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788698807.A.3CB.html",
+      "ts": 1788698807
     }
   }
 }
