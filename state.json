@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788692630,
+  "board_last_ts": 1788693744,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -76,6 +76,11 @@
       "title": "[LIVE] 德乙 馬德堡 @ 柏林赫塔 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788692630.A.4F1.html",
       "ts": 1788692630
+    },
+    "/bbs/SportLottery/M.1788693744.A.372.html": {
+      "title": "[推薦] 足球 珍珠奶茶看德乙（1142）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788693744.A.372.html",
+      "ts": 1788693744
     }
   }
 }
