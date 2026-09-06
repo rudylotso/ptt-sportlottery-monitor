@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788699065,
+  "board_last_ts": 1788707042,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788698807
@@ -71,6 +71,16 @@
       "title": "[推薦] 足球 珍珠奶茶看義甲（1147）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788699065.A.78F.html",
       "ts": 1788699065
+    },
+    "/bbs/SportLottery/M.1788706918.A.B85.html": {
+      "title": "[LIVE] 英超 切爾西@兵工廠 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788706918.A.B85.html",
+      "ts": 1788706918
+    },
+    "/bbs/SportLottery/M.1788707042.A.714.html": {
+      "title": "Re: [活動] 【九月過關王】第一週9/5 21：59截止預測",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707042.A.714.html",
+      "ts": 1788707042
     }
   }
 }
