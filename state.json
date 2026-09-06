@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788707621,
+  "board_last_ts": 1788707928,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -96,6 +96,11 @@
       "title": "[推薦] 足球「天九牌」英超Arsenal",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707621.A.E9A.html",
       "ts": 1788707621
+    },
+    "/bbs/SportLottery/M.1788707928.A.3DA.html": {
+      "title": "[推薦] 足球0000粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707928.A.3DA.html",
+      "ts": 1788707928
     }
   }
 }
