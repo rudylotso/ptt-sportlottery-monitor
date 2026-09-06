@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788667362,
+  "board_last_ts": 1788670422,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -80,6 +80,16 @@
       "title": "[LIVE] 日棒 西武@軟銀  單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788667362.A.91E.html",
       "ts": 1788667362
+    },
+    "/bbs/SportLottery/M.1788670253.A.C1F.html": {
+      "title": "[推薦] 羽球 中國大師賽兩場推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788670253.A.C1F.html",
+      "ts": 1788670253
+    },
+    "/bbs/SportLottery/M.1788670422.A.C57.html": {
+      "title": "[LIVE] 排球 中華台北VS卡達 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788670422.A.C57.html",
+      "ts": 1788670422
     }
   }
 }
