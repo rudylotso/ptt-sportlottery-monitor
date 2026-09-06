@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788707042,
+  "board_last_ts": 1788707199,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788698807
@@ -24,7 +24,7 @@
     "/bbs/SportLottery/M.1788689146.A.459.html": 4,
     "/bbs/SportLottery/M.1788692630.A.4F1.html": 2,
     "/bbs/SportLottery/M.1788698207.A.C74.html": 2,
-    "/bbs/SportLottery/M.1788698087.A.E22.html": 11
+    "/bbs/SportLottery/M.1788698087.A.E22.html": 13
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788689146.A.459.html": {
@@ -81,6 +81,11 @@
       "title": "Re: [活動] 【九月過關王】第一週9/5 21：59截止預測",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707042.A.714.html",
       "ts": 1788707042
+    },
+    "/bbs/SportLottery/M.1788707199.A.903.html": {
+      "title": "[推薦] 棒球[很明顯了]0907MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707199.A.903.html",
+      "ts": 1788707199
     }
   }
 }
