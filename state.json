@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788707928,
+  "board_last_ts": 1788708077,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -24,7 +24,8 @@
     "/bbs/SportLottery/M.1788689146.A.459.html": 4,
     "/bbs/SportLottery/M.1788692630.A.4F1.html": 2,
     "/bbs/SportLottery/M.1788698207.A.C74.html": 2,
-    "/bbs/SportLottery/M.1788698087.A.E22.html": 13
+    "/bbs/SportLottery/M.1788698087.A.E22.html": 13,
+    "/bbs/SportLottery/M.1788706918.A.B85.html": 3
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788689146.A.459.html": {
@@ -101,6 +102,16 @@
       "title": "[推薦] 足球0000粗暴推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707928.A.3DA.html",
       "ts": 1788707928
+    },
+    "/bbs/SportLottery/M.1788708041.A.E92.html": {
+      "title": "[推薦] 棒球 美國職棒大聯盟",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788708041.A.E92.html",
+      "ts": 1788708041
+    },
+    "/bbs/SportLottery/M.1788708077.A.412.html": {
+      "title": "[推薦] 足球 珍珠奶茶看英超（1233）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788708077.A.412.html",
+      "ts": 1788708077
     }
   }
 }
