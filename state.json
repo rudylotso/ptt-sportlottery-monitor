@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788666967,
+  "board_last_ts": 1788667362,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -80,6 +80,11 @@
       "title": "[推薦] 足球 珍珠奶茶看日乙（1444）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788666967.A.765.html",
       "ts": 1788666967
+    },
+    "/bbs/SportLottery/M.1788667362.A.91E.html": {
+      "title": "[LIVE] 日棒 西武@軟銀  單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788667362.A.91E.html",
+      "ts": 1788667362
     }
   }
 }
