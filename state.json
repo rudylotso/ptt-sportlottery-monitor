@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788661033,
+  "board_last_ts": 1788664707,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -69,6 +69,11 @@
       "title": "[推薦] 足球 珍珠奶茶看美足（1115）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788661033.A.B3A.html",
       "ts": 1788661033
+    },
+    "/bbs/SportLottery/M.1788664707.A.DAA.html": {
+      "title": "[LIVE] 網球 勒納.錢@雅各布.門希克 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788664707.A.DAA.html",
+      "ts": 1788664707
     }
   }
 }
