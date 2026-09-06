@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788693744,
+  "board_last_ts": 1788694079,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788689146.A.459.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788673543.A.442.html": {
       "title": "[推薦] 電競 LOL 山城恋推LCKLPL 0906",
@@ -81,6 +83,11 @@
       "title": "[推薦] 足球 珍珠奶茶看德乙（1142）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788693744.A.372.html",
       "ts": 1788693744
+    },
+    "/bbs/SportLottery/M.1788694079.A.9EE.html": {
+      "title": "[推薦] F1義大利大獎賽",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788694079.A.9EE.html",
+      "ts": 1788694079
     }
   }
 }
