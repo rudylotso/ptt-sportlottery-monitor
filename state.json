@@ -21,15 +21,9 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1788660416.A.EB6.html": 3,
     "/bbs/SportLottery/M.1788666245.A.233.html": 2
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788660416.A.EB6.html": {
-      "title": "[LIVE] 美足 明尼蘇達聯@波特蘭伐木者 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788660416.A.EB6.html",
-      "ts": 1788660416
-    },
     "/bbs/SportLottery/M.1788661033.A.B3A.html": {
       "title": "[推薦] 足球 珍珠奶茶看美足（1115）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788661033.A.B3A.html",
@@ -81,7 +75,7 @@
       "ts": 1788678100
     },
     "/bbs/SportLottery/M.1788680427.A.A55.html": {
-      "title": "[LIVE] 中職 樂天 富邦 單場",
+      "title": "[LIVE] 中職 樂天 富邦 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788680427.A.A55.html",
       "ts": 1788680427
     },
