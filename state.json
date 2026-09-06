@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788689146,
+  "board_last_ts": 1788692630,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -53,7 +53,7 @@
       "ts": 1788683092
     },
     "/bbs/SportLottery/M.1788683425.A.673.html": {
-      "title": "[LIVE] 日甲 大阪飛腳 @ 千葉市原 場中",
+      "title": "[LIVE] 日甲 大阪飛腳 0:2千葉市原 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788683425.A.673.html",
       "ts": 1788683425
     },
@@ -76,6 +76,11 @@
       "title": "[LIVE] 日甲 京都不死鳥@FC東京 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788689146.A.459.html",
       "ts": 1788689146
+    },
+    "/bbs/SportLottery/M.1788692630.A.4F1.html": {
+      "title": "[LIVE] 德乙 馬德堡 @ 柏林赫塔 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788692630.A.4F1.html",
+      "ts": 1788692630
     }
   }
 }
