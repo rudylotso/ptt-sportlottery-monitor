@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788680836,
+  "board_last_ts": 1788683092,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -78,6 +78,11 @@
       "title": "[推薦] 棒球 日曜日情海黑龍王的棒球時間",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788680836.A.345.html",
       "ts": 1788680836
+    },
+    "/bbs/SportLottery/M.1788683092.A.F33.html": {
+      "title": "[LIVE] 羽球 李卓耀 @ 吳英倫 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788683092.A.F33.html",
+      "ts": 1788683092
     }
   }
 }
