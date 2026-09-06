@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788660416,
+  "board_last_ts": 1788661033,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -63,6 +63,11 @@
       "title": "[LIVE] 美足 明尼蘇達聯@波特蘭伐木者 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788660416.A.EB6.html",
       "ts": 1788660416
+    },
+    "/bbs/SportLottery/M.1788661033.A.B3A.html": {
+      "title": "[推薦] 足球 珍珠奶茶看美足（1115）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788661033.A.B3A.html",
+      "ts": 1788661033
     }
   }
 }
