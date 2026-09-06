@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788698087,
+  "board_last_ts": 1788698207,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -14,7 +14,7 @@
       "last_ts": 1778086613
     },
     "qmanpig": {
-      "last_ts": 1788605953
+      "last_ts": 1788698207
     },
     "bunabbey": {
       "last_ts": 0
@@ -94,6 +94,11 @@
       "title": "[LIVE] 英超 曼聯@艾佛頓 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788698087.A.E22.html",
       "ts": 1788698087
+    },
+    "/bbs/SportLottery/M.1788698207.A.C74.html": {
+      "title": "[推薦] 足球 英超 曼聯 @ 艾佛頓",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788698207.A.C74.html",
+      "ts": 1788698207
     }
   }
 }
