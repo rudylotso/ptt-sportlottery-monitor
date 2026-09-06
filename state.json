@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788683425,
+  "board_last_ts": 1788684325,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -88,6 +88,11 @@
       "title": "[LIVE] 日甲 大阪飛腳 @ 千葉市原 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788683425.A.673.html",
       "ts": 1788683425
+    },
+    "/bbs/SportLottery/M.1788684325.A.7BD.html": {
+      "title": "[推薦] 足球 日甲",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788684325.A.7BD.html",
+      "ts": 1788684325
     }
   }
 }
