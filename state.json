@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788707199,
+  "board_last_ts": 1788707621,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788698807
+      "last_ts": 1788707434
     },
     "b032819": {
       "last_ts": 1788630302
@@ -86,6 +86,16 @@
       "title": "[推薦] 棒球[很明顯了]0907MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707199.A.903.html",
       "ts": 1788707199
+    },
+    "/bbs/SportLottery/M.1788707434.A.80D.html": {
+      "title": "[推薦] 足球[小律師]切爾西 @ 兵工廠",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707434.A.80D.html",
+      "ts": 1788707434
+    },
+    "/bbs/SportLottery/M.1788707621.A.E9A.html": {
+      "title": "[推薦] 足球「天九牌」英超Arsenal",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788707621.A.E9A.html",
+      "ts": 1788707621
     }
   }
 }
