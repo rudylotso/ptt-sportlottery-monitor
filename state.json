@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788673543,
+  "board_last_ts": 1788678100,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788654653
@@ -84,6 +84,11 @@
       "title": "[推薦] 電競 LOL 山城恋推LCKLPL 0906",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788673543.A.442.html",
       "ts": 1788673543
+    },
+    "/bbs/SportLottery/M.1788678100.A.AE3.html": {
+      "title": "[推薦] 電競 DK @ T1",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788678100.A.AE3.html",
+      "ts": 1788678100
     }
   }
 }
