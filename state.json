@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788760227,
+  "board_last_ts": 1788769210,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -26,6 +26,11 @@
       "title": "[推薦] 網球「天九牌」上海黃琮豪",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788760227.A.DF6.html",
       "ts": 1788760227
+    },
+    "/bbs/SportLottery/M.1788769210.A.6E5.html": {
+      "title": "[LIVE] 排球 韓國 對 泰國 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788769210.A.6E5.html",
+      "ts": 1788769210
     }
   }
 }
