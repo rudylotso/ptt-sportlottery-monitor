@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788790853,
+  "board_last_ts": 1788792007,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -81,6 +81,11 @@
       "title": "[推薦] 網球「天九牌」美網Potapova",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788790853.A.A4B.html",
       "ts": 1788790853
+    },
+    "/bbs/SportLottery/M.1788792007.A.5D9.html": {
+      "title": "Re: [推薦] 足球[小律師]英格蘭 @ 挪威",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788792007.A.5D9.html",
+      "ts": 1788792007
     }
   }
 }
