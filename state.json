@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788774082,
+  "board_last_ts": 1788778168,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -46,6 +46,11 @@
       "title": "Re: [閒聊] 運彩勸世文（LoL/世足/棒球）三年才打平",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788774082.A.E51.html",
       "ts": 1788774082
+    },
+    "/bbs/SportLottery/M.1788778168.A.D89.html": {
+      "title": "[LIVE] 中職 味全 樂天 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788778168.A.D89.html",
+      "ts": 1788778168
     }
   }
 }
