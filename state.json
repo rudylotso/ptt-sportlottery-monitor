@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788745667,
+  "board_last_ts": 1788760227,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -46,6 +46,11 @@
       "title": "[推薦] 棒球 MLB - Zeng（O）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788745667.A.107.html",
       "ts": 1788745667
+    },
+    "/bbs/SportLottery/M.1788760227.A.DF6.html": {
+      "title": "[推薦] 網球「天九牌」上海黃琮豪",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788760227.A.DF6.html",
+      "ts": 1788760227
     }
   }
 }
