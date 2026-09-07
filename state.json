@@ -20,18 +20,10 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1788737014.A.74B.html": 1
+  },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788720088.A.1E5.html": {
-      "title": "[推薦] 足球 西甲",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788720088.A.1E5.html",
-      "ts": 1788720088
-    },
-    "/bbs/SportLottery/M.1788720223.A.B24.html": {
-      "title": "[LIVE] 義甲 AC米蘭 @ 尤文圖斯 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788720223.A.B24.html",
-      "ts": 1788720223
-    },
     "/bbs/SportLottery/M.1788720822.A.784.html": {
       "title": "[推薦] 棒球 MLB 9/7國民-道奇",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788720822.A.784.html",
