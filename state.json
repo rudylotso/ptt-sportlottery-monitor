@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788744034,
+  "board_last_ts": 1788745173,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -58,6 +58,11 @@
       "title": "[LIVE] 網球 艾瑪.納瓦羅@卡林斯卡亞 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788744034.A.799.html",
       "ts": 1788744034
+    },
+    "/bbs/SportLottery/M.1788745173.A.802.html": {
+      "title": "[LIVE] MLB 國民 道奇 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788745173.A.802.html",
+      "ts": 1788745173
     }
   }
 }
