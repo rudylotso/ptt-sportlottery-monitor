@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788822624,
+  "board_last_ts": 1788824274,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -31,6 +31,11 @@
       "title": "[官方] 115-09-08 單場場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788822624.A.3AF.html",
       "ts": 1788822624
+    },
+    "/bbs/SportLottery/M.1788824274.A.023.html": {
+      "title": "[LIVE] 棒球 紅雀 巨人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788824274.A.023.html",
+      "ts": 1788824274
     }
   }
 }
