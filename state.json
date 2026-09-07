@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788784033,
+  "board_last_ts": 1788784880,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788707434
+      "last_ts": 1788784880
     },
     "b032819": {
       "last_ts": 1788781374
@@ -22,7 +22,7 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1788773279.A.B06.html": 3,
-    "/bbs/SportLottery/M.1788781374.A.75D.html": 1
+    "/bbs/SportLottery/M.1788781374.A.75D.html": 2
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788769210.A.6E5.html": {
@@ -59,6 +59,11 @@
       "title": "[推薦] 籃球 多場世界盃女籃",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784033.A.1BF.html",
       "ts": 1788784033
+    },
+    "/bbs/SportLottery/M.1788784880.A.442.html": {
+      "title": "[LIVE] 女籃 南韓 @ 匈牙利 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784880.A.442.html",
+      "ts": 1788784880
     }
   }
 }
