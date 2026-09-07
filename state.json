@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788784880,
+  "board_last_ts": 1788785694,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -64,6 +64,11 @@
       "title": "[LIVE] 女籃 南韓 @ 匈牙利 (場中)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784880.A.442.html",
       "ts": 1788784880
+    },
+    "/bbs/SportLottery/M.1788785694.A.113.html": {
+      "title": "[閒聊] 我發現女籃世界盃更看不懂了",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788785694.A.113.html",
+      "ts": 1788785694
     }
   }
 }
