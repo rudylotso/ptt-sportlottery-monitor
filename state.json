@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788737014,
+  "board_last_ts": 1788743148,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -43,6 +43,11 @@
       "title": "[LIVE] 墨超 桑托斯拉古納0:1藍十字 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788737014.A.74B.html",
       "ts": 1788737014
+    },
+    "/bbs/SportLottery/M.1788743148.A.878.html": {
+      "title": "[推薦] 棒球 MLB龍大推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788743148.A.878.html",
+      "ts": 1788743148
     }
   }
 }
