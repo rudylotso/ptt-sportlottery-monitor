@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788792007,
+  "board_last_ts": 1788793764,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -86,6 +86,11 @@
       "title": "Re: [發錢] 足球[小律師]英格蘭 @ 挪威 律師飲料開獎",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788792007.A.5D9.html",
       "ts": 1788792007
+    },
+    "/bbs/SportLottery/M.1788793764.A.DDA.html": {
+      "title": "[LIVE] 美網 伯塔波娃@米拉.安德烈耶娃 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788793764.A.DDA.html",
+      "ts": 1788793764
     }
   }
 }
