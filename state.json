@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788789733,
+  "board_last_ts": 1788790853,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -23,7 +23,7 @@
   "push_notified": {
     "/bbs/SportLottery/M.1788773279.A.B06.html": 3,
     "/bbs/SportLottery/M.1788781374.A.75D.html": 2,
-    "/bbs/SportLottery/M.1788784880.A.442.html": 3
+    "/bbs/SportLottery/M.1788784880.A.442.html": 8
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788773008.A.BB2.html": {
@@ -75,6 +75,11 @@
       "title": "[LIVE] 埃超 艾斯尤特石油@伊蒂哈德 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788789733.A.F42.html",
       "ts": 1788789733
+    },
+    "/bbs/SportLottery/M.1788790853.A.A4B.html": {
+      "title": "[推薦] 網球「天九牌」美網Potapova",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788790853.A.A4B.html",
+      "ts": 1788790853
     }
   }
 }
