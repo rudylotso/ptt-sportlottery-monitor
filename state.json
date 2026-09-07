@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788793866,
+  "board_last_ts": 1788822624,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -20,71 +20,17 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788781374.A.75D.html": 3,
-    "/bbs/SportLottery/M.1788784880.A.442.html": 8,
-    "/bbs/SportLottery/M.1788789733.A.F42.html": 5
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788774082.A.E51.html": {
-      "title": "Re: [閒聊] 運彩勸世文（LoL/世足/棒球）三年才打平",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788774082.A.E51.html",
-      "ts": 1788774082
+    "/bbs/SportLottery/M.1788821570.A.F08.html": {
+      "title": "[推薦] 網球 碩三看WTA 美網 0908",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788821570.A.F08.html",
+      "ts": 1788821570
     },
-    "/bbs/SportLottery/M.1788778168.A.D89.html": {
-      "title": "[LIVE] 中職 味全2：0 樂天 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788778168.A.D89.html",
-      "ts": 1788778168
-    },
-    "/bbs/SportLottery/M.1788781374.A.75D.html": {
-      "title": "[推薦] 籃球 綠茶看世界盃女籃（302）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788781374.A.75D.html",
-      "ts": 1788781374
-    },
-    "/bbs/SportLottery/M.1788784033.A.1BF.html": {
-      "title": "[推薦] 籃球 多場世界盃女籃(單場主推場中過)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784033.A.1BF.html",
-      "ts": 1788784033
-    },
-    "/bbs/SportLottery/M.1788784880.A.442.html": {
-      "title": "[LIVE] 女籃 南韓 73-82 匈牙利 (場中)",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784880.A.442.html",
-      "ts": 1788784880
-    },
-    "/bbs/SportLottery/M.1788785694.A.113.html": {
-      "title": "[閒聊] 我發現女籃世界盃更看不懂了",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788785694.A.113.html",
-      "ts": 1788785694
-    },
-    "/bbs/SportLottery/M.1788788551.A.635.html": {
-      "title": "[推薦] 足球 西甲大樂透",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788788551.A.635.html",
-      "ts": 1788788551
-    },
-    "/bbs/SportLottery/M.1788789733.A.F42.html": {
-      "title": "[LIVE] 埃超 艾斯尤特石油@伊蒂哈德 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788789733.A.F42.html",
-      "ts": 1788789733
-    },
-    "/bbs/SportLottery/M.1788790853.A.A4B.html": {
-      "title": "[推薦] 網球「天九牌」美網Potapova",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788790853.A.A4B.html",
-      "ts": 1788790853
-    },
-    "/bbs/SportLottery/M.1788792007.A.5D9.html": {
-      "title": "Re: [發錢] 足球[小律師]英格蘭 @ 挪威 律師飲料開獎",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788792007.A.5D9.html",
-      "ts": 1788792007
-    },
-    "/bbs/SportLottery/M.1788793764.A.DDA.html": {
-      "title": "[LIVE] 美網 伯塔波娃@米拉.安德烈耶娃 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788793764.A.DDA.html",
-      "ts": 1788793764
-    },
-    "/bbs/SportLottery/M.1788793866.A.4C8.html": {
-      "title": "[推薦] 棒球[很明顯了]0908MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788793866.A.4C8.html",
-      "ts": 1788793866
+    "/bbs/SportLottery/M.1788822624.A.3AF.html": {
+      "title": "[官方] 115-09-08 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788822624.A.3AF.html",
+      "ts": 1788822624
     }
   }
 }
