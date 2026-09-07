@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788781374,
+  "board_last_ts": 1788784033,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -54,6 +54,11 @@
       "title": "[推薦] 籃球 綠茶看世界盃女籃（302）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788781374.A.75D.html",
       "ts": 1788781374
+    },
+    "/bbs/SportLottery/M.1788784033.A.1BF.html": {
+      "title": "[推薦] 籃球 多場世界盃女籃",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788784033.A.1BF.html",
+      "ts": 1788784033
     }
   }
 }
