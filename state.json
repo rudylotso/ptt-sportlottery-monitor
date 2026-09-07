@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788773008,
+  "board_last_ts": 1788773279,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788707434
@@ -36,6 +36,11 @@
       "title": "[推薦] 籃球 澳洲VS比利時",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788773008.A.BB2.html",
       "ts": 1788773008
+    },
+    "/bbs/SportLottery/M.1788773279.A.B06.html": {
+      "title": "[LIVE] 女籃 澳洲 @ 比利時 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788773279.A.B06.html",
+      "ts": 1788773279
     }
   }
 }
