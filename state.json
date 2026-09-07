@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788785694,
+  "board_last_ts": 1788788551,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -69,6 +69,11 @@
       "title": "[閒聊] 我發現女籃世界盃更看不懂了",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788785694.A.113.html",
       "ts": 1788785694
+    },
+    "/bbs/SportLottery/M.1788788551.A.635.html": {
+      "title": "[推薦] 足球 西甲大樂透",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788788551.A.635.html",
+      "ts": 1788788551
     }
   }
 }
