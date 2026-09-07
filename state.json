@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788793764,
+  "board_last_ts": 1788793866,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -91,6 +91,11 @@
       "title": "[LIVE] 美網 伯塔波娃@米拉.安德烈耶娃 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788793764.A.DDA.html",
       "ts": 1788793764
+    },
+    "/bbs/SportLottery/M.1788793866.A.4C8.html": {
+      "title": "[推薦] 棒球[很明顯了]0908MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788793866.A.4C8.html",
+      "ts": 1788793866
     }
   }
 }
