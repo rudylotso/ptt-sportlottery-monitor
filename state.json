@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788862297,
+  "board_last_ts": 1788866055,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -60,6 +60,11 @@
       "title": "[推薦] 足球 巴乙 英冠糖糖亂猜DAY18",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788862297.A.03A.html",
       "ts": 1788862297
+    },
+    "/bbs/SportLottery/M.1788866055.A.A81.html": {
+      "title": "[LIVE] 網球 馬特.多迪格@阿加梅諾內  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788866055.A.A81.html",
+      "ts": 1788866055
     }
   }
 }
