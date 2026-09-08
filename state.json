@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788834403,
+  "board_last_ts": 1788843662,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -46,6 +46,11 @@
       "title": "[LIVE] 棒球 多倫多藍鳥 @ 運動家 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788834403.A.8AB.html",
       "ts": 1788834403
+    },
+    "/bbs/SportLottery/M.1788843662.A.913.html": {
+      "title": "[LIVE] 排球 南韓VS卡達 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788843662.A.913.html",
+      "ts": 1788843662
     }
   }
 }
