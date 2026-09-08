@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788875668,
+  "board_last_ts": 1788879194,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -60,6 +60,11 @@
       "title": "[LIVE] 冰球 哈巴羅夫斯  @ 馬格尼托哥 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788875668.A.B08.html",
       "ts": 1788875668
+    },
+    "/bbs/SportLottery/M.1788879194.A.99E.html": {
+      "title": "[推薦] 網球 WTA美網 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788879194.A.99E.html",
+      "ts": 1788879194
     }
   }
 }
