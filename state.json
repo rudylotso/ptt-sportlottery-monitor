@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788850884,
+  "board_last_ts": 1788851917,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -43,6 +43,11 @@
       "title": "[LIVE] 網球 曾俊欣 對 卡斯德爾諾沃 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788850884.A.4E9.html",
       "ts": 1788850884
+    },
+    "/bbs/SportLottery/M.1788851917.A.569.html": {
+      "title": "[推薦] 電競 LOL 山城恋推LPL 0908",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788851917.A.569.html",
+      "ts": 1788851917
     }
   }
 }
