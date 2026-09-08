@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788871088,
+  "board_last_ts": 1788875668,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -55,6 +55,11 @@
       "title": "[LIVE] 網球 F.阿納波爾迪@瓦里拉斯 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788871088.A.415.html",
       "ts": 1788871088
+    },
+    "/bbs/SportLottery/M.1788875668.A.B08.html": {
+      "title": "[LIVE] 冰球 哈巴羅夫斯  @ 馬格尼托哥 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788875668.A.B08.html",
+      "ts": 1788875668
     }
   }
 }
