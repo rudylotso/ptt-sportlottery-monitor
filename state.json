@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788851917,
+  "board_last_ts": 1788852805,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -43,6 +43,11 @@
       "title": "[推薦] 電競 LOL 山城恋推LPL 0908",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788851917.A.569.html",
       "ts": 1788851917
+    },
+    "/bbs/SportLottery/M.1788852805.A.5A6.html": {
+      "title": "[情報] 美國網球公開賽冠軍賠率",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788852805.A.5A6.html",
+      "ts": 1788852805
     }
   }
 }
