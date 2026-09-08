@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788843662,
+  "board_last_ts": 1788850884,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -38,6 +38,11 @@
       "title": "[LIVE] 排球 南韓3:0卡達 場中(全過)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788843662.A.913.html",
       "ts": 1788843662
+    },
+    "/bbs/SportLottery/M.1788850884.A.4E9.html": {
+      "title": "[LIVE] 網球 曾俊欣 對 卡斯德爾諾沃 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788850884.A.4E9.html",
+      "ts": 1788850884
     }
   }
 }
