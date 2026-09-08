@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788830987,
+  "board_last_ts": 1788834403,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788784880
@@ -46,6 +46,11 @@
       "title": "[LIVE] 美網 盧西亞諾.達德里@ A.茲維列夫 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788830987.A.668.html",
       "ts": 1788830987
+    },
+    "/bbs/SportLottery/M.1788834403.A.8AB.html": {
+      "title": "[LIVE] 棒球 多倫多藍鳥 @ 運動家 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788834403.A.8AB.html",
+      "ts": 1788834403
     }
   }
 }
