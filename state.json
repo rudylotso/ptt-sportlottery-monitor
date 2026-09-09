@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788947466,
+  "board_last_ts": 1788948396,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788947359
@@ -46,6 +46,11 @@
       "title": "[推薦] 足球 巴乙 英冠糖糖亂猜DAY19",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788947466.A.4A4.html",
       "ts": 1788947466
+    },
+    "/bbs/SportLottery/M.1788948396.A.603.html": {
+      "title": "[LIVE] 足球k1 全北現代汽車 @ 江原FC  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788948396.A.603.html",
+      "ts": 1788948396
     }
   }
 }
