@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788916591,
+  "board_last_ts": 1788917871,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788889683
@@ -61,6 +61,11 @@
       "title": "[LIVE] 網球 艾瑪.納瓦羅 @ 裴古拉 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788916591.A.999.html",
       "ts": 1788916591
+    },
+    "/bbs/SportLottery/M.1788917871.A.29D.html": {
+      "title": "[推薦] 棒球 MLB - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788917871.A.29D.html",
+      "ts": 1788917871
     }
   }
 }
