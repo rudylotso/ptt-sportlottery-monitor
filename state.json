@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788912844,
+  "board_last_ts": 1788916591,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788889683
@@ -51,6 +51,16 @@
       "title": "[推薦] 足球 珍珠奶茶看南球盃（1070）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788912844.A.82D.html",
       "ts": 1788912844
+    },
+    "/bbs/SportLottery/M.1788916550.A.646.html": {
+      "title": "[推薦] 棒球 單場 遊騎兵@水手",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788916550.A.646.html",
+      "ts": 1788916550
+    },
+    "/bbs/SportLottery/M.1788916591.A.999.html": {
+      "title": "[LIVE] 網球 艾瑪.納瓦羅 @ 裴古拉 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788916591.A.999.html",
+      "ts": 1788916591
     }
   }
 }
