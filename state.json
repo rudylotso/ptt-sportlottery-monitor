@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788951146,
+  "board_last_ts": 1788959352,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788947359
+      "last_ts": 1788959352
     },
     "b032819": {
       "last_ts": 1788781374
@@ -53,6 +53,11 @@
       "title": "[LIVE] 棒球 富邦悍將@味全龍 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788951146.A.622.html",
       "ts": 1788951146
+    },
+    "/bbs/SportLottery/M.1788959352.A.595.html": {
+      "title": "[推薦] 足球[小律師]艾爾古納 @ 金字塔FC",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788959352.A.595.html",
+      "ts": 1788959352
     }
   }
 }
