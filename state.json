@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788964468,
+  "board_last_ts": 1788966288,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788959352
@@ -70,6 +70,16 @@
       "title": "[推薦] 棒球 [涼涼]MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788964468.A.4F6.html",
       "ts": 1788964468
+    },
+    "/bbs/SportLottery/M.1788966152.A.9E7.html": {
+      "title": "Re: [發錢] 棒球[小律師]歐力士猛牛 @ 福岡軟銀鷹 飲料開獎",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788966152.A.9E7.html",
+      "ts": 1788966152
+    },
+    "/bbs/SportLottery/M.1788966288.A.409.html": {
+      "title": "[推薦] 網球 WTA美網 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788966288.A.409.html",
+      "ts": 1788966288
     }
   }
 }
