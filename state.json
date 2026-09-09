@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788960931,
+  "board_last_ts": 1788964468,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788959352
@@ -23,7 +23,7 @@
   "push_notified": {
     "/bbs/SportLottery/M.1788948396.A.603.html": 12,
     "/bbs/SportLottery/M.1788959352.A.595.html": 1,
-    "/bbs/SportLottery/M.1788960931.A.344.html": 1
+    "/bbs/SportLottery/M.1788960931.A.344.html": 5
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788944831.A.F84.html": {
@@ -65,6 +65,11 @@
       "title": "[LIVE] 埃超 艾爾古納@金字塔FC 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788960931.A.344.html",
       "ts": 1788960931
+    },
+    "/bbs/SportLottery/M.1788964468.A.4F6.html": {
+      "title": "[推薦] 棒球 [涼涼]MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788964468.A.4F6.html",
+      "ts": 1788964468
     }
   }
 }
