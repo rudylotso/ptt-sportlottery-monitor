@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788995512,
+  "board_last_ts": 1788996659,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -56,6 +56,11 @@
       "title": "[LIVE] 棒球 小熊 釀酒人 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788995512.A.88F.html",
       "ts": 1788995512
+    },
+    "/bbs/SportLottery/M.1788996659.A.B3D.html": {
+      "title": "[推薦] 棒球 MLB - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788996659.A.B3D.html",
+      "ts": 1788996659
     }
   }
 }
