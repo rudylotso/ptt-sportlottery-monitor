@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788960531,
+  "board_last_ts": 1788960931,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788959352
@@ -64,6 +64,11 @@
       "title": "[推薦] 棒球[很明顯了]0910MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788960531.A.991.html",
       "ts": 1788960531
+    },
+    "/bbs/SportLottery/M.1788960931.A.344.html": {
+      "title": "[LIVE] 埃超 艾爾古納@金字塔FC 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788960931.A.344.html",
+      "ts": 1788960931
     }
   }
 }
