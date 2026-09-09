@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788966288,
+  "board_last_ts": 1788967172,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788959352
@@ -75,6 +75,11 @@
       "title": "[推薦] 網球 WTA美網 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788966288.A.409.html",
       "ts": 1788966288
+    },
+    "/bbs/SportLottery/M.1788967172.A.B01.html": {
+      "title": "[推薦] 籃球 世界盃兩場推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788967172.A.B01.html",
+      "ts": 1788967172
     }
   }
 }
