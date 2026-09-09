@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788924147,
+  "board_last_ts": 1788927699,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788889683
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788906266.A.412.html": {
-      "title": "[推薦] 棒球 MLB - Zeng（O）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788906266.A.412.html",
-      "ts": 1788906266
-    },
     "/bbs/SportLottery/M.1788907954.A.C19.html": {
       "title": "[LIVE] 自由盃 普拉騰斯競技 @ 弗魯米內斯",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788907954.A.C19.html",
@@ -71,6 +66,11 @@
       "title": "[LIVE] 網球 阿卡拉茲 @ 謝爾頓 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788924147.A.56A.html",
       "ts": 1788924147
+    },
+    "/bbs/SportLottery/M.1788927699.A.22A.html": {
+      "title": "[LIVE] 排球 泰國VS中華台北 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788927699.A.22A.html",
+      "ts": 1788927699
     }
   }
 }
