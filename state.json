@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788967172,
+  "board_last_ts": 1788995512,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788959352
+      "last_ts": 1788974974
     },
     "b032819": {
       "last_ts": 1788781374
@@ -20,66 +20,42 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1788948396.A.603.html": 12,
-    "/bbs/SportLottery/M.1788959352.A.595.html": 1,
-    "/bbs/SportLottery/M.1788960931.A.344.html": 10
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788947359.A.0F3.html": {
-      "title": "[推薦] 足球[小律師]全北現代汽車 @ 江原FC",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788947359.A.0F3.html",
-      "ts": 1788947359
+    "/bbs/SportLottery/M.1788977276.A.DC1.html": {
+      "title": "[LIVE] 美網 高芙@米拉.安德烈耶娃 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788977276.A.DC1.html",
+      "ts": 1788977276
     },
-    "/bbs/SportLottery/M.1788947466.A.4A4.html": {
-      "title": "[推薦] 足球 巴乙 英冠糖糖亂猜DAY19",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788947466.A.4A4.html",
-      "ts": 1788947466
+    "/bbs/SportLottery/M.1788979664.A.3C5.html": {
+      "title": "[LIVE] 歐冠 馬德里競技1:2 利物浦 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788979664.A.3C5.html",
+      "ts": 1788979664
     },
-    "/bbs/SportLottery/M.1788948396.A.603.html": {
-      "title": "[LIVE] 足球k1 全北現代汽車1:1江原FC  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788948396.A.603.html",
-      "ts": 1788948396
+    "/bbs/SportLottery/M.1788986609.A.618.html": {
+      "title": "[推薦] 網球 碩三看ATP 美網 0910",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788986609.A.618.html",
+      "ts": 1788986609
     },
-    "/bbs/SportLottery/M.1788951146.A.622.html": {
-      "title": "[LIVE] 棒球 富邦悍將 4:2 味全龍 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788951146.A.622.html",
-      "ts": 1788951146
+    "/bbs/SportLottery/M.1788992553.A.83C.html": {
+      "title": "[LIVE] 足球 米內羅競技 @ 桑托斯SP  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788992553.A.83C.html",
+      "ts": 1788992553
     },
-    "/bbs/SportLottery/M.1788959352.A.595.html": {
-      "title": "[推薦] 足球[小律師]艾爾古納 @ 金字塔FC",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788959352.A.595.html",
-      "ts": 1788959352
+    "/bbs/SportLottery/M.1788992726.A.62B.html": {
+      "title": "[推薦] 足球 單場美足",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788992726.A.62B.html",
+      "ts": 1788992726
     },
-    "/bbs/SportLottery/M.1788960531.A.991.html": {
-      "title": "[推薦] 棒球[很明顯了]0910MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788960531.A.991.html",
-      "ts": 1788960531
+    "/bbs/SportLottery/M.1788994583.A.390.html": {
+      "title": "[官方] 115-09-10 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788994583.A.390.html",
+      "ts": 1788994583
     },
-    "/bbs/SportLottery/M.1788960931.A.344.html": {
-      "title": "[LIVE] 埃超 艾爾古納@金字塔FC 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788960931.A.344.html",
-      "ts": 1788960931
-    },
-    "/bbs/SportLottery/M.1788964468.A.4F6.html": {
-      "title": "[推薦] 棒球 [涼涼]MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788964468.A.4F6.html",
-      "ts": 1788964468
-    },
-    "/bbs/SportLottery/M.1788966152.A.9E7.html": {
-      "title": "Re: [發錢] 棒球[小律師]歐力士猛牛 @ 福岡軟銀鷹 飲料開獎發完!",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788966152.A.9E7.html",
-      "ts": 1788966152
-    },
-    "/bbs/SportLottery/M.1788966288.A.409.html": {
-      "title": "[推薦] 網球 WTA美網 - Zeng",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788966288.A.409.html",
-      "ts": 1788966288
-    },
-    "/bbs/SportLottery/M.1788967172.A.B01.html": {
-      "title": "[推薦] 籃球 世界盃兩場推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788967172.A.B01.html",
-      "ts": 1788967172
+    "/bbs/SportLottery/M.1788995512.A.88F.html": {
+      "title": "[LIVE] 棒球 小熊 釀酒人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788995512.A.88F.html",
+      "ts": 1788995512
     }
   }
 }
