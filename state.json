@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1788909885,
+  "board_last_ts": 1788912844,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788889683
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1788891114.A.573.html": {
-      "title": "[推薦] 籃球 韓國VS德國",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788891114.A.573.html",
-      "ts": 1788891114
-    },
     "/bbs/SportLottery/M.1788893812.A.511.html": {
       "title": "[LIVE] 歐冠 曼城 @ 波圖 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788893812.A.511.html",
@@ -56,6 +51,11 @@
       "title": "[LIVE] 棒球 大都會 馬林魚 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788909885.A.097.html",
       "ts": 1788909885
+    },
+    "/bbs/SportLottery/M.1788912844.A.82D.html": {
+      "title": "[推薦] 足球 珍珠奶茶看南球盃（1070）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788912844.A.82D.html",
+      "ts": 1788912844
     }
   }
 }
