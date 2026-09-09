@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1788944831,
+  "board_last_ts": 1788947359,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788889683
+      "last_ts": 1788947359
     },
     "b032819": {
       "last_ts": 1788781374
@@ -36,6 +36,11 @@
       "title": "[LIVE] 棒球 日本火腿鬥士  @ 福岡軟銀鷹 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1788944831.A.F84.html",
       "ts": 1788944831
+    },
+    "/bbs/SportLottery/M.1788947359.A.0F3.html": {
+      "title": "[推薦] 足球[小律師]全北現代汽車 @ 江原FC",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1788947359.A.0F3.html",
+      "ts": 1788947359
     }
   }
 }
