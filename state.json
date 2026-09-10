@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789006479,
+  "board_last_ts": 1789007091,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -61,6 +61,11 @@
       "title": "[LIVE] 棒球 紅人 @ 道奇 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789006479.A.897.html",
       "ts": 1789006479
+    },
+    "/bbs/SportLottery/M.1789007091.A.5F2.html": {
+      "title": "[推薦] 足球 美足 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789007091.A.5F2.html",
+      "ts": 1789007091
     }
   }
 }
