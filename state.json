@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789043358,
+  "board_last_ts": 1789045952,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789043358
+      "last_ts": 1789045952
     },
     "b032819": {
       "last_ts": 1789007616
@@ -54,6 +54,11 @@
       "title": "[LIVE] 冰球 阿爾泰發電機@克拉斯諾亞斯克 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789043358.A.40C.html",
       "ts": 1789043358
+    },
+    "/bbs/SportLottery/M.1789045952.A.BC0.html": {
+      "title": "[LIVE] 阿酋聯 阿爾阿赫利沙巴布 @ 杜拜聯(場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789045952.A.BC0.html",
+      "ts": 1789045952
     }
   }
 }
