@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789007616,
+  "board_last_ts": 1789011856,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -68,6 +68,11 @@
       "title": "[LIVE] 足球 聖荷西地震 @ 聖地牙哥 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789007616.A.7A7.html",
       "ts": 1789007616
+    },
+    "/bbs/SportLottery/M.1789011856.A.555.html": {
+      "title": "[推薦] 籃球1200粗暴推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789011856.A.555.html",
+      "ts": 1789011856
     }
   }
 }
