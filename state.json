@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789031106,
+  "board_last_ts": 1789031589,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -48,6 +48,11 @@
       "title": "[LIVE] 棒球 火腿 @ 軟銀 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789031106.A.177.html",
       "ts": 1789031106
+    },
+    "/bbs/SportLottery/M.1789031589.A.F13.html": {
+      "title": "[情報] 美國網球公開賽冠軍賠率",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789031589.A.F13.html",
+      "ts": 1789031589
     }
   }
 }
