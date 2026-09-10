@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789021716,
+  "board_last_ts": 1789031106,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -38,6 +38,16 @@
       "title": "[LIVE] 排球 澳洲3:0泰國 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789021716.A.3F5.html",
       "ts": 1789021716
+    },
+    "/bbs/SportLottery/M.1789031074.A.52E.html": {
+      "title": "[推薦] 籃球 五場籃球串關推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789031074.A.52E.html",
+      "ts": 1789031074
+    },
+    "/bbs/SportLottery/M.1789031106.A.177.html": {
+      "title": "[LIVE] 棒球 火腿 @ 軟銀 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789031106.A.177.html",
+      "ts": 1789031106
     }
   }
 }
