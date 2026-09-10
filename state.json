@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789036494.A.66A.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789021716.A.3F5.html": {
       "title": "[LIVE] 排球 澳洲3:0泰國 場中",
