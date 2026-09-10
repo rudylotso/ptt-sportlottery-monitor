@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789031589,
+  "board_last_ts": 1789034444,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1788974974
+      "last_ts": 1789034444
     },
     "b032819": {
       "last_ts": 1789007616
@@ -41,6 +41,11 @@
       "title": "[情報] 美國網球公開賽冠軍賠率",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789031589.A.F13.html",
       "ts": 1789031589
+    },
+    "/bbs/SportLottery/M.1789034444.A.9AC.html": {
+      "title": "[推薦] 排球[小律師]中國 @ 南韓",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789034444.A.9AC.html",
+      "ts": 1789034444
     }
   }
 }
