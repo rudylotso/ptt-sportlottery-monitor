@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789007616.A.7A7.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1788992553.A.83C.html": {
       "title": "[LIVE] 足球 米內羅競技0:2桑托斯SP  場中",
@@ -58,7 +60,7 @@
       "ts": 1789006479
     },
     "/bbs/SportLottery/M.1789007091.A.5F2.html": {
-      "title": "[推薦] 足球 美足 - Zeng",
+      "title": "[推薦] 足球 美足 - Zeng（O）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789007091.A.5F2.html",
       "ts": 1789007091
     },
