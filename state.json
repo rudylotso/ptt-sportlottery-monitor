@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1789007091,
+  "board_last_ts": 1789007616,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
     },
     "b032819": {
-      "last_ts": 1788781374
+      "last_ts": 1789007616
     },
     "bvbin10242": {
       "last_ts": 1788611371
@@ -66,6 +66,11 @@
       "title": "[推薦] 足球 美足 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789007091.A.5F2.html",
       "ts": 1789007091
+    },
+    "/bbs/SportLottery/M.1789007616.A.7A7.html": {
+      "title": "[LIVE] 足球 聖荷西地震 @ 聖地牙哥 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789007616.A.7A7.html",
+      "ts": 1789007616
     }
   }
 }
