@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789001033,
+  "board_last_ts": 1789006479,
   "accounts": {
     "lotterywin": {
       "last_ts": 1788974974
@@ -56,6 +56,11 @@
       "title": "[LIVE] 網球 范德贊舒爾普 @A.茲維列夫 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789001033.A.1E9.html",
       "ts": 1789001033
+    },
+    "/bbs/SportLottery/M.1789006479.A.897.html": {
+      "title": "[LIVE] 棒球 紅人 @ 道奇 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789006479.A.897.html",
+      "ts": 1789006479
     }
   }
 }
