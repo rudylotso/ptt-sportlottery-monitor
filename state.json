@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789119903.A.138.html": 2
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789110940.A.0AC.html": {
       "title": "[推薦] 棒球 富邦 台鋼 單場",
