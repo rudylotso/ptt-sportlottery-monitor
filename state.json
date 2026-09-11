@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789111212,
+  "board_last_ts": 1789112426,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789045952
@@ -51,6 +51,11 @@
       "title": "[推薦] 棒球 單場日棒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789111212.A.CE2.html",
       "ts": 1789111212
+    },
+    "/bbs/SportLottery/M.1789112426.A.B0E.html": {
+      "title": "[推薦] 足球 日聯第七輪",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789112426.A.B0E.html",
+      "ts": 1789112426
     }
   }
 }
