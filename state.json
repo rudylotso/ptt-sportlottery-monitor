@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789122854,
+  "board_last_ts": 1789122890,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789045952
@@ -68,6 +68,11 @@
       "title": "[推薦] 棒球 CPBL中華職棒大聯盟",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789122854.A.325.html",
       "ts": 1789122854
+    },
+    "/bbs/SportLottery/M.1789122890.A.937.html": {
+      "title": "[LIVE] 棒球 富邦悍將@台鋼雄鷹 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789122890.A.937.html",
+      "ts": 1789122890
     }
   }
 }
