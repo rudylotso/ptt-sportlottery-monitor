@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789133049,
+  "board_last_ts": 1789133956,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789045952
+      "last_ts": 1789133956
     },
     "b032819": {
       "last_ts": 1789007616
@@ -94,6 +94,16 @@
       "title": "[推薦] 足球 單場阿拉伯聯",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789133049.A.5F2.html",
       "ts": 1789133049
+    },
+    "/bbs/SportLottery/M.1789133876.A.66A.html": {
+      "title": "[活動] 【九月過關王】第二週9/12 17：59截止預測",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789133876.A.66A.html",
+      "ts": 1789133876
+    },
+    "/bbs/SportLottery/M.1789133956.A.397.html": {
+      "title": "[LIVE] 阿聯 巴尼亞斯 @ 豪爾費坎 (場中)",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789133956.A.397.html",
+      "ts": 1789133956
     }
   }
 }
