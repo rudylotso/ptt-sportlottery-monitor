@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789113714,
+  "board_last_ts": 1789116032,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789045952
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789094594.A.C95.html": {
-      "title": "[LIVE] 墨超 萊昂 1:3普馬斯  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789094594.A.C95.html",
-      "ts": 1789094594
-    },
     "/bbs/SportLottery/M.1789095374.A.3C0.html": {
       "title": "[推薦] 足球 珍珠奶茶看墨超（1189）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789095374.A.3C0.html",
@@ -61,6 +56,11 @@
       "title": "[推薦] 足球 日甲 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789113714.A.4E2.html",
       "ts": 1789113714
+    },
+    "/bbs/SportLottery/M.1789116032.A.D8E.html": {
+      "title": "[推薦] 足球 珍珠奶茶看日甲（1075）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789116032.A.D8E.html",
+      "ts": 1789116032
     }
   }
 }
