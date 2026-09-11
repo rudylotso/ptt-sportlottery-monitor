@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789124698,
+  "board_last_ts": 1789126278,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789045952
@@ -40,7 +40,7 @@
       "ts": 1789112426
     },
     "/bbs/SportLottery/M.1789113714.A.4E2.html": {
-      "title": "[推薦] 足球 日甲 - Zeng",
+      "title": "[推薦] 足球 日甲 - Zeng（O）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789113714.A.4E2.html",
       "ts": 1789113714
     },
@@ -78,6 +78,11 @@
       "title": "[推薦] 足球 墨超 9/12",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789124698.A.E3F.html",
       "ts": 1789124698
+    },
+    "/bbs/SportLottery/M.1789126278.A.56D.html": {
+      "title": "[LIVE] 泰甲 曼谷聯隊俱樂部@拉查武里 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789126278.A.56D.html",
+      "ts": 1789126278
     }
   }
 }
