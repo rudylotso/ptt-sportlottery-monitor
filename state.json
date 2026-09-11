@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789117481,
+  "board_last_ts": 1789120097,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789045952
@@ -22,16 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789098441.A.553.html": {
-      "title": "[LIVE] 籃球 巴林89:85菲律賓 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789098441.A.553.html",
-      "ts": 1789098441
-    },
-    "/bbs/SportLottery/M.1789098567.A.8E6.html": {
-      "title": "[推薦] 籃球1200粗暴推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789098567.A.8E6.html",
-      "ts": 1789098567
-    },
     "/bbs/SportLottery/M.1789110940.A.0AC.html": {
       "title": "[推薦] 棒球 富邦 台鋼 單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789110940.A.0AC.html",
@@ -61,6 +51,16 @@
       "title": "[LIVE] 棒球 西武獅 @ 歐力士猛牛 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789117481.A.784.html",
       "ts": 1789117481
+    },
+    "/bbs/SportLottery/M.1789119903.A.138.html": {
+      "title": "[LIVE] 日甲 鹿島鹿角@神戶勝利船 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789119903.A.138.html",
+      "ts": 1789119903
+    },
+    "/bbs/SportLottery/M.1789120097.A.0FE.html": {
+      "title": "[推薦] 棒球 單場台棒",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789120097.A.0FE.html",
+      "ts": 1789120097
     }
   }
 }
