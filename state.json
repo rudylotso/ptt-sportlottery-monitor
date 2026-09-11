@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789133956,
+  "board_last_ts": 1789134191,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -99,6 +99,11 @@
       "title": "[LIVE] 阿聯 巴尼亞斯 @ 豪爾費坎 (場中)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789133956.A.397.html",
       "ts": 1789133956
+    },
+    "/bbs/SportLottery/M.1789134191.A.2B2.html": {
+      "title": "[推薦] 網球 碩三看ATP 熱拿亞挑戰賽 0911",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789134191.A.2B2.html",
+      "ts": 1789134191
     }
   }
 }
