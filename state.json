@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789173092,
+  "board_last_ts": 1789173677,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -61,6 +61,11 @@
       "title": "[推薦] 籃球 單場亞運",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789173092.A.6AF.html",
       "ts": 1789173092
+    },
+    "/bbs/SportLottery/M.1789173677.A.B0F.html": {
+      "title": "[LIVE] 亞運男籃 伊朗@中華台北 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789173677.A.B0F.html",
+      "ts": 1789173677
     }
   }
 }
