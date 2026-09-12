@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789205241,
+  "board_last_ts": 1789205708,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -22,7 +22,7 @@
   },
   "push_notified": {
     "/bbs/SportLottery/M.1789184641.A.2FD.html": 2,
-    "/bbs/SportLottery/M.1789198096.A.B92.html": 1,
+    "/bbs/SportLottery/M.1789198096.A.B92.html": 2,
     "/bbs/SportLottery/M.1789203257.A.D67.html": 1
   },
   "tracked_articles": {
@@ -100,6 +100,11 @@
       "title": "[推薦] 排球 五場排球串關火鍋",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789205241.A.505.html",
       "ts": 1789205241
+    },
+    "/bbs/SportLottery/M.1789205708.A.B69.html": {
+      "title": "[LIVE] 日甲 大阪櫻花@廣島三箭 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789205708.A.B69.html",
+      "ts": 1789205708
     }
   }
 }
