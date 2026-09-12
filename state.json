@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789212613,
+  "board_last_ts": 1789213647,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -94,6 +94,11 @@
       "title": "[LIVE] 西甲  阿拉維斯 @ 桑坦德競賽  場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789212613.A.E99.html",
       "ts": 1789212613
+    },
+    "/bbs/SportLottery/M.1789213647.A.FC8.html": {
+      "title": "[推薦] 足球 珍珠奶茶看西甲（1147）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789213647.A.FC8.html",
+      "ts": 1789213647
     }
   }
 }
