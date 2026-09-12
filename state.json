@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789203257,
+  "board_last_ts": 1789203493,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -84,6 +84,11 @@
       "title": "[LIVE] 日甲 川崎前鋒 @ 水戶蜀葵 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789203257.A.D67.html",
       "ts": 1789203257
+    },
+    "/bbs/SportLottery/M.1789203493.A.F6F.html": {
+      "title": "[推薦] 足球 日甲 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789203493.A.F6F.html",
+      "ts": 1789203493
     }
   }
 }
