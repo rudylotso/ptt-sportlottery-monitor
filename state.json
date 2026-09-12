@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789184769,
+  "board_last_ts": 1789185528,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -70,7 +70,7 @@
       "ts": 1789180024
     },
     "/bbs/SportLottery/M.1789181504.A.C15.html": {
-      "title": "[推薦] 足球 墨超 - Zeng",
+      "title": "[推薦] 足球 墨超 - Zeng（X，難怪叫狗頭）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789181504.A.C15.html",
       "ts": 1789181504
     },
@@ -83,6 +83,11 @@
       "title": "[LIVE] 籃球 約旦VS卡達 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789184769.A.BF2.html",
       "ts": 1789184769
+    },
+    "/bbs/SportLottery/M.1789185528.A.FDB.html": {
+      "title": "[閒聊] 美網決賽? 台彩?",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789185528.A.FDB.html",
+      "ts": 1789185528
     }
   }
 }
