@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789184641,
+  "board_last_ts": 1789184769,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -78,6 +78,11 @@
       "title": "[推薦] 電競 LOL 山城恋推LCKLPL 0912",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789184641.A.2FD.html",
       "ts": 1789184641
+    },
+    "/bbs/SportLottery/M.1789184769.A.BF2.html": {
+      "title": "[LIVE] 籃球 約旦VS卡達 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789184769.A.BF2.html",
+      "ts": 1789184769
     }
   }
 }
