@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789188146,
+  "board_last_ts": 1789192226,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -69,6 +69,11 @@
       "title": "[推薦] 棒球 土曜日情海黑龍王的棒球時間",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789188146.A.69A.html",
       "ts": 1789188146
+    },
+    "/bbs/SportLottery/M.1789192226.A.A9E.html": {
+      "title": "[推薦] 足球 珍珠奶茶看韓K1（1256）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789192226.A.A9E.html",
+      "ts": 1789192226
     }
   }
 }
