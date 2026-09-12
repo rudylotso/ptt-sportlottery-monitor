@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789194823,
+  "board_last_ts": 1789197106,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -78,6 +78,11 @@
       "title": "[推薦] 籃球 多場籃球串關推薦 附帶排球",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789194823.A.7A8.html",
       "ts": 1789194823
+    },
+    "/bbs/SportLottery/M.1789197106.A.8FB.html": {
+      "title": "[推薦] 足球 情海黑龍王的亞洲足球時間",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789197106.A.8FB.html",
+      "ts": 1789197106
     }
   }
 }
