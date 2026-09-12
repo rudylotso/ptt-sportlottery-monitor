@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789197828,
+  "board_last_ts": 1789198096,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -88,6 +88,11 @@
       "title": "[推薦] 足球 南韓K1 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789197828.A.446.html",
       "ts": 1789197828
+    },
+    "/bbs/SportLottery/M.1789198096.A.B92.html": {
+      "title": "[LIVE] 韓K1 FC首爾@全北現代汽車 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789198096.A.B92.html",
+      "ts": 1789198096
     }
   }
 }
