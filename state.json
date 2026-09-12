@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789193500,
+  "board_last_ts": 1789194823,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -25,11 +25,6 @@
     "/bbs/SportLottery/M.1789184641.A.2FD.html": 2
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789173092.A.6AF.html": {
-      "title": "[推薦] 籃球 單場亞運",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789173092.A.6AF.html",
-      "ts": 1789173092
-    },
     "/bbs/SportLottery/M.1789173677.A.B0F.html": {
       "title": "[LIVE] 亞運男籃 伊朗@中華台北 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789173677.A.B0F.html",
@@ -84,6 +79,11 @@
       "title": "[推薦] 足球 單場K1",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789193500.A.D9B.html",
       "ts": 1789193500
+    },
+    "/bbs/SportLottery/M.1789194823.A.7A8.html": {
+      "title": "[推薦] 籃球 多場籃球串關推薦 附帶排球",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789194823.A.7A8.html",
+      "ts": 1789194823
     }
   }
 }
