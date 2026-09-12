@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789221026,
+  "board_last_ts": 1789221490,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789217743
+      "last_ts": 1789221490
     },
     "b032819": {
       "last_ts": 1789007616
@@ -23,7 +23,9 @@
   "push_notified": {
     "/bbs/SportLottery/M.1789203257.A.D67.html": 7,
     "/bbs/SportLottery/M.1789213647.A.FC8.html": 1,
-    "/bbs/SportLottery/M.1789210693.A.F54.html": 2
+    "/bbs/SportLottery/M.1789210693.A.F54.html": 2,
+    "/bbs/SportLottery/M.1789221026.A.EB8.html": 1,
+    "/bbs/SportLottery/M.1789212613.A.E99.html": 1
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789203257.A.D67.html": {
@@ -100,6 +102,11 @@
       "title": "[LIVE] 英超 富勒姆 @ 利物浦 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789221026.A.EB8.html",
       "ts": 1789221026
+    },
+    "/bbs/SportLottery/M.1789221490.A.7E1.html": {
+      "title": "[推薦] 足球[小律師]富勒姆 @ 利物浦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789221490.A.7E1.html",
+      "ts": 1789221490
     }
   }
 }
