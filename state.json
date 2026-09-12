@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789217743,
+  "board_last_ts": 1789218971,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789217743
@@ -96,6 +96,11 @@
       "title": "[推薦] 足球[小律師]弗羅西諾內 @ 熱那亞",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789217743.A.56F.html",
       "ts": 1789217743
+    },
+    "/bbs/SportLottery/M.1789218971.A.A96.html": {
+      "title": "[推薦] 足球 珍珠奶茶看德甲（1164）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789218971.A.A96.html",
+      "ts": 1789218971
     }
   }
 }
