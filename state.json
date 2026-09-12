@@ -21,7 +21,6 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1789203257.A.D67.html": 7,
     "/bbs/SportLottery/M.1789213647.A.FC8.html": 1,
     "/bbs/SportLottery/M.1789210693.A.F54.html": 2,
     "/bbs/SportLottery/M.1789221026.A.EB8.html": 2,
@@ -29,11 +28,6 @@
     "/bbs/SportLottery/M.1789216877.A.44D.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789203257.A.D67.html": {
-      "title": "[LIVE] 日甲 川崎前鋒 @ 水戶蜀葵 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789203257.A.D67.html",
-      "ts": 1789203257
-    },
     "/bbs/SportLottery/M.1789203493.A.F6F.html": {
       "title": "[推薦] 足球 日甲 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789203493.A.F6F.html",
