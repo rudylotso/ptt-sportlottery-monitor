@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789181504,
+  "board_last_ts": 1789184641,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -73,6 +73,11 @@
       "title": "[推薦] 足球 墨超 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789181504.A.C15.html",
       "ts": 1789181504
+    },
+    "/bbs/SportLottery/M.1789184641.A.2FD.html": {
+      "title": "[推薦] 電競 LOL 山城恋推LCKLPL 0912",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789184641.A.2FD.html",
+      "ts": 1789184641
     }
   }
 }
