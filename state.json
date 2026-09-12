@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789197106,
+  "board_last_ts": 1789197828,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -83,6 +83,11 @@
       "title": "[推薦] 足球 情海黑龍王的亞洲足球時間",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789197106.A.8FB.html",
       "ts": 1789197106
+    },
+    "/bbs/SportLottery/M.1789197828.A.446.html": {
+      "title": "[推薦] 足球 南韓K1 - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789197828.A.446.html",
+      "ts": 1789197828
     }
   }
 }
