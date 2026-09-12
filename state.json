@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789205708,
+  "board_last_ts": 1789210693,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789133956
@@ -84,6 +84,11 @@
       "title": "[LIVE] 日甲 大阪櫻花@廣島三箭 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789205708.A.B69.html",
       "ts": 1789205708
+    },
+    "/bbs/SportLottery/M.1789210693.A.F54.html": {
+      "title": "[LIVE] 德乙 凱撒斯勞騰 @ 馬德堡  場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789210693.A.F54.html",
+      "ts": 1789210693
     }
   }
 }
