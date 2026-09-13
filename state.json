@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789225507,
+  "board_last_ts": 1789340871,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789221490
+      "last_ts": 1789311080
     },
     "b032819": {
       "last_ts": 1789007616
@@ -21,77 +21,33 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1789213647.A.FC8.html": 1,
-    "/bbs/SportLottery/M.1789210693.A.F54.html": 2,
-    "/bbs/SportLottery/M.1789221026.A.EB8.html": 6,
-    "/bbs/SportLottery/M.1789212613.A.E99.html": 3,
-    "/bbs/SportLottery/M.1789216877.A.44D.html": 3
+    "/bbs/SportLottery/M.1789340058.A.341.html": 2
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789205708.A.B69.html": {
-      "title": "[LIVE] 日甲 大阪櫻花@廣島三箭 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789205708.A.B69.html",
-      "ts": 1789205708
+    "/bbs/SportLottery/M.1789321725.A.D89.html": {
+      "title": "[推薦] 網球 碩三看ATP 美網 0914",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789321725.A.D89.html",
+      "ts": 1789321725
     },
-    "/bbs/SportLottery/M.1789210693.A.F54.html": {
-      "title": "[LIVE] 德乙 凱撒斯勞騰 0:3 馬德堡  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789210693.A.F54.html",
-      "ts": 1789210693
+    "/bbs/SportLottery/M.1789322511.A.349.html": {
+      "title": "[LIVE] 美網 班.謝爾頓 @ A.茲維列夫 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789322511.A.349.html",
+      "ts": 1789322511
     },
-    "/bbs/SportLottery/M.1789212613.A.E99.html": {
-      "title": "[LIVE] 西甲  阿拉維斯 1:2 桑坦德競賽  場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789212613.A.E99.html",
-      "ts": 1789212613
+    "/bbs/SportLottery/M.1789340004.A.36E.html": {
+      "title": "[官方] 115-09-14 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340004.A.36E.html",
+      "ts": 1789340004
     },
-    "/bbs/SportLottery/M.1789213647.A.FC8.html": {
-      "title": "[推薦] 足球 珍珠奶茶看西甲（1147）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789213647.A.FC8.html",
-      "ts": 1789213647
+    "/bbs/SportLottery/M.1789340058.A.341.html": {
+      "title": "[LIVE] 美足聯 奧斯汀 @ 溫哥華白浪",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340058.A.341.html",
+      "ts": 1789340058
     },
-    "/bbs/SportLottery/M.1789215975.A.50D.html": {
-      "title": "[推薦] 足球 英超利物浦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789215975.A.50D.html",
-      "ts": 1789215975
-    },
-    "/bbs/SportLottery/M.1789216877.A.44D.html": {
-      "title": "[LIVE] 意甲 弗羅西諾內1:1熱那亞 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789216877.A.44D.html",
-      "ts": 1789216877
-    },
-    "/bbs/SportLottery/M.1789217672.A.387.html": {
-      "title": "[推薦] 足球 義甲 - Zeng（O）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789217672.A.387.html",
-      "ts": 1789217672
-    },
-    "/bbs/SportLottery/M.1789217743.A.56F.html": {
-      "title": "[推薦] 足球[小律師]弗羅西諾內 @ 熱那亞",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789217743.A.56F.html",
-      "ts": 1789217743
-    },
-    "/bbs/SportLottery/M.1789218971.A.A96.html": {
-      "title": "[推薦] 足球 珍珠奶茶看德甲（1164）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789218971.A.A96.html",
-      "ts": 1789218971
-    },
-    "/bbs/SportLottery/M.1789220936.A.4F1.html": {
-      "title": "[推薦] 足球 珍珠奶茶看英超（1174）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789220936.A.4F1.html",
-      "ts": 1789220936
-    },
-    "/bbs/SportLottery/M.1789221026.A.EB8.html": {
-      "title": "[LIVE] 英超 富勒姆 @ 利物浦 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789221026.A.EB8.html",
-      "ts": 1789221026
-    },
-    "/bbs/SportLottery/M.1789221490.A.7E1.html": {
-      "title": "[推薦] 足球[小律師]富勒姆 @ 利物浦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789221490.A.7E1.html",
-      "ts": 1789221490
-    },
-    "/bbs/SportLottery/M.1789225507.A.942.html": {
-      "title": "[LIVE] 法甲 摩納哥@史特拉斯堡 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789225507.A.942.html",
-      "ts": 1789225507
+    "/bbs/SportLottery/M.1789340871.A.879.html": {
+      "title": "[LIVE] 棒球 教士 巨人 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340871.A.879.html",
+      "ts": 1789340871
     }
   }
 }
