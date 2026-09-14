@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789380778,
+  "board_last_ts": 1789381413,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -81,6 +81,11 @@
       "title": "[推薦] 棒球 單場台棒",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380778.A.C09.html",
       "ts": 1789380778
+    },
+    "/bbs/SportLottery/M.1789381413.A.A2B.html": {
+      "title": "[LIVE] 中職 樂天 台鋼 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789381413.A.A2B.html",
+      "ts": 1789381413
     }
   }
 }
