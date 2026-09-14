@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789392336,
+  "board_last_ts": 1789392600,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -64,6 +64,11 @@
       "title": "[推薦] 足球 單場埃及超",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789392336.A.D32.html",
       "ts": 1789392336
+    },
+    "/bbs/SportLottery/M.1789392600.A.C84.html": {
+      "title": "[LIVE] 冰球 卡盧加 @ 鄂木斯克之翼 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789392600.A.C84.html",
+      "ts": 1789392600
     }
   }
 }
