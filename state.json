@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789346707,
+  "board_last_ts": 1789347285,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789311080
+      "last_ts": 1789347285
     },
     "b032819": {
       "last_ts": 1789007616
@@ -43,6 +43,11 @@
       "title": "[推薦] 足球 單場美聯",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789346707.A.2D7.html",
       "ts": 1789346707
+    },
+    "/bbs/SportLottery/M.1789347285.A.2C4.html": {
+      "title": "[推薦] 足球[小律師]費城聯 @ 聖地牙哥",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789347285.A.2C4.html",
+      "ts": 1789347285
     }
   }
 }
