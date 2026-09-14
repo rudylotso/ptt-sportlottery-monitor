@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1789358338,
+  "board_last_ts": 1789361639,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789347285
+      "last_ts": 1789361444
     },
     "b032819": {
-      "last_ts": 1789007616
+      "last_ts": 1789361639
     },
     "bvbin10242": {
       "last_ts": 1788611371
@@ -21,22 +21,11 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1789340058.A.341.html": 3,
     "/bbs/SportLottery/M.1789347977.A.09A.html": 18,
     "/bbs/SportLottery/M.1789347285.A.2C4.html": 2,
     "/bbs/SportLottery/M.1789358338.A.8EF.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789340004.A.36E.html": {
-      "title": "[官方] 115-09-14 單場場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340004.A.36E.html",
-      "ts": 1789340004
-    },
-    "/bbs/SportLottery/M.1789340058.A.341.html": {
-      "title": "[LIVE] 美足聯 奧斯汀 @ 溫哥華白浪",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340058.A.341.html",
-      "ts": 1789340058
-    },
     "/bbs/SportLottery/M.1789340871.A.879.html": {
       "title": "[LIVE] 棒球 教士6：4 巨人 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789340871.A.879.html",
@@ -66,6 +55,16 @@
       "title": "[LIVE] 籃球 菲律賓VS中國 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789358338.A.8EF.html",
       "ts": 1789358338
+    },
+    "/bbs/SportLottery/M.1789361444.A.49C.html": {
+      "title": "[推薦] 足球[小律師]烏茲別克 @ 菲律賓",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789361444.A.49C.html",
+      "ts": 1789361444
+    },
+    "/bbs/SportLottery/M.1789361639.A.314.html": {
+      "title": "[推薦] 足球 綠茶看女足（1226）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789361639.A.314.html",
+      "ts": 1789361639
     }
   }
 }
