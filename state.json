@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789397494,
+  "board_last_ts": 1789427889,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789380264
+      "last_ts": 1789401448
     },
     "b032819": {
       "last_ts": 1789363253
@@ -20,62 +20,17 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1789385229.A.D32.html": 22,
-    "/bbs/SportLottery/M.1789380264.A.5D2.html": 3,
-    "/bbs/SportLottery/M.1789393142.A.16F.html": 2,
-    "/bbs/SportLottery/M.1789392600.A.C84.html": 4
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789378355.A.363.html": {
-      "title": "[LIVE] 日丙 愛媛FC 1:2FC大阪 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789378355.A.363.html",
-      "ts": 1789378355
+    "/bbs/SportLottery/M.1789412126.A.FFC.html": {
+      "title": "[LIVE] 英超 紐卡索聯1:4里茲聯 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789412126.A.FFC.html",
+      "ts": 1789412126
     },
-    "/bbs/SportLottery/M.1789380264.A.5D2.html": {
-      "title": "[推薦] 足球[小律師]丹戎巴葛聯 @ 芽籠國際",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380264.A.5D2.html",
-      "ts": 1789380264
-    },
-    "/bbs/SportLottery/M.1789380778.A.C09.html": {
-      "title": "[推薦] 棒球 單場台棒",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380778.A.C09.html",
-      "ts": 1789380778
-    },
-    "/bbs/SportLottery/M.1789381413.A.A2B.html": {
-      "title": "[LIVE] 中職 樂天 台鋼 單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789381413.A.A2B.html",
-      "ts": 1789381413
-    },
-    "/bbs/SportLottery/M.1789385229.A.D32.html": {
-      "title": "[LIVE] 新超 丹戎巴葛聯 0:1 芽籠國際 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789385229.A.D32.html",
-      "ts": 1789385229
-    },
-    "/bbs/SportLottery/M.1789392336.A.D32.html": {
-      "title": "[推薦] 足球 單場埃及超",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789392336.A.D32.html",
-      "ts": 1789392336
-    },
-    "/bbs/SportLottery/M.1789392600.A.C84.html": {
-      "title": "[LIVE] 冰球 卡盧加 @ 鄂木斯克之翼 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789392600.A.C84.html",
-      "ts": 1789392600
-    },
-    "/bbs/SportLottery/M.1789393142.A.16F.html": {
-      "title": "[LIVE] 埃超 索莫哈@陸軍先鋒 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789393142.A.16F.html",
-      "ts": 1789393142
-    },
-    "/bbs/SportLottery/M.1789395106.A.331.html": {
-      "title": "Re: [發錢] 羅甲 博托沙尼 1-2 克盧日大學 律師飲料開獎發完!",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789395106.A.331.html",
-      "ts": 1789395106
-    },
-    "/bbs/SportLottery/M.1789397494.A.446.html": {
-      "title": "Re: [發錢] 棒球[小律師]8/4日本小棒棒 律師飲料開獎發完!",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789397494.A.446.html",
-      "ts": 1789397494
+    "/bbs/SportLottery/M.1789427889.A.397.html": {
+      "title": "[官方] 115-09-15 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789427889.A.397.html",
+      "ts": 1789427889
     }
   }
 }
