@@ -1,8 +1,8 @@
 {
-  "board_last_ts": 1789378355,
+  "board_last_ts": 1789380264,
   "accounts": {
     "lotterywin": {
-      "last_ts": 1789368011
+      "last_ts": 1789380264
     },
     "b032819": {
       "last_ts": 1789363253
@@ -71,6 +71,11 @@
       "title": "[LIVE] 日丙 愛媛FC  @ FC大阪 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789378355.A.363.html",
       "ts": 1789378355
+    },
+    "/bbs/SportLottery/M.1789380264.A.5D2.html": {
+      "title": "[推薦] 足球[小律師]丹戎巴葛聯 @ 芽籠國際",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380264.A.5D2.html",
+      "ts": 1789380264
     }
   }
 }
