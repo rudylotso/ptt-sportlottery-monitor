@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789385229,
+  "board_last_ts": 1789392336,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -59,6 +59,11 @@
       "title": "[LIVE] 新超 丹戎巴葛聯 @ 芽籠國際 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789385229.A.D32.html",
       "ts": 1789385229
+    },
+    "/bbs/SportLottery/M.1789392336.A.D32.html": {
+      "title": "[推薦] 足球 單場埃及超",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789392336.A.D32.html",
+      "ts": 1789392336
     }
   }
 }
