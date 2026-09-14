@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1789361639,
+  "board_last_ts": 1789363253,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789361444
     },
     "b032819": {
-      "last_ts": 1789361639
+      "last_ts": 1789363253
     },
     "bvbin10242": {
       "last_ts": 1788611371
@@ -24,7 +24,8 @@
     "/bbs/SportLottery/M.1789347977.A.09A.html": 18,
     "/bbs/SportLottery/M.1789347285.A.2C4.html": 2,
     "/bbs/SportLottery/M.1789358338.A.8EF.html": 4,
-    "/bbs/SportLottery/M.1789361444.A.49C.html": 1
+    "/bbs/SportLottery/M.1789361444.A.49C.html": 1,
+    "/bbs/SportLottery/M.1789361639.A.314.html": 1
   },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789346707.A.2D7.html": {
@@ -61,6 +62,11 @@
       "title": "[推薦] 足球 綠茶看女足（1226）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789361639.A.314.html",
       "ts": 1789361639
+    },
+    "/bbs/SportLottery/M.1789363253.A.C4C.html": {
+      "title": "[LIVE] 足球 烏茲別克 @ 菲律賓 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789363253.A.C4C.html",
+      "ts": 1789363253
     }
   }
 }
