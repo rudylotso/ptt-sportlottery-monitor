@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789395106,
+  "board_last_ts": 1789397494,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -26,11 +26,6 @@
     "/bbs/SportLottery/M.1789393142.A.16F.html": 1
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789376023.A.3CC.html": {
-      "title": "[推薦] 棒球 單場日棒",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789376023.A.3CC.html",
-      "ts": 1789376023
-    },
     "/bbs/SportLottery/M.1789376651.A.902.html": {
       "title": "[LIVE] 棒球 讀賣巨人3:4橫濱海灣之星 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789376651.A.902.html",
@@ -80,6 +75,11 @@
       "title": "Re: [發錢] 羅甲 博托沙尼 1-2 克盧日大學 律師飲料開獎發完!",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789395106.A.331.html",
       "ts": 1789395106
+    },
+    "/bbs/SportLottery/M.1789397494.A.446.html": {
+      "title": "Re: [發錢] 棒球[小律師]8/4日本小棒棒 律師飲料開獎",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789397494.A.446.html",
+      "ts": 1789397494
     }
   }
 }
