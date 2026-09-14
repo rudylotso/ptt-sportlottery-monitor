@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789380264,
+  "board_last_ts": 1789380778,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -76,6 +76,11 @@
       "title": "[推薦] 足球[小律師]丹戎巴葛聯 @ 芽籠國際",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380264.A.5D2.html",
       "ts": 1789380264
+    },
+    "/bbs/SportLottery/M.1789380778.A.C09.html": {
+      "title": "[推薦] 棒球 單場台棒",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789380778.A.C09.html",
+      "ts": 1789380778
     }
   }
 }
