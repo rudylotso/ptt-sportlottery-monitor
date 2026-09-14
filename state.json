@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789381413,
+  "board_last_ts": 1789385229,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789380264
@@ -68,6 +68,11 @@
       "title": "[LIVE] 中職 樂天 台鋼 單場",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789381413.A.A2B.html",
       "ts": 1789381413
+    },
+    "/bbs/SportLottery/M.1789385229.A.D32.html": {
+      "title": "[LIVE] 新超 丹戎巴葛聯 @ 芽籠國際 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789385229.A.D32.html",
+      "ts": 1789385229
     }
   }
 }
