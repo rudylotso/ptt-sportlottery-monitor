@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789347977,
+  "board_last_ts": 1789358338,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789347285
@@ -60,6 +60,11 @@
       "title": "[LIVE] 足球 費城聯 5:0 聖地牙哥 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789347977.A.09A.html",
       "ts": 1789347977
+    },
+    "/bbs/SportLottery/M.1789358338.A.8EF.html": {
+      "title": "[LIVE] 籃球 菲律賓VS中國 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789358338.A.8EF.html",
+      "ts": 1789358338
     }
   }
 }
