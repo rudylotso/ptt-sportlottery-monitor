@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789479283.A.379.html": 3
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789463538.A.C5C.html": {
       "title": "[LIVE] 日棒 福岡軟銀鷹@歐力士猛牛 場中",
