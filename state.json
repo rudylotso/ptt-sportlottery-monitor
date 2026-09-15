@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789483205,
+  "board_last_ts": 1789485185,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -24,11 +24,6 @@
     "/bbs/SportLottery/M.1789479283.A.379.html": 3
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789463538.A.C5C.html": {
-      "title": "[LIVE] 日棒 福岡軟銀鷹@歐力士猛牛 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789463538.A.C5C.html",
-      "ts": 1789463538
-    },
     "/bbs/SportLottery/M.1789465839.A.BC1.html": {
       "title": "[推薦] 足球 綠茶看男足（1008）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789465839.A.BC1.html",
@@ -68,6 +63,11 @@
       "title": "[推薦] 足球　阿爾納斯爾 vs 阿爾艾因",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789483205.A.F50.html",
       "ts": 1789483205
+    },
+    "/bbs/SportLottery/M.1789485185.A.E4C.html": {
+      "title": "[推薦] 0916單場MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789485185.A.E4C.html",
+      "ts": 1789485185
     }
   }
 }
