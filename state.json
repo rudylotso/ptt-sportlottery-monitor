@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789465839,
+  "board_last_ts": 1789466215,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -8,7 +8,7 @@
       "last_ts": 1789465839
     },
     "bvbin10242": {
-      "last_ts": 1788611371
+      "last_ts": 1789466215
     },
     "steveeagle": {
       "last_ts": 1778086613
@@ -56,6 +56,11 @@
       "title": "[推薦] 足球 綠茶看男足（1008）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789465839.A.BC1.html",
       "ts": 1789465839
+    },
+    "/bbs/SportLottery/M.1789466215.A.655.html": {
+      "title": "[推薦] 足球 18：00 亞冠聯賽場次推薦",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466215.A.655.html",
+      "ts": 1789466215
     }
   }
 }
