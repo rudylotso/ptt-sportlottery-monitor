@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789452067,
+  "board_last_ts": 1789453040,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -66,6 +66,11 @@
       "title": "[LIVE] 亞運足球 菲律賓@烏茲別克 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789452067.A.3AE.html",
       "ts": 1789452067
+    },
+    "/bbs/SportLottery/M.1789453040.A.299.html": {
+      "title": "[推薦] 足球 亞冠東亞區第一輪",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789453040.A.299.html",
+      "ts": 1789453040
     }
   }
 }
