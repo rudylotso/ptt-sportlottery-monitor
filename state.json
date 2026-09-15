@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1789463538,
+  "board_last_ts": 1789465839,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
     },
     "b032819": {
-      "last_ts": 1789363253
+      "last_ts": 1789465839
     },
     "bvbin10242": {
       "last_ts": 1788611371
@@ -51,6 +51,11 @@
       "title": "[LIVE] 日棒 福岡軟銀鷹@歐力士猛牛 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789463538.A.C5C.html",
       "ts": 1789463538
+    },
+    "/bbs/SportLottery/M.1789465839.A.BC1.html": {
+      "title": "[推薦] 足球 綠茶看男足（1008）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789465839.A.BC1.html",
+      "ts": 1789465839
     }
   }
 }
