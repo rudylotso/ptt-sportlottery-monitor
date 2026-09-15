@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789435485,
+  "board_last_ts": 1789438349,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -33,7 +33,7 @@
       "ts": 1789429095
     },
     "/bbs/SportLottery/M.1789434320.A.F9E.html": {
-      "title": "[LIVE] 棒球 老虎 藍鳥 場中",
+      "title": "[LIVE] 棒球 老虎6：5藍鳥 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789434320.A.F9E.html",
       "ts": 1789434320
     },
@@ -41,6 +41,11 @@
       "title": "[推薦] 棒球[很明顯]0915MLB",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789435485.A.269.html",
       "ts": 1789435485
+    },
+    "/bbs/SportLottery/M.1789438349.A.1AE.html": {
+      "title": "[LIVE] 棒球 馬林魚@響尾蛇 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789438349.A.1AE.html",
+      "ts": 1789438349
     }
   }
 }
