@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789466215,
+  "board_last_ts": 1789466626,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -22,11 +22,6 @@
   },
   "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789444838.A.2BB.html": {
-      "title": "[推薦] 網球 潘切4 - Zeng（O）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789444838.A.2BB.html",
-      "ts": 1789444838
-    },
     "/bbs/SportLottery/M.1789445165.A.79A.html": {
       "title": "[推薦] 網球 碩三看ATP 潘切4挑戰賽 0915 (o)",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789445165.A.79A.html",
@@ -61,6 +56,11 @@
       "title": "[推薦] 足球 18：00 亞冠聯賽場次推薦",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466215.A.655.html",
       "ts": 1789466215
+    },
+    "/bbs/SportLottery/M.1789466626.A.D8E.html": {
+      "title": "[LIVE] 足球 科威特 @ 越南 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466626.A.D8E.html",
+      "ts": 1789466626
     }
   }
 }
