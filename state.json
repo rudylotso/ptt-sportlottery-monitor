@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789444838,
+  "board_last_ts": 1789445197,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -61,6 +61,16 @@
       "title": "[推薦] 網球 潘切4 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789444838.A.2BB.html",
       "ts": 1789444838
+    },
+    "/bbs/SportLottery/M.1789445165.A.79A.html": {
+      "title": "[推薦] 網球 碩三看ATP 潘切4挑戰賽 0915",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789445165.A.79A.html",
+      "ts": 1789445165
+    },
+    "/bbs/SportLottery/M.1789445197.A.9CA.html": {
+      "title": "[推薦] 網球 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789445197.A.9CA.html",
+      "ts": 1789445197
     }
   }
 }
