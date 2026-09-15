@@ -1,11 +1,11 @@
 {
-  "board_last_ts": 1789485185,
+  "board_last_ts": 1789514540,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
     },
     "b032819": {
-      "last_ts": 1789465839
+      "last_ts": 1789494752
     },
     "bvbin10242": {
       "last_ts": 1789466215
@@ -21,53 +21,38 @@
     }
   },
   "push_notified": {
-    "/bbs/SportLottery/M.1789479283.A.379.html": 5
+    "/bbs/SportLottery/M.1789498561.A.D87.html": 4
   },
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789465839.A.BC1.html": {
-      "title": "[推薦] 足球 綠茶看男足（1008）",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789465839.A.BC1.html",
-      "ts": 1789465839
+    "/bbs/SportLottery/M.1789494752.A.4E1.html": {
+      "title": "[推薦] 足球 綠茶看英格蘭盃（1119）",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789494752.A.4E1.html",
+      "ts": 1789494752
     },
-    "/bbs/SportLottery/M.1789466215.A.655.html": {
-      "title": "[推薦] 足球 18：00 亞冠聯賽場次推薦",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466215.A.655.html",
-      "ts": 1789466215
+    "/bbs/SportLottery/M.1789498193.A.D5E.html": {
+      "title": "[推薦] 網球 碩三看WTA 瓜達拉哈拉 0916",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789498193.A.D5E.html",
+      "ts": 1789498193
     },
-    "/bbs/SportLottery/M.1789466626.A.D8E.html": {
-      "title": "[LIVE] 足球 科威特 @ 越南 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466626.A.D8E.html",
-      "ts": 1789466626
+    "/bbs/SportLottery/M.1789498561.A.D87.html": {
+      "title": "[LIVE] 英聯盃 熱刺 @ 利物浦 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789498561.A.D87.html",
+      "ts": 1789498561
     },
-    "/bbs/SportLottery/M.1789466859.A.209.html": {
-      "title": "[LIVE] 棒球 中信兄弟 5:1 台鋼雄鷹 單場",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789466859.A.209.html",
-      "ts": 1789466859
+    "/bbs/SportLottery/M.1789506802.A.875.html": {
+      "title": "[推薦] 足球 南美球會盃亂推",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789506802.A.875.html",
+      "ts": 1789506802
     },
-    "/bbs/SportLottery/M.1789473430.A.339.html": {
-      "title": "[LIVE] 亞冠 武里南聯1:1柔佛DT 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789473430.A.339.html",
-      "ts": 1789473430
+    "/bbs/SportLottery/M.1789513952.A.B02.html": {
+      "title": "[LIVE] 棒球 老虎 藍鳥 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789513952.A.B02.html",
+      "ts": 1789513952
     },
-    "/bbs/SportLottery/M.1789479283.A.379.html": {
-      "title": "[LIVE] 足球 阿爾賈齊拉@錫爾詹戈爾 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789479283.A.379.html",
-      "ts": 1789479283
-    },
-    "/bbs/SportLottery/M.1789481192.A.BB2.html": {
-      "title": "[LIVE] 排球 瑞士VS拉脫維亞 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789481192.A.BB2.html",
-      "ts": 1789481192
-    },
-    "/bbs/SportLottery/M.1789483205.A.F50.html": {
-      "title": "[推薦] 足球　阿爾納斯爾 vs 阿爾艾因",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789483205.A.F50.html",
-      "ts": 1789483205
-    },
-    "/bbs/SportLottery/M.1789485185.A.E4C.html": {
-      "title": "[推薦] 0916單場MLB",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789485185.A.E4C.html",
-      "ts": 1789485185
+    "/bbs/SportLottery/M.1789514540.A.2C9.html": {
+      "title": "[官方] 115-09-16 單場場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789514540.A.2C9.html",
+      "ts": 1789514540
     }
   }
 }
