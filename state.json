@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789533538,
+  "board_last_ts": 1789542048,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -51,6 +51,11 @@
       "title": "[LIVE] 亞運男足 伊朗3:1阿拉伯聯合大公國 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789533538.A.E6B.html",
       "ts": 1789533538
+    },
+    "/bbs/SportLottery/M.1789542048.A.091.html": {
+      "title": "[推薦] 網球「天九牌」瓦倫西亞Papamichail",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789542048.A.091.html",
+      "ts": 1789542048
     }
   }
 }
