@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789520420.A.546.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789506802.A.875.html": {
       "title": "[推薦] 足球 南美球會盃亂推",
