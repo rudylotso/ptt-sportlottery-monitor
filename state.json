@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789546931,
+  "board_last_ts": 1789551879,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -51,6 +51,11 @@
       "title": "[推薦] 網球 WTA瓦倫西亞 - Zeng（X）",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789546931.A.A73.html",
       "ts": 1789546931
+    },
+    "/bbs/SportLottery/M.1789551879.A.E87.html": {
+      "title": "[LIVE] 亞冠 柏雷素爾@全北現代汽車 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789551879.A.E87.html",
+      "ts": 1789551879
     }
   }
 }
