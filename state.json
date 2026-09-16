@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789520239,
+  "board_last_ts": 1789520420,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -46,6 +46,11 @@
       "title": "[推薦] 籃球 亞運 - Zeng",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789520239.A.C03.html",
       "ts": 1789520239
+    },
+    "/bbs/SportLottery/M.1789520420.A.546.html": {
+      "title": "[LIVE] 籃球 南韓VS約旦 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789520420.A.546.html",
+      "ts": 1789520420
     }
   }
 }
