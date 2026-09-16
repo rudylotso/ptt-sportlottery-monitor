@@ -20,20 +20,8 @@
       "last_ts": 0
     }
   },
-  "push_notified": {
-    "/bbs/SportLottery/M.1789520420.A.546.html": 2
-  },
+  "push_notified": {},
   "tracked_articles": {
-    "/bbs/SportLottery/M.1789520239.A.C03.html": {
-      "title": "[推薦] 籃球 亞運 - Zeng",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789520239.A.C03.html",
-      "ts": 1789520239
-    },
-    "/bbs/SportLottery/M.1789520420.A.546.html": {
-      "title": "[LIVE] 籃球 南韓VS約旦 場中",
-      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789520420.A.546.html",
-      "ts": 1789520420
-    },
     "/bbs/SportLottery/M.1789521528.A.B88.html": {
       "title": "[閒聊] 台灣英雄來奪金運彩乎你抽現金9/16-10/15",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789521528.A.B88.html",
