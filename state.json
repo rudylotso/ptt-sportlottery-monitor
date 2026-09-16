@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789521528,
+  "board_last_ts": 1789522532,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -56,6 +56,11 @@
       "title": "[閒聊] 台灣英雄來奪金運彩乎你抽現金9/16-10/15",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789521528.A.B88.html",
       "ts": 1789521528
+    },
+    "/bbs/SportLottery/M.1789522532.A.672.html": {
+      "title": "[推薦] 棒球 MLB - Zeng",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789522532.A.672.html",
+      "ts": 1789522532
     }
   }
 }
