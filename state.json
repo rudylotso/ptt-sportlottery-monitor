@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789542048,
+  "board_last_ts": 1789542204,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -56,6 +56,11 @@
       "title": "[推薦] 網球「天九牌」瓦倫西亞Papamichail",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789542048.A.091.html",
       "ts": 1789542048
+    },
+    "/bbs/SportLottery/M.1789542204.A.4DC.html": {
+      "title": "[LIVE] 籃球 沙烏地阿拉伯VS中國 場中",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789542204.A.4DC.html",
+      "ts": 1789542204
     }
   }
 }
