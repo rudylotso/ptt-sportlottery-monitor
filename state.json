@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789514540,
+  "board_last_ts": 1789517417,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -48,6 +48,11 @@
       "title": "[官方] 115-09-16 單場場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789514540.A.2C9.html",
       "ts": 1789514540
+    },
+    "/bbs/SportLottery/M.1789517417.A.708.html": {
+      "title": "[推薦] 足球 南球盃淘汰賽",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789517417.A.708.html",
+      "ts": 1789517417
     }
   }
 }
