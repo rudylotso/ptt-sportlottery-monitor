@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789551879,
+  "board_last_ts": 1789553336,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -53,6 +53,11 @@
       "title": "[LIVE] 亞冠 柏雷素爾@全北現代汽車 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789551879.A.E87.html",
       "ts": 1789551879
+    },
+    "/bbs/SportLottery/M.1789553336.A.9DB.html": {
+      "title": "[LIVE] 棒球 富邦悍將@味全龍 單場",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789553336.A.9DB.html",
+      "ts": 1789553336
     }
   }
 }
