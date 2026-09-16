@@ -20,7 +20,9 @@
       "last_ts": 0
     }
   },
-  "push_notified": {},
+  "push_notified": {
+    "/bbs/SportLottery/M.1789551879.A.E87.html": 1
+  },
   "tracked_articles": {
     "/bbs/SportLottery/M.1789531086.A.FC2.html": {
       "title": "[推薦] 籃球 亞運 - Zeng（O）",
