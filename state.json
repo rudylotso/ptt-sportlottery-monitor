@@ -1,5 +1,5 @@
 {
-  "board_last_ts": 1789542204,
+  "board_last_ts": 1789545977,
   "accounts": {
     "lotterywin": {
       "last_ts": 1789401448
@@ -46,6 +46,11 @@
       "title": "[LIVE] 籃球 沙烏地阿拉伯VS中國 場中",
       "url": "https://www.ptt.cc/bbs/SportLottery/M.1789542204.A.4DC.html",
       "ts": 1789542204
+    },
+    "/bbs/SportLottery/M.1789545977.A.1C6.html": {
+      "title": "[推薦] 棒球[很明顯]0917MLB",
+      "url": "https://www.ptt.cc/bbs/SportLottery/M.1789545977.A.1C6.html",
+      "ts": 1789545977
     }
   }
 }
