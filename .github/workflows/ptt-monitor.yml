@@ -30,6 +30,7 @@ jobs:
           ACCOUNTS_JSON: ${{ secrets.ACCOUNTS_JSON }}
 
       - name: 儲存最新的 state.json
+        if: always()  # 上一步（python ptt_monitor.py）失敗時也要跑，讓失敗次數計數能存檔延續到下一輪
         run: |
           if ! git diff --quiet -- state.json; then
             git config user.name "github-actions[bot]"

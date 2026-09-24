@@ -17,7 +17,14 @@ CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 STATE_PATH = os.path.join(BASE_DIR, "state.json")
 
 PTT_URL = "https://www.ptt.cc"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+}
 COOKIES = {"over18": "1"}
 TAIPEI = ZoneInfo("Asia/Taipei")
 
@@ -237,6 +244,10 @@ def check_board_comments(config, state, webhook_url, is_first_run):
                     acc_state["last_ts"] = max(acc_state["last_ts"], max(account_ts))
 
 
+FAILURE_ALERT_THRESHOLD = 2  # 連續失敗達這個次數才發警告，避免單次偶發連線錯誤也發通知洗版
+FAILURE_ALERT_REPEAT_INTERVAL = 36  # 若持續失敗超過門檻，之後每隔這麼多次執行再提醒一次（約 3 小時，以 5 分鐘一次排程估算）
+
+
 def main():
     config = load_config()
 
@@ -248,8 +259,29 @@ def main():
     webhook_url = load_webhook_url()
     state = load_state()
 
-    check_account_posts(config, state, webhook_url, is_first_run)
-    check_board_comments(config, state, webhook_url, is_first_run)
+    try:
+        check_account_posts(config, state, webhook_url, is_first_run)
+        check_board_comments(config, state, webhook_url, is_first_run)
+    except Exception as e:
+        n = state.get("consecutive_failures", 0) + 1
+        state["consecutive_failures"] = n
+        if n == FAILURE_ALERT_THRESHOLD or (
+            n > FAILURE_ALERT_THRESHOLD and (n - FAILURE_ALERT_THRESHOLD) % FAILURE_ALERT_REPEAT_INTERVAL == 0
+        ):
+            msg = (
+                f"⚠️ PTT 監控工具連續 {n} 次執行失敗\n"
+                f"最新錯誤：{type(e).__name__}: {e}\n"
+                f"請檢查 GitHub Actions log"
+            )
+            send_discord(webhook_url, msg)
+            print(f"[alert] {msg}")
+        save_state(state)  # 就算這輪失敗也要存檔，保留失敗次數計數，讓下一輪能接續判斷要不要再提醒
+        raise
+
+    if state.get("consecutive_failures", 0) >= FAILURE_ALERT_THRESHOLD:
+        send_discord(webhook_url, f"✅ PTT 監控工具已恢復正常（先前連續失敗 {state['consecutive_failures']} 次）")
+        print("[recover] 已恢復正常，發送恢復通知")
+    state["consecutive_failures"] = 0
 
     save_state(state)
 
